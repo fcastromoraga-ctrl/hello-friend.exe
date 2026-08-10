@@ -20,7 +20,7 @@ metodologías y las restricciones ya están activos.
 
 | Marca | Estado | Ruta |
 |---|---|---|
-| **MACHBANK** (`machbank.cl`) | Diagnóstico preliminar — brechas abiertas | [`clientes/machbank/`](clientes/machbank/) |
+| **MACHBANK** (`machbank.cl`) | Diagnóstico + lectura crítica del plan de marketing 2026. 9 propuestas esperando validación. | [`clientes/machbank/`](clientes/machbank/) |
 
 ## Flujo de trabajo por marca
 
