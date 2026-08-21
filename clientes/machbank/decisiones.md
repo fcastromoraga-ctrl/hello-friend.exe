@@ -66,6 +66,18 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-08-10 — Propósito vigente confirmado (mayo 2026)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | El propósito vigente de MACHBANK, desde mayo 2026, es: *"Ser el banco que las personas eligen en cada etapa de su vida, porque entendemos sus necesidades y construimos lo que nadie más se atreve."* |
+| **Fuente previa** | Ya estaba en el brief "Propuesta de Valor 2026" (leído 2026-08-10), pero sin fecha confirmada hasta ahora. |
+| **Entregable** | `06-brand-core.md`. |
+| **Hallazgo 1** | Reemplaza al propósito del Brandbook (dic-2025/ene-2026), que **nunca se actualizó**. Los valores y arquetipos de `03-voz.md` están derivados del propósito viejo. |
+| **Hallazgo 2 — el más importante** | *"Construimos lo que nadie más se atreve"* (mayo 2026) es la misma idea que el territorio "historial crediticio para quien no lo tiene", derivado independientemente de datos de mercado en `01-diagnostico.md` §1.3 (agosto 2026). **La compañía ya escribió la ambición correcta tres meses antes del diagnóstico.** Se validan mutuamente, condicionado a N2. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
@@ -76,7 +88,7 @@ corrección.
 | P1 | Abandonar la disputa por el liderazgo en "billetera digital" y reencuadrar la competencia. | `01` §1.2 | ⏳ Sin validar |
 | P2 | Descartar "primer banco 100% digital" como eje — es claim de cronología, no de posición. | `01` §1.3 | ⏳ Sin validar |
 | P3 | Descartar la gratuidad y los beneficios como diferenciador central; reencuadrar como transparencia radical. | `01` §1.3 · `02` §C.1 | ⏳ Sin validar — **reforzada por la pres.** |
-| P4 | Adoptar "historial crediticio para quien no lo tiene" como territorio de marca. | `01` §1.3 · `02` §E | ⏳ Sin validar — **requiere respuesta a N2** |
+| P4 | Adoptar "historial crediticio para quien no lo tiene" como territorio de marca. | `01` §1.3 · `02` §E · **reforzada por `06` §2.2: coincide con el propósito de mayo 2026** | ⏳ Sin validar — **requiere respuesta a N2** |
 | P5 | Arquitectura de dos niveles: "MACH" conversacional, "MACHBANK" institucional. | `01` §1.5 | ⏳ Sin validar |
 | P6 | Resolver la contradicción "agilidad fintech + 85 años de Bci" con jerarquía explícita. | `01` §1.5 | ⏳ Sin validar |
 | **P7** | **Reencuadrar el hito de agosto: de "tono y estilo renovado" a corrección del modelo de medios + territorio propio.** | `02` §F | ⏳ Sin validar — **decisión más urgente, hito vence en agosto** |
