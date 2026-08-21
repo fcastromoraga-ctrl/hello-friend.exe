@@ -48,6 +48,24 @@ agosto ("tono y estilo renovado") ataca un síntoma.
 
 ---
 
+## 2026-08-10 — Incorporación de Kantar Q2 2026 y campaña "Todo, fácil." (V3)
+
+| Campo | Detalle |
+|---|---|
+| **Decisión** | Incorporar el Brand Guidance Kantar Q2 2026, el brief oficial de Propuesta de Valor, la campaña V3, los marcos del Brand Strategist Bci y la sesión con Gemini. |
+| **Entregable** | `05-lectura-kantar-y-campana.md`. |
+| **Hallazgo principal** | **La emergencia está mal ubicada.** Kantar dice que la relevancia en no clientes está estable o creciendo, y que el problema está en los propios clientes: imagen promedio 57 → 48 en un año. La campaña está construida para no clientes. |
+| **Corrección a análisis previos** | En `02` leí "clientes bien, no clientes mal" desde la presentación interna. Kantar invierte esa lectura: relevancia en clientes alta pero **imagen colapsando**. La relevancia es indicador rezagado. |
+| **Confirmación** | Tenpo recategorizó su percepción a Neo Banco con campaña sostenida y sin cambiarse el nombre; MACHBANK se cambió el nombre y sigue percibida como billetera. Confirma con dato duro la hipótesis de `01` §1.1. |
+
+### El número que decide el objetivo N°1
+
+Asociación a "Depósito de sueldo" entre clientes de cada marca:
+**MACHBANK 39% → 27%** · **Mercado Pago 35% → 47%**. Veinte puntos de brecha en el
+indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
@@ -69,6 +87,11 @@ corrección.
 | **P12** | **Elevar "A toda prueba" a primer valor** y bajar o reformular "Cliente al centro" (cliché que no diferencia). | `03` §B.5 | ⏳ Sin validar |
 | **P13** | **Alinear la audiencia del Brandbook al Segmento Clásico** ($650K–$1,6MM) en reemplazo de "diversa y transversal". | `03` §B.6 | ⏳ Sin validar |
 | **P14** | **Proteger e intensificar la Flecha (∧) y el morado #6200EE** como activos distintivos. No tocar el sistema visual. | `03` §C | ⏳ Sin validar |
+| **P16** | **Separar la emergencia de clientes de la campaña de adquisición.** El colapso de imagen y de asociaciones de uso puede ser problema de producto post-migración, no de comunicación. | `05` §D, §H.1 | ⏳ Sin validar — **verificar antes de gastar septiembre** |
+| **P17** | **Invertir el énfasis del claim "Todo, fácil.":** que mande "Todo" (capacidad) y que "fácil" pase a principio de ejecución. "Fácil" es el atributo del líder (MP 70 vs MB 56) y refuerza el encuadre de billetera que la campaña quiere romper. | `05` §F.2, §F.3, §H.2 | ⏳ Sin validar |
+| **P18** | **Adoptar el crédito como RTB principal y prueba de categoría.** Único indicador donde MACHBANK lidera (39% vs MP 24% vs Tenpo 21%). Una prepago no presta: rompe el prejuicio por definición. | `05` §E, §H.2 | ⏳ Sin validar |
+| **P19** | **Reemplazar o complementar el RTB "respaldo de Bci"**, que se apoya en una percepción en caída significativa (respaldo financiero 58 → 46). | `05` §F.5 | ⏳ Sin validar |
+| **P20** | **Conservar de la V3:** modularidad del claim, sueldo como multiplicador, identidad sonora propia (comprometida por años), estructura de dos públicos, códigos anclados al brandbook. | `05` §H.4 | ⏳ Sin validar |
 | **P15** | **Desarrollar "Creciste, crecimos"** como semilla de territorio — única línea del Brandbook con idea propia, compatible con el white space de crédito. | `03` §B.4 | ⏳ Sin validar |
 
 ---
@@ -86,4 +109,8 @@ corrección.
 | R7 | ~~Proponer "tono renovado" sin conocer el Brandbook~~ | ✅ **Resuelto** | Brandbook incorporado 2026-08-10. El riesgo se materializó: el hito **sí** contradice al Brandbook. Ver R8. |
 | **R8** | **Reinicio del reloj de activos distintivos por segunda vez en 18 meses** (rebrand ene-2025 → Brandbook ene-2026 → tono renovado ago-2026). Ningún código alcanza a fijarse en memoria. Efecto acumulativo sobre CAC. | 🔴 **Crítica** | P10 |
 | **R9** | **El sistema de arquetipos contradice el objetivo N°1.** Explorador + Héroe no entregan fiabilidad; la principalidad se construye sobre fiabilidad. Brecha Abono Rem 62K vs 100K. | 🔴 **Alta** | P11 |
+| **R11** | **Colapso de imagen entre clientes: −9 pts de promedio en un año.** La relevancia de 91% que tranquiliza al plan es indicador rezagado. Sin corregir, la relevancia cae después. | 🔴 **Crítica** | P16 |
+| **R12** | **La migración prepago → cuenta corriente pudo deteriorar el uso cotidiano.** Retiro en cajero 42→19, débito presencial 48→30, BIP 31→21, concentrado en Q2 2026. Si es producto, ninguna campaña lo arregla. *(Atención: base Q2 más pequeña y sin abril — verificar magnitud.)* | 🔴 **Crítica** | N11 |
+| **R13** | **Mercado Pago gana el depósito de sueldo por 20 puntos** entre bases propias, en direcciones opuestas. Es el indicador que sostiene la principalidad. | 🔴 **Alta** | P18 |
+| **R14** | **Cuarto reinicio en 18 meses** si se abandona "Toca MACHBANK" sin comprometer el reemplazo por años. | 🟠 Media | P10, H.5 |
 | **R10** | El Brandbook define la audiencia como "diversa y transversal" mientras el plan opera sobre Segmento Clásico. Sin restricción creativa, la ejecución seguirá dispersa por diseño. | 🟠 Media | P13 |
