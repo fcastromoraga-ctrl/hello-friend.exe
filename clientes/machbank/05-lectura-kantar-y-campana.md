@@ -125,6 +125,14 @@ De los ~21 indicadores medidos, **MACHBANK lidera exactamente uno**:
 
 La sesión con Gemini aporta la capa emocional correcta del mismo territorio: *"ven el cupo que les da el banco como la principal señal de que sí son valorados como clientes"*. Si esa afirmación tiene fuente real —hay que pedirla, ver §H— es el insight más accionable del set completo.
 
+**Nota (2026-08-10):** este hallazgo —MACHBANK ya presta, y eso prueba que es
+un banco— es **distinto** del territorio "historial crediticio para quien no
+lo tiene" que se propuso en `01-diagnostico.md` §1.3 y que Branding confirmó
+descartado (scoring tradicional, sin desarrollo de producto este año). Este
+hallazgo no depende de esa capacidad: usa el crédito **ya existente** como
+prueba, no promete una evaluación crediticia nueva o mejorada. Sigue siendo
+válido y es la base de H.2 más abajo.
+
 ---
 
 ## F. Evaluación de la campaña "Todo, fácil."
@@ -280,6 +288,6 @@ Si se reemplaza, el reemplazo —incluido el audio-logo— tiene que comprometer
 |---|---|---|
 | N10 | ¿Existe la "profundización del segmento Clásico" citada en la sesión con Gemini (déficit mensual, crédito como capital de subsistencia, el cupo como señal de valoración)? ¿Con qué fuente? | Es el insight más accionable del set. Sin fuente no se puede usar. |
 | N11 | Volumen transaccional por tipo Q1 vs Q2 2026 y tickets de soporte del período de migración | Confirma o descarta la hipótesis §D. **Es la pregunta más urgente de todas.** |
-| N12 | ¿La originación de crédito usa data transaccional propia? *(N2, sigue abierta)* | Determina el alcance del territorio de crédito |
+| N12 | ~~¿La originación de crédito usa data transaccional propia?~~ | ✅ **Respondida (2026-08-10) por Branding: no, scoring tradicional, sin desarrollo previsto este año.** El territorio de "historial crediticio" queda descartado — ver `01` §1.3, `04` §D2. El hallazgo de §E (crédito ya existente como prueba de banco) no depende de esto y sigue vigente. |
 | N13 | ¿Qué % del presupuesto de septiembre alcanza a no clientes? *(N1, sigue abierta)* | Presencia Mental no se mueve con medios propios |
 | N14 | ¿La caída de asociación a Bci es deliberada (estrategia de independización) o no buscada? | Cambia si el RTB de respaldo se refuerza o se reemplaza |

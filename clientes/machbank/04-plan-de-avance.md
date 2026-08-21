@@ -76,24 +76,23 @@ usar*, *va a funcionar*— son condiciones de entrada a la categoría. El líder
 mismo solo llega a 22–27% en ellos: **nadie los posee**, porque no se fijan en
 memoria. Perseguir al líder ahí es comprar share of voice en su terreno.
 
-#### Territorio primario — *condicionado*
+#### Territorio descartado
 
-> **El único banco que convierte tu forma de gastar en el historial crediticio
-> que nunca te dieron.**
+> ~~El único banco que convierte tu forma de gastar en el historial crediticio
+> que nunca te dieron.~~
 
 | Verificación | Estado |
 |---|---|
 | Vacío | ✅ Nadie en la categoría lo reclama |
 | Relevante | ✅ Segmento Clásico $650K–$1,6MM es el tramo peor servido en historial |
 | Sostenible | ✅ 4,2M de data transaccional + balance Bci + línea de crédito operando |
-| **Verdadero** | ⚠️ **Depende de N2** |
+| **Verdadero** | 🔴 **No. N2 respondida por Branding (2026-08-10): scoring tradicional, sin desarrollo de producto previsto este año.** |
 
-**Condición dura:** solo es válido si la originación usa efectivamente data
-transaccional propia. Si el scoring es tradicional, el claim es falso y hay que
-cambiar el producto o cambiar el territorio. **Preguntar a Riesgo antes de
-avanzar.**
+Cumplía tres de cuatro condiciones — pero fallaba la más básica. Se descarta
+como territorio, no solo como copy. Queda como aprendizaje de método: un
+white space de mercado no alcanza si el producto no puede sostenerlo.
 
-#### Territorio alternativo — *si N2 sale negativo*
+#### Territorio vigente — activado tras la respuesta a N2
 
 > **Creciste, crecimos.** El banco que estuvo desde tu primera transferencia y
 > no se cae cuando más lo necesitas.
@@ -105,8 +104,9 @@ Combina dos elementos que ya existen en la casa:
 - *"A toda prueba"* — el valor que ataca directamente el atributo peor evaluado
   (11% vs 22%).
 
-Es menos diferenciador que el primario, pero **es verdadero hoy sin cambiar
-nada** y sirve directo a la principalidad.
+Es menos ambicioso que el territorio de crédito descartado, pero **es
+verdadero hoy sin cambiar nada** y sirve directo a la principalidad. Ahora es
+el territorio de trabajo — no una alternativa de respaldo.
 
 ---
 

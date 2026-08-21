@@ -163,7 +163,13 @@ brecha de 38K es exactamente lo que los beneficios no pueden cerrar.
 
 ---
 
-## E. Convergencia con el diagnóstico previo
+## E. Convergencia con el diagnóstico previo — descartada
+
+**Corrección (2026-08-10):** el territorio de abajo fue descartado por
+Branding — scoring tradicional, sin desarrollo de producto este año. Ver
+`01-diagnostico.md` §1.3 y `04-plan-de-avance.md` §D2 para el territorio de
+reemplazo ("Creciste, crecimos"). Se conserva el razonamiento original como
+registro de método.
 
 El territorio propuesto en `01-diagnostico.md` §1.3 —**historial crediticio para
 quien no lo tiene**— resulta reforzado por esta presentación:

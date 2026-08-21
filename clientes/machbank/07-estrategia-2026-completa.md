@@ -25,7 +25,7 @@ más completa de esa misma línea de trabajo, no una estrategia distinta.
 | N4 — ¿Qué define el Brandbook sobre tono? | 🔴 | Sigue sin resolver, pero aparece una posible salida — ver §D.2. |
 | N6 — ¿Hay evidencia de que el problema es el tono? | 🔴 | Este documento **no propone** "renovar el tono" como hito — ver §D.2. Reduce la urgencia de esa pregunta, no la responde. |
 | Rol y mandato del usuario (`00-brief.md` brecha 2) | 🟡 Parcial | Sin cambio — este documento no lo aclara. |
-| N2 — ¿Originación de crédito con data propia? | 🔴 Crítica | **Sigue abierta.** Ahora bloquea tres cosas a la vez: el territorio (P4), el propósito (`06-brand-core.md`) y esta estrategia — ver §C.2. |
+| N2 — ¿Originación de crédito con data propia? | ✅ Respondida (2026-08-10) | **Negativo.** Scoring tradicional, sin desarrollo previsto este año. Descarta el territorio "historial crediticio" — ver §C.2. |
 | N3 — Retención de cohorte promocional | 🔴 | Sin cambio. Se vuelve **más urgente** — ver §C.3. |
 
 **En una frase: cierra parcialmente una brecha operativa (alcance de medios) y
@@ -111,9 +111,23 @@ el resto del diagnóstico queda expuesta. **Es el único hallazgo de esta
 lectura que recomendaría verificar antes de la reunión, no solo dejarlo
 anotado.**
 
-### C.2 🟢 Convergencia triple sobre crédito como territorio
+### C.2 🔴 Convergencia triple — no se sostuvo, con matiz
 
-Tercera fuente independiente que apunta al mismo lugar. Ya iban dos:
+**Corrección (2026-08-10):** Branding respondió N2 — negativo. El territorio
+"historial crediticio" queda descartado (`01` §1.3, `04` §D2, `06` §2.2).
+
+**Matiz importante:** las tres fuentes de abajo *sí* convergían realmente en
+algo — el acceso a crédito como prioridad —, pero mi interpretación las
+llevó a una promesa específica (construir historial vía data transaccional
+propia) que ninguna de las tres afirmaba literalmente. La lámina 53/56 de
+este mismo documento (fuente 3) dice *"el objetivo principal está en el
+acceso a crédito"* — eso es cierto y sigue vigente: MACHBANK ya presta y
+debe comunicarlo (ver `05-lectura-kantar-y-campana.md` §E, nota de
+2026-08-10). Lo que no se sostiene es el salto de *"accede a crédito"* a
+*"construye historial crediticio para quien no lo tiene"* — ese último paso
+era mío, no de las fuentes.
+
+Registro original, con la corrección ya marcada:
 
 | # | Fuente | Cuándo | Qué dice |
 |---|---|---|---|

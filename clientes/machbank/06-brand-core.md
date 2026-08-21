@@ -51,9 +51,28 @@ sobreviva a un cambio de producto — el test de validez del framework.
 
 ---
 
-## 2.2 El hallazgo: el propósito ya apunta al territorio que el diagnóstico encontró por otra vía
+## 2.2 El hallazgo — corregido: la convergencia no se sostuvo
 
-Esto es lo más importante de esta actualización.
+**Corrección (2026-08-10):** Branding respondió N2/N12: el scoring de
+MACHBANK es tradicional y no incorporará data transaccional propia este año.
+La convergencia que describo abajo era real como coincidencia de lenguaje,
+pero **no pasó el test de verdad** — la condición que yo mismo marqué al
+final de esta sección (§ "Condición que sigue sin cambiar") se cumplió, en la
+dirección negativa. Dejo el razonamiento original completo porque el error
+es instructivo: encontrar que dos fuentes independientes dicen lo mismo es
+evidencia de que la idea es *atractiva*, no de que sea *verdadera*. Eso solo
+lo confirma el producto.
+
+**Lo que no cambia:** el propósito de mayo sigue vigente y no necesita
+reescribirse — *"construimos lo que nadie más se atreve"* no estaba casada
+con el crédito específicamente, esa conexión fue una interpretación mía.
+Ahora necesita una prueba distinta. El territorio de reemplazo
+—`04-plan-de-avance.md` §D2, "Creciste, crecimos" + fiabilidad— es candidato:
+es una relación sostenida en el tiempo, verdadera hoy, y coherente con
+*"elegir en cada etapa de la vida"*. Menos audaz que la promesa de crédito,
+pero real.
+
+Razonamiento original, sin editar:
 
 En `01-diagnostico.md` §1.3 propuse, a partir de datos de mercado y de Kantar,
 un territorio de marca:
@@ -86,11 +105,8 @@ que agosto y septiembre pueden llenar — si el foco no se va a "tono" (ver
 `04-plan-de-avance.md` D4) y a "fácil" (ver `05-lectura-kantar-y-campana.md`
 §F.2–F.3), que son ambos more terreno del líder, no terreno propio.
 
-**Condición que sigue sin cambiar:** todo esto depende de N2 — si la
-originación de crédito usa data transaccional propia. Es la pregunta que
-bloquea, ahora, tanto el territorio (P4) como la validez del propósito mismo.
-Si la respuesta es negativa, *"construimos lo que nadie más se atreve"* es una
-frase sin sustento, y hay que decírselo a quien la escribió.
+~~**Condición que sigue sin cambiar:** todo esto depende de N2...~~ —
+**resuelta, negativa.** Ver corrección al inicio de esta sección.
 
 ---
 
@@ -102,7 +118,7 @@ frase sin sustento, y hay que decírselo a quien la escribió.
 | Misión | 🔴 No hay input — puede derivar del propósito una vez resuelto §2.1 |
 | Valores | 🟡 Existen en el Brandbook (`03-voz.md` §A), pero derivados del propósito **viejo**. Revisar si siguen sosteniendo el propósito de mayo. |
 | UVP formal | 🔴 No hay input estructurado |
-| "The Only" (Neumeier) | 🟡 Hipótesis en `01-diagnostico.md` §1.7, pendiente de validación con N2 |
+| "The Only" (Neumeier) | 🔴 Hipótesis original descartada (`01-diagnostico.md` §1.7). Pendiente reformular sobre el territorio "Creciste, crecimos" (`04` §D2). |
 
 ---
 

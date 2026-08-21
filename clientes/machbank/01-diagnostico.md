@@ -76,9 +76,19 @@ cuando aparece alguien igual de gratis y más nuevo.
 power estructuralmente bajo. Eso es exactamente el problema que enfrenta un banco
 digital cuando necesita monetizar vía crédito.
 
-### ✅ White space real: **historial crediticio para quien no lo tiene**
+### 🔴 White space descartado: **historial crediticio para quien no lo tiene**
 
-Este es el único territorio que cumple las tres condiciones:
+**Corrección (2026-08-10):** el líder de Branding confirma que, por la
+naturaleza del scoring actual de MACHBANK, esta promesa **no se puede
+cumplir** — y no está en el horizonte de desarrollo de producto para este
+año. N2 queda respondida: negativo. Este territorio queda **descartado**,
+no solo condicionado. Se mantiene el análisis original abajo como registro
+de por qué parecía el territorio correcto y como aprendizaje de método —
+cumplía las tres condiciones de mercado, pero fallaba la cuarta, la más
+básica: **ser verdadero**. Ver el territorio de reemplazo en
+`04-plan-de-avance.md` §D2 (alternativo) y en `decisiones.md`.
+
+Este era el único territorio que cumplía las tres condiciones de mercado:
 
 | Condición | Verificación |
 |---|---|
@@ -157,12 +167,16 @@ y regulatorio. Es una arquitectura de dos niveles, no un retroceso.
 
 ---
 
-## 1.7 Hipótesis de posicionamiento a validar
+## 1.7 Hipótesis de posicionamiento — descartada
 
-Preliminar. No es un entregable cerrado — requiere las brechas 1–4.
+**Corrección (2026-08-10):** confirmado que falla el test de verdad. Ver nota
+en §1.3.
 
-> **El único banco que convierte tu forma de gastar en el historial crediticio
-> que nunca te dieron.**
+> ~~El único banco que convierte tu forma de gastar en el historial crediticio
+> que nunca te dieron.~~ — **descartada, scoring tradicional, sin desarrollo
+> de producto previsto este año.**
+
+Se conserva el razonamiento original como registro:
 
 Pasa el test de verdad únicamente si MACHBANK usa efectivamente su data
 transaccional para originar crédito a personas sin historial en el sistema

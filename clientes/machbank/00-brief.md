@@ -108,10 +108,27 @@ tres casos (56 vs 65 · 63 vs 69 · 59 vs 61).
 | # | Pregunta | Por qué importa |
 |---|---|---|
 | N1 | ¿Qué % del presupuesto ago–dic alcanza a alguien que **no** tiene la app? | Es la causa raíz de la caída de 3 años. Si sigue bajo, la tendencia continúa en 2027. |
-| N2 | ¿La originación de crédito usa data transaccional propia o scoring tradicional? | Determina si el territorio "historial crediticio" es válido o falso. |
+| N2 | ~~¿La originación de crédito usa data transaccional propia o scoring tradicional?~~ | ✅ **Respondida 2026-08-10 por el líder de Branding: scoring tradicional, sin desarrollo de producto previsto este año.** Descarta el territorio "historial crediticio" en `01`, `04`, `06`, `07`. |
 | N3 | ¿Se mide la retención de la cohorte captada por promoción por separado? | Sin eso, el forecast de MAU esconde el costo real de los beneficios. |
 | N4 | ¿Qué define el Brandbook de enero 2026 sobre tono? | No se puede proponer "tono renovado" en agosto sin saber qué se aprobó en enero. |
 | N5 | ¿Quién es el "líder" del tracking — Mercado Pago, Tenpo, o un banco tradicional? | Cambia por completo la lectura competitiva. |
+
+## 6bis. Marcos confirmados por el líder de Branding (2026-08-10)
+
+Cinco marcos, aplicables a toda propuesta y entregable, no solo a la
+licitación de campaña:
+
+1. Reposicionar a MACHBANK.
+2. Hablarle al Segmento Clásico en su totalidad — no fragmentar en sub-arquetipos.
+3. Definir códigos visuales propios, de uso consistente full-funnel.
+4. Contar la propuesta de valor de forma concreta (producto por producto y servicio por servicio).
+5. Llamar la atención y ganar visibilidad entre los no clientes.
+
+Más dos mandatos de ejecución: **conectar con las preocupaciones y
+motivaciones reales del Segmento Clásico** (no solo con su perfil
+demográfico), y **velocidad, mensaje simple y directo** — mandato de forma,
+no licencia para liderar con "fácil de usar" como atributo de producto (ver
+`01-diagnostico.md` §1.3 sobre por qué ese atributo es terreno del líder).
 
 ## 7. Documentos del cliente localizados en Drive
 

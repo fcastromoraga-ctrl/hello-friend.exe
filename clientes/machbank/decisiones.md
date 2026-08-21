@@ -124,6 +124,18 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-08-10 — Input del líder de Branding: marcos + territorio de crédito descartado
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Comentarios del líder sobre el brief de licitación: (1) cinco marcos — reposicionar MACHBANK, Segmento Clásico en su totalidad, códigos visuales propios full-funnel, contar la PDV de forma concreta por producto/servicio, llamar la atención de no clientes; (2) dos mandatos nuevos — conectar con preocupaciones/motivaciones del segmento, y velocidad + mensaje simple y directo; (3) **N2 respondida: por la naturaleza del scoring de MACHBANK, la promesa de historial crediticio no se puede cumplir, y no está en el horizonte de desarrollo de producto este año.** |
+| **Efecto — el más importante de la sesión** | **N2 queda cerrada, en negativo.** Esto invalida P4 (territorio "historial crediticio para quien no lo tiene"), que había sido presentado como validado por triple convergencia (propósito de mayo + diagnóstico de mercado + estrategia 2026, en `06` §2.2 y `07` §C.2). Corregido en `01`, `02`, `04`, `05`, `06`, `07` y `decisiones.md` — cada uno con nota de corrección visible, sin borrar el razonamiento original. |
+| **Lo que sobrevive** | El hallazgo de que MACHBANK ya lidera en asociación a crédito de consumo (P18, `05` §E) sigue válido — es un hecho de producto actual, no depende de nueva capacidad de scoring. El territorio de reemplazo, "Creciste, crecimos" + fiabilidad (P15, `04` §D2), pasa de alternativa a territorio de trabajo. |
+| **Entregable urgente** | Brief de licitación reescrito (v1.1): incorpora los 5 marcos como sección explícita, agrega preocupaciones/motivaciones del segmento y el mandato de velocidad/simplicidad, retira la promesa de historial crediticio y agrega restricción explícita de no prometerla. Confirmado con el usuario que v1.0 no había salido a agencias — no requirió addendum de corrección. |
+| **Aprendizaje de método, para dejar escrito** | Un white space que cumple vacío + relevancia + sostenibilidad de mercado igual puede fallar si el producto no lo puede sostener. La convergencia entre fuentes (propósito, diagnóstico, estrategia) es evidencia de que una idea es *atractiva*, no de que sea *verdadera* — eso solo lo confirma el dueño del producto. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
@@ -134,7 +146,7 @@ corrección.
 | P1 | Abandonar la disputa por el liderazgo en "billetera digital" y reencuadrar la competencia. | `01` §1.2 | ⏳ Sin validar |
 | P2 | Descartar "primer banco 100% digital" como eje — es claim de cronología, no de posición. | `01` §1.3 | ⏳ Sin validar |
 | P3 | Descartar la gratuidad y los beneficios como diferenciador central; reencuadrar como transparencia radical. | `01` §1.3 · `02` §C.1 | ⏳ Sin validar — **reforzada por la pres.** |
-| P4 | Adoptar "historial crediticio para quien no lo tiene" como territorio de marca. | `01` §1.3 · `02` §E · **reforzada por `06` §2.2: coincide con el propósito de mayo 2026** | ⏳ Sin validar — **requiere respuesta a N2** |
+| P4 | ~~Adoptar "historial crediticio para quien no lo tiene" como territorio de marca.~~ | `01` §1.3 · `02` §E · `06` §2.2 | ❌ **DESCARTADA (2026-08-10).** N2 respondida negativa por Branding: scoring tradicional, sin desarrollo de producto este año. Reemplazada por P15 ("Creciste, crecimos"), que pasa a ser el territorio de trabajo. |
 | P5 | Arquitectura de dos niveles: "MACH" conversacional, "MACHBANK" institucional. | `01` §1.5 → desarrollo completo en `10-argumento-mach-uso-diario.md` | 🔵 **En preparación para comité de marca** — primer hito del proyecto de gobernanza (`09` §4) |
 | P6 | Resolver la contradicción "agilidad fintech + 85 años de Bci" con jerarquía explícita. | `01` §1.5 | ⏳ Sin validar |
 | **P7** | **Reencuadrar el hito de agosto: de "tono y estilo renovado" a corrección del modelo de medios + territorio propio.** | `02` §F | ⏳ Sin validar — **decisión más urgente, hito vence en agosto** |
@@ -147,7 +159,7 @@ corrección.
 | **P14** | **Proteger e intensificar la Flecha (∧) y el morado #6200EE** como activos distintivos. No tocar el sistema visual. | `03` §C | ⏳ Sin validar |
 | **P16** | **Separar la emergencia de clientes de la campaña de adquisición.** El colapso de imagen y de asociaciones de uso puede ser problema de producto post-migración, no de comunicación. | `05` §D, §H.1 | ⏳ Sin validar — **verificar antes de gastar septiembre** |
 | **P17** | **Invertir el énfasis del claim "Todo, fácil.":** que mande "Todo" (capacidad) y que "fácil" pase a principio de ejecución. "Fácil" es el atributo del líder (MP 70 vs MB 56) y refuerza el encuadre de billetera que la campaña quiere romper. | `05` §F.2, §F.3, §H.2 | ⏳ Sin validar |
-| **P18** | **Adoptar el crédito como RTB principal y prueba de categoría.** Único indicador donde MACHBANK lidera (39% vs MP 24% vs Tenpo 21%). Una prepago no presta: rompe el prejuicio por definición. | `05` §E, §H.2 | ⏳ Sin validar |
+| **P18** | **Adoptar el crédito como RTB principal y prueba de categoría** — usando la oferta **ya existente** (TC, Consumo). Único indicador donde MACHBANK lidera (39% vs MP 24% vs Tenpo 21%). Una prepago no presta: rompe el prejuicio por definición. **No implica ni depende de construir historial crediticio nuevo** — ver P4, descartada. | `05` §E, §H.2 | ⏳ Sin validar — **sigue vigente, acotada a producto actual** |
 | **P19** | **Reemplazar o complementar el RTB "respaldo de Bci"**, que se apoya en una percepción en caída significativa (respaldo financiero 58 → 46). | `05` §F.5 | ⏳ Sin validar |
 | **P20** | **Conservar de la V3:** modularidad del claim, sueldo como multiplicador, identidad sonora propia (comprometida por años), estructura de dos públicos, códigos anclados al brandbook. | `05` §H.4 | ⏳ Sin validar |
 | **P15** | **Desarrollar "Creciste, crecimos"** como semilla de territorio — única línea del Brandbook con idea propia, compatible con el white space de crédito. | `03` §B.4 | ⏳ Sin validar |
