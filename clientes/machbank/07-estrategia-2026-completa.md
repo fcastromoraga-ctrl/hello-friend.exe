@@ -58,7 +58,14 @@ económica.** Es un registro de protección — coherente con el arquetipo
 Cuidador que propuse en `03-voz.md` §B.2, y ausente del Brandbook vigente
 (Explorador + Héroe).
 
-### Una frase de personalidad que ya está en uso
+### Una frase de personalidad propuesta por la agencia creativa
+
+**Corrección (2026-08-10):** el usuario confirma que esta línea, junto con
+"Todo, fácil." y el resto de los claims revisados en `05`, es una **propuesta
+inicial** — de la agencia creativa, en este caso — no una decisión adoptada.
+La única plataforma confirmada y vigente es **"Toca MACHBANK" / "Tocó
+[Necesidad], Toca MACHBANK"**. El resto compite por reemplazarla o
+complementarla, pero ninguna tiene ese estatus todavía.
 
 Aparece repetida en cuatro láminas distintas (33, 45, 79, 84):
 
@@ -66,7 +73,7 @@ Aparece repetida en cuatro láminas distintas (33, 45, 79, 84):
 
 *"Nunca te deja botado"* ataca directo el atributo peor evaluado del tracking
 —*"va a funcionar"*— igual que la propuesta P11 (Héroe + Cuidador). **Es una
-señal fuerte de que el equipo ya está moviéndose hacia fiabilidad**, aunque el
+señal de que al menos una agencia ya está pensando en esa dirección**, aunque el
 Brandbook formal no lo refleje todavía.
 
 ---
@@ -192,21 +199,25 @@ directamente en vez de asumir cuál manda.
 
 ---
 
-## E. Tres taglines compitiendo por el mismo lugar
+## E. Una plataforma confirmada, varias propuestas sin resolver
 
-Entre los documentos revisados hasta ahora hay tres dispositivos de cierre
-distintos, ninguno declarado explícitamente como el vigente:
+**Corrección (2026-08-10):** confirmado por el usuario — de todo lo revisado,
+solo **"Toca MACHBANK"** ("Tocó [Necesidad], Toca MACHBANK") es plataforma
+adoptada y vigente. Todo lo demás son **propuestas iniciales** sin decisión
+tomada, no alternativas en pie de igualdad:
 
-| Tagline | Fuente | Rol |
+| Dispositivo | Estatus | Fuente |
 |---|---|---|
-| **"Toca MACHBANK"** (`Tocó [producto], toca MACHBANK`) | Brandbook + este documento (plataforma "Always On") | Dispositivo de cierre repetido, en uso activo desde antes |
-| **"Todo, fácil."** | Campaña V3 (`05-lectura-kantar-y-campana.md`) | Propuesta de claim nuevo, evaluada como parcialmente desalineada (§F.2–F.3 de ese documento) |
-| **"Somos un banco simple, que te escucha y nunca te deja botado."** | Este documento, 4 láminas | Frase de personalidad / posible tagline, la más alineada con fiabilidad |
+| **"Toca MACHBANK"** | ✅ **Confirmado, vigente** | Brandbook + Estrategia 2026, plataforma "Always On" |
+| "Todo, fácil." | 🔵 Propuesta inicial | Campaña V3 (`05`), evaluada como parcialmente desalineada §F.2–F.3 |
+| "Somos un banco simple, que te escucha y nunca te deja botado." | 🔵 Propuesta inicial, de la agencia creativa | Este documento, 4 láminas |
 
-**No pueden ser los tres al mismo tiempo sin diluirse.** Antes de septiembre
-hay que decidir cuál manda y cuáles quedan como recurso secundario — es
-exactamente el riesgo que señalaba D5 en `04-plan-de-avance.md` sobre
-reiniciar códigos sin gobernanza.
+El problema no es "elegir entre tres opciones válidas" — es más simple:
+**hay una plataforma vigente y ninguna propuesta ha sido evaluada
+formalmente contra ella.** Antes de septiembre hay que decidir si alguna
+reemplaza a "Toca MACHBANK", la complementa, o se descarta — con un proceso
+de decisión explícito, no por acumulación. Es exactamente el vacío de
+gobernanza que señalaba D5 en `04-plan-de-avance.md`.
 
 ---
 

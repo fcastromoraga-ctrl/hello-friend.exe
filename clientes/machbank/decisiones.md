@@ -91,6 +91,17 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-08-10 — Rol confirmado + proyecto de gobernanza "Casa en Orden"
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Rol cambió: el equipo antiguo de MACHBANK marketing pasó a ser performance marketing (ejecución del funnel). El usuario se movió al equipo de branding de Bci — define playbooks de producto, performance marketing ejecuta. Gobierna cinco relaciones: branding/gerencia/Senior Brand Strategist/jefatura, auspicios y eventos (passion points: entretenimiento cotidiano, turismo realista, deporte accesible), proveedores y agencias de medios (reunión semanal miércoles 16h), y el equipo de performance marketing en MACHBANK. |
+| **Corrección de estatus de taglines** | De todo lo revisado en `05` y `07`, **solo "Toca MACHBANK" es plataforma confirmada y vigente.** "Todo, fácil." y "Banco simple que nunca te deja botado" (esta última, de la agencia creativa) son **propuestas iniciales**, no alternativas en pie de igualdad. Corregido en `07` §B, §E. |
+| **Entregables** | `09-proyecto-casa-en-orden.md` (plan de gobernanza ago-dic 2026) y `10-argumento-mach-uso-diario.md` (desarrollo completo de P5). |
+| **Cierra** | Brecha 2 del brief (rol y mandato) — ✅ cerrada. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
@@ -102,7 +113,7 @@ corrección.
 | P2 | Descartar "primer banco 100% digital" como eje — es claim de cronología, no de posición. | `01` §1.3 | ⏳ Sin validar |
 | P3 | Descartar la gratuidad y los beneficios como diferenciador central; reencuadrar como transparencia radical. | `01` §1.3 · `02` §C.1 | ⏳ Sin validar — **reforzada por la pres.** |
 | P4 | Adoptar "historial crediticio para quien no lo tiene" como territorio de marca. | `01` §1.3 · `02` §E · **reforzada por `06` §2.2: coincide con el propósito de mayo 2026** | ⏳ Sin validar — **requiere respuesta a N2** |
-| P5 | Arquitectura de dos niveles: "MACH" conversacional, "MACHBANK" institucional. | `01` §1.5 | ⏳ Sin validar |
+| P5 | Arquitectura de dos niveles: "MACH" conversacional, "MACHBANK" institucional. | `01` §1.5 → desarrollo completo en `10-argumento-mach-uso-diario.md` | 🔵 **En preparación para comité de marca** — primer hito del proyecto de gobernanza (`09` §4) |
 | P6 | Resolver la contradicción "agilidad fintech + 85 años de Bci" con jerarquía explícita. | `01` §1.5 | ⏳ Sin validar |
 | **P7** | **Reencuadrar el hito de agosto: de "tono y estilo renovado" a corrección del modelo de medios + territorio propio.** | `02` §F | ⏳ Sin validar — **decisión más urgente, hito vence en agosto** |
 | **P8** | **Abandonar los tres atributos foco como eje de diferenciación** (universal / fácil / va a funcionar). Son higiene de categoría; el líder mismo solo llega a 22–27%. | `02` §C.3 | ⏳ Sin validar |
@@ -127,6 +138,11 @@ corrección.
 | **P30** | **Formalizar "MACHBANKer" como término de comunidad**, distinto del trato directo "Tú". Activo ya latente en Kantar (MACHERs) y en el Glosario. | `08` §D.2, §F.3 | ⏳ Sin validar |
 | **P31** | **Circular la guía de disculpas del Manual (§9) a Marketing/Campaña**, como precedente interno del tono Cuidador — evita reinventar P11 desde cero. | `08` §C, §F.4 | ⏳ Sin validar — **anunciable mañana** |
 | **P32** | **Unificar Glosario (Marketing) y Manual de Comunicación (UX) en un solo documento vivo, con un dueño único.** | `08` §D, §F.7 | ⏳ Sin validar |
+| **P33** | **Formalizar `decisiones.md` (este expediente) como documento oficial de gobernanza de marca**, no solo material de trabajo. | `09` §3.1 | ⏳ Sin validar |
+| **P34** | **Framework de evaluación de auspicios/eventos contra los 3 passion points** (entretenimiento cotidiano, turismo realista, deporte accesible), con revisión trimestral de portafolio. | `09` §3.2 | ⏳ Sin validar |
+| **P35** | **Plantilla de preparación semanal para la reunión de medios de los miércoles**, con verificación de piso de alcance (D1) como primer punto fijo. | `09` §3.3 | ⏳ Sin validar |
+| **P36** | **Formato estándar de playbook por producto** (contexto, RTB, tono con referencia al Manual de Comunicación, ejemplos, excepciones), piloto con Abono Rem en agosto. | `09` §3.4 | ⏳ Sin validar |
+| **P37** | **Piloto de "MACH" en canal de bajo riesgo** (WhatsApp/push/RRSS) por 4–6 semanas antes de expandir la arquitectura de dos niveles. | `10` §6 | ⏳ Sin validar |
 
 ---
 
