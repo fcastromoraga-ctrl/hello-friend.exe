@@ -113,6 +113,17 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-08-10 — Brief de licitación de campaña (documento externo)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Solicitó un brief para agencias participantes en la licitación de la campaña de Propuesta de Valor Integral / Abono Rem. |
+| **Entregable** | `MACHBANK_Brief_Licitacion_Campana.docx` — enviado directamente al usuario, **no vive en este repositorio** (documento externo, mismo criterio que el playbook de Abono Rem). |
+| **Contenido** | Antecedentes, desafío de negocio, perfil del Segmento Clásico, contexto competitivo, propósito y plataforma vigente ("Toca MACHBANK"), territorio estratégico de crédito como hipótesis a desarrollar, voz y personalidad, aprendizajes a evitar (fácil como diferenciador, mecánicas de sorteo como gancho principal), identidad visual, requerimientos full-funnel/always-on, entregables esperados, criterios de evaluación y timeline con placeholders para completar. |
+| **Filtro aplicado** | Se dejaron fuera del documento externo las contradicciones internas de gobernanza (Lucas/Plata, discrepancia Kantar, N2/N18 sin resolver) — son material de trabajo interno, no apto para compartir con agencias en un proceso competitivo. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
