@@ -147,7 +147,7 @@ de comprometer la plataforma completa.
 
 ## 7. Por qué es el primer hito del proyecto de gobernanza
 
-En `09-proyecto-casa-en-orden.md` §4 esta decisión está puesta en la primera
+En `09-unica-fuente-de-verdad.md` §4 esta decisión está puesta en la primera
 quincena de agosto, antes de los playbooks de producto, por una razón
 concreta: **todo playbook que se escriba después va a tener que nombrar el
 producto en algún registro.** Decidir la arquitectura de nombre primero evita

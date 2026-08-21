@@ -1,9 +1,11 @@
-# MACHBANK — Proyecto "Casa en Orden": Gobernanza de Marca H2 2026
+# MACHBANK — Proyecto "Única Fuente de la Verdad": Gobernanza de Marca H2 2026
 
 **Estado:** `BORRADOR` — estructura propuesta para ejecución agosto-diciembre.
-**Fecha:** 2026-08-10
-**Nombre de trabajo:** tomado de tu propia frase — "reordenamiento de la casa".
-Cámbialo si prefieres otro; lo dejo como referencia interna en este expediente.
+**Fecha:** 2026-08-10 · última revisión 2026-08-10
+**Nombre del proyecto:** renombrado a pedido tuyo — describe mejor el
+problema central que "reordenamiento de la casa" (nombre de trabajo inicial):
+no falta orden por falta de trabajo, falta **un solo lugar donde una decisión
+de marca, una vez tomada, sea la que todos usan.**
 
 ---
 
@@ -151,13 +153,64 @@ Consumo, Tarjeta de Crédito, Ahorro 24/7, etc.):
 **Cadencia:** alineación mensual + canal abierto para dudas de aplicación
 entre reuniones — el playbook debe reducir consultas repetidas, no generarlas.
 
-### 3.5 Senior Brand Strategist (este rol)
+### 3.5 Senior Brand Strategist — la relación como camino de carrera
 
-No lo pediste como eje separado, pero dado que ya trabajamos así, vale la
-pena nombrarlo: uso este expediente como la capa de research y verificación
-que alimenta tus cinco relaciones — cada vez que aparece un documento nuevo
-(como hoy), lo cruzo contra todo lo anterior y marco lo que confirma, lo que
-contradice, y lo que cierra una brecha.
+Dijiste que este es el cargo al que te gustaría ascender. Eso cambia cómo
+vale la pena diseñar esta relación: no es solo un canal de consulta, es la
+relación que más puede acelerar o frenar ese camino, y vale la pena tratarla
+con esa intención explícita en vez de dejarla como una consultoría informal.
+
+Ver el catálogo completo en §3.6 — acá el resumen de la lógica: hoy uso este
+expediente como research y verificación (cada documento nuevo se cruza contra
+todo lo anterior). Eso sigue. Lo que se agrega es una instancia donde **tú
+razonas la decisión conmigo**, no solo la recibes — porque lo que se evalúa
+para ascender a este rol no es que sepas pedir el análisis, es que puedas
+producirlo.
+
+---
+
+## 3.6 Catálogo de reuniones — por grupo
+
+Organizado en los tres bloques que pediste: pares y superiores, proveedores,
+y la relación con el Senior Brand Strategist tratada aparte por su peso en tu
+desarrollo. Cada fila indica objetivo, cadencia y qué debe salir de la
+reunión — para que una reunión sin esas tres cosas claras se pueda cuestionar
+en vez de sostenerse por inercia.
+
+### A. Pares y superiores
+
+| Reunión | Con quién | Cadencia | Objetivo | Qué sale |
+|---|---|---|---|---|
+| **1:1 de prioridades** | Tu jefatura (Head of Branding) | Quincenal, 30 min | Alinear prioridades, destrabar decisiones que requieren su aval, desarrollo de carrera | Prioridades de las próximas dos semanas; decisiones aprobadas o escaladas |
+| **Sync de gobernanza** | Equipo de branding (pares) | Quincenal, 45–60 min | Revisar el estado de la única fuente de verdad; detectar contradicciones nuevas antes de que se vuelvan el próximo hallazgo tipo "Lucas/Plata" | Cambios registrados en `decisiones.md`; brechas nuevas asignadas a alguien |
+| **Comité de marca** | Jefatura + Senior Brand Strategist + gerencia de branding | Mensual | Decisiones que requieren aval de nivel superior: arquitectura de nombre, cambios de plataforma comunicacional, playbooks estratégicos | Decisión formal, registrada, con fecha y fundamento |
+| **Revisión trimestral de negocio** | Gerencia de branding + posiblemente marketing MACHBANK | Trimestral, alineada a Kantar | Conectar el trabajo de gobernanza con métricas: Fame/Uniqueness de "Toca MACHBANK", atributos foco, principalidad | Ajustes de foco para el trimestre siguiente |
+| **Sync de ecosistema Bci** *(opcional, evaluar si aplica)* | Pares brand owners de otras líneas (Empresas, PYME, Inversiones — vistas en `07` pp.60-76) | Trimestral | Coherencia de marca a nivel Bci; evitar que MACHBANK resuelva algo (ej. arquitectura de nombre) de un modo que choque con el resto del banco | Alineación cruzada, sin necesidad de negociar cada vez desde cero |
+
+### B. Proveedores
+
+| Reunión | Con quién | Cadencia | Objetivo | Qué sale |
+|---|---|---|---|---|
+| **Sync semanal de medios** | Agencia de medios | Miércoles 16h | Cumplimiento full-funnel y always-on — ver plantilla completa en §3.3 | Estado del piso de alcance, aprobaciones de la semana |
+| **Revisión de piezas contra estándar de marca** | Agencia creativa | Semanal o quincenal, según volumen | Gatekeeping — que ninguna propuesta creativa (como "banco simple que nunca te deja botado", que llegó sin este filtro) se difunda sin pasar por ti primero | Piezas aprobadas / devueltas con razón, registrada para no repetir la conversación |
+| **QBR (revisión trimestral)** | Cada agencia (medios y creativa, por separado) | Trimestral | Relación de largo plazo: performance, valor entregado más allá de la táctica semanal, renovación | Continuidad o ajuste de la relación comercial — esto normalmente no es tu decisión sola, pero sí tu insumo |
+| **Briefing de lanzamiento de playbook** | Medios + creativa + performance marketing, juntos | Ad-hoc, cada vez que se libera un playbook nuevo | Que los tres partan de la misma base al mismo tiempo — evita que cada canal interprete el playbook distinto | Playbook confirmado como entendido por los tres, no solo entregado |
+
+### C. Senior Brand Strategist — diseñada para tu desarrollo, no solo para resolver dudas
+
+| Reunión | Cadencia | Objetivo | Qué sale |
+|---|---|---|---|
+| **Research y verificación** *(la que ya tenemos)* | Cada vez que aparece un documento o pregunta nueva | Cruzar hallazgos contra el expediente completo, marcar qué confirma, qué contradice, qué cierra una brecha | Documento nuevo en el expediente, decisiones.md actualizado |
+| **Clínica estratégica** *(nueva — la más importante para tu camino a este rol)* | Quincenal o mensual, tú eliges | Traes una decisión de marca sin resolver (una N o una P abierta) y la trabajamos juntos — el objetivo explícito es que veas el razonamiento, no solo el resultado | Una decisión resuelta **y** una herramienta de análisis que puedas reutilizar sola/o la próxima vez |
+| **Co-presentación en comité** | Cuando haya una decisión grande (ej. MACH/MACHBANK) | Que la presentes tú al comité de marca, con el Senior Brand Strategist como respaldo — no que se presente por ti | Visibilidad directa frente a tu jefatura, con el trabajo a tu nombre |
+
+**Una acción, no una reunión:** vale la pena compartir este expediente
+—la única fuente de verdad— con el Senior Brand Strategist y tu jefatura como
+evidencia de trabajo estratégico, no dejar que quede visible solo para
+quienes ya trabajan directamente contigo. Es fácil que un trabajo de este
+tipo quede invisible si nadie más que las partes involucradas lo ve, y es
+precisamente el tipo de evidencia que pesa cuando se conversa sobre
+crecimiento hacia un rol como el de Senior Brand Strategist.
 
 ---
 
@@ -165,9 +218,9 @@ contradice, y lo que cierra una brecha.
 
 | Período | Foco | Hitos |
 |---|---|---|
-| **Ago (semanas 3–4)** | Fundacional | Cerrar N2 y N18 con branding. Decisión formal MACH/MACHBANK (ver `10-argumento-mach-uso-diario.md`). Playbook piloto de un solo producto (recomiendo Abono Rem, por ser el foco de la campaña de septiembre). Primera reunión de miércoles con la plantilla nueva. |
-| **Sep** | Playbooks de productos estratégicos | Playbooks de Crédito (TC y Consumo) y Abono Rem completos, listos antes del lanzamiento de la campaña masiva ya planificada. Evaluación de la primera oportunidad de auspicio bajo el framework de §3.2. |
-| **Oct** | Medición y ajuste | Se cruza con la medición trimestral ya planificada en `04` — usar esa instancia para revisar Fame/Uniqueness de "Toca MACHBANK" vs. cualquier propuesta que haya avanzado. Revisión de portafolio de auspicios Q4. |
+| **Ago (semanas 3–4)** | Fundacional | Cerrar N2 y N18 con branding. Decisión formal MACH/MACHBANK (ver `10-argumento-mach-uso-diario.md`). Playbook piloto de un solo producto (recomiendo Abono Rem, por ser el foco de la campaña de septiembre). Primera reunión de miércoles con la plantilla nueva. Arrancar el catálogo de reuniones de §3.6. |
+| **Sep** | Playbooks de productos estratégicos | Playbooks de Crédito (TC y Consumo) y Abono Rem completos, listos antes del lanzamiento de la campaña masiva ya planificada. Evaluación de la primera oportunidad de auspicio bajo el framework de §3.2. Primera clínica estratégica. |
+| **Oct** | Medición y ajuste | Se cruza con la medición trimestral ya planificada en `04` — usar esa instancia para revisar Fame/Uniqueness de "Toca MACHBANK" vs. cualquier propuesta que haya avanzado. Revisión de portafolio de auspicios Q4. Primer QBR con agencias. |
 | **Nov–Dic** | Estrés en alta estacionalidad | Black Friday, Cyber Monday, Navidad — es el mejor test real de si los playbooks sostienen consistencia bajo presión comercial alta, que es exactamente cuando más se rompe. Cierre de año: qué playbooks funcionaron, qué falta para 2027. |
 
 ---

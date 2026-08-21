@@ -91,14 +91,25 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
-## 2026-08-10 — Rol confirmado + proyecto de gobernanza "Casa en Orden"
+## 2026-08-10 — Rol confirmado + proyecto "Única Fuente de la Verdad"
 
 | Campo | Detalle |
 |---|---|
 | **Input del usuario** | Rol cambió: el equipo antiguo de MACHBANK marketing pasó a ser performance marketing (ejecución del funnel). El usuario se movió al equipo de branding de Bci — define playbooks de producto, performance marketing ejecuta. Gobierna cinco relaciones: branding/gerencia/Senior Brand Strategist/jefatura, auspicios y eventos (passion points: entretenimiento cotidiano, turismo realista, deporte accesible), proveedores y agencias de medios (reunión semanal miércoles 16h), y el equipo de performance marketing en MACHBANK. |
 | **Corrección de estatus de taglines** | De todo lo revisado en `05` y `07`, **solo "Toca MACHBANK" es plataforma confirmada y vigente.** "Todo, fácil." y "Banco simple que nunca te deja botado" (esta última, de la agencia creativa) son **propuestas iniciales**, no alternativas en pie de igualdad. Corregido en `07` §B, §E. |
-| **Entregables** | `09-proyecto-casa-en-orden.md` (plan de gobernanza ago-dic 2026) y `10-argumento-mach-uso-diario.md` (desarrollo completo de P5). |
+| **Entregables** | `09-unica-fuente-de-verdad.md` (plan de gobernanza ago-dic 2026) y `10-argumento-mach-uso-diario.md` (desarrollo completo de P5). |
 | **Cierra** | Brecha 2 del brief (rol y mandato) — ✅ cerrada. |
+
+---
+
+## 2026-08-10 — Catálogo de reuniones + renombre del proyecto
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Prefiere "Única Fuente de la Verdad" sobre "Casa en Orden" como nombre del proyecto. Pide catálogo de reuniones con pares/superiores, proveedores, y trata la relación con el Senior Brand Strategist aparte — es el cargo al que aspira a ascender. |
+| **Cambio** | Proyecto renombrado en `09-unica-fuente-de-verdad.md` (archivo también renombrado). |
+| **Entregable** | `09` §3.6 — catálogo de reuniones en tres bloques (pares y superiores, proveedores, Senior Brand Strategist). |
+| **Decisión de diseño** | La relación con el Senior Brand Strategist se trata explícitamente como camino de desarrollo de carrera, no solo como canal de consulta: se agrega la "clínica estratégica" (razonar la decisión en conjunto, no solo recibir el análisis) y la co-presentación en comité como mecanismo de visibilidad. |
 
 ---
 
@@ -143,6 +154,9 @@ corrección.
 | **P35** | **Plantilla de preparación semanal para la reunión de medios de los miércoles**, con verificación de piso de alcance (D1) como primer punto fijo. | `09` §3.3 | ⏳ Sin validar |
 | **P36** | **Formato estándar de playbook por producto** (contexto, RTB, tono con referencia al Manual de Comunicación, ejemplos, excepciones), piloto con Abono Rem en agosto. | `09` §3.4 | ⏳ Sin validar |
 | **P37** | **Piloto de "MACH" en canal de bajo riesgo** (WhatsApp/push/RRSS) por 4–6 semanas antes de expandir la arquitectura de dos niveles. | `10` §6 | ⏳ Sin validar |
+| **P38** | **Instaurar la "clínica estratégica"** con el Senior Brand Strategist — cadencia quincenal/mensual, el usuario razona la decisión en vez de solo recibirla, como preparación explícita para el ascenso a ese rol. | `09` §3.6.C | ⏳ Sin validar |
+| **P39** | **Instaurar revisión de piezas creativas contra el estándar de marca**, previa a que la agencia creativa lleve propuestas a medios — cierra el vacío que permitió que "banco simple que nunca te deja botado" llegara sin este filtro. | `09` §3.6.B | ⏳ Sin validar |
+| **P40** | **Compartir el expediente ("Única Fuente de la Verdad") con el Senior Brand Strategist y la jefatura** como evidencia de trabajo estratégico. | `09` §3.6.C | ⏳ Sin validar |
 
 ---
 
