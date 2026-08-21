@@ -78,6 +78,19 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-08-10 — Estrategia de Marketing 2026 completa (95 págs)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Documento completo de estrategia de marketing Bci 2026 — versión ampliada de "Para el martes", incluye además Empresas/PYME/Inversiones (filtrado del análisis). |
+| **Entregable** | `07-estrategia-2026-completa.md`. |
+| **Hallazgo urgente** | Este documento afirma *"nos alejamos de billetera digital, ganamos asociación a banco"* — **contradice directamente** a Kantar Q2 2026 (`05` §G), que muestra lo opuesto sobre la misma métrica. Verificar contra el corte Q2 antes de presentar mañana — es el único hallazgo de hoy que recomiendo confirmar antes de la reunión, no solo dejar anotado. |
+| **Hallazgo positivo** | Tercera fuente independiente que converge en el territorio de crédito: el propio documento nombra *"el acceso a crédito"* como objetivo principal de reconocimiento, sin haber sido sugerido. Refuerza P4 junto con el propósito de mayo (`06`) y el diagnóstico de mercado (`01`). |
+| **Riesgo nuevo** | La campaña de mayor alcance de medios del año ("Duplica tu Sueldo", sorteo) contradice el posicionamiento "Principal Partner financiero / blindar el bienestar". Ver R16. |
+| **Cierra parcialmente** | N1 (medios no direccionales): confirma que existen OOH/Metro/Radio/paid reales, no solo medios propios — pendiente confirmar si es piso sostenido o pico puntual. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
@@ -105,6 +118,10 @@ corrección.
 | **P19** | **Reemplazar o complementar el RTB "respaldo de Bci"**, que se apoya en una percepción en caída significativa (respaldo financiero 58 → 46). | `05` §F.5 | ⏳ Sin validar |
 | **P20** | **Conservar de la V3:** modularidad del claim, sueldo como multiplicador, identidad sonora propia (comprometida por años), estructura de dos públicos, códigos anclados al brandbook. | `05` §H.4 | ⏳ Sin validar |
 | **P15** | **Desarrollar "Creciste, crecimos"** como semilla de territorio — única línea del Brandbook con idea propia, compatible con el white space de crédito. | `03` §B.4 | ⏳ Sin validar |
+| **P20** | **Verificar contra el corte Q2 2026 de Kantar** si MACHBANK gana o pierde asociación a "Banco" vs. "Billetera digital", antes de presentar la lámina que afirma lo contrario. | `07` §C.1 | 🔴 **Verificar antes de la reunión** |
+| **P21** | **Decidir un solo tagline** entre "Toca MACHBANK", "Todo, fácil." y "Somos un banco simple que nunca te deja botado" — no pueden convivir los tres sin diluirse. | `07` §E | ⏳ Sin validar |
+| **P22** | **Resolver la tensión entre "Duplica tu Sueldo" (ruido) y "Principal Partner financiero" (confianza)** en la fase de mayor alcance de medios. | `07` §C.3 | ⏳ Sin validar |
+| **P23** | **Confirmar si "mantener plataforma actual" (este documento) reemplaza al hito "tono renovado agosto"** (Para el martes). Si es así, valida P10 sin necesidad de defenderlo. | `07` §D.2 | ⏳ Sin validar |
 
 ---
 
@@ -118,6 +135,9 @@ corrección.
 | R4 | El territorio P4 es falso si la originación usa scoring tradicional. | 🔴 Alta | Pregunta N2 a Riesgo. |
 | **R5** | **Circuito cerrado de medios propios.** Explica 3 años de caída en No Clientes. Sin corregir, la tendencia continúa en 2027 por diseño presupuestario. | 🔴 **Crítica** | Pregunta N1 + P7. |
 | **R6** | **Contradicción principalidad ↔ beneficios.** Golden ticket, ruleta y cupones reclutan usuario mercenario, incompatible con principalidad y con pricing power para monetizar crédito. | 🔴 **Crítica** | P3 + P7. Brecha visible: Abono Rem forecast 62K vs ambición 100K. |
+| **R15** | **Contradicción entre fuentes sobre categorización.** La estrategia 2026 completa dice que se gana asociación a "Banco"; Kantar Q2 dice lo opuesto sobre la misma métrica. Riesgo de credibilidad si se presenta sin verificar. | 🔴 **Crítica — antes de la reunión** | P20 |
+| **R16** | **"Duplica tu Sueldo" (sorteo) es la campaña de mayor alcance del año y contradice el posicionamiento "Principal Partner financiero".** El primer contacto masivo con No Clientes es una promesa de azar, no de protección. | 🟠 Alta | P22 |
+| **R17** | **Tres taglines en circulación sin jerarquía declarada** ("Toca MACHBANK", "Todo, fácil.", "Banco simple que nunca te deja botado"). Riesgo de dilución si conviven sin decisión. | 🟠 Media | P21 |
 | R7 | ~~Proponer "tono renovado" sin conocer el Brandbook~~ | ✅ **Resuelto** | Brandbook incorporado 2026-08-10. El riesgo se materializó: el hito **sí** contradice al Brandbook. Ver R8. |
 | **R8** | **Reinicio del reloj de activos distintivos por segunda vez en 18 meses** (rebrand ene-2025 → Brandbook ene-2026 → tono renovado ago-2026). Ningún código alcanza a fijarse en memoria. Efecto acumulativo sobre CAC. | 🔴 **Crítica** | P10 |
 | **R9** | **El sistema de arquetipos contradice el objetivo N°1.** Explorador + Héroe no entregan fiabilidad; la principalidad se construye sobre fiabilidad. Brecha Abono Rem 62K vs 100K. | 🔴 **Alta** | P11 |
