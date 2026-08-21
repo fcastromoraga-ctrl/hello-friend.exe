@@ -118,10 +118,15 @@ corrección.
 | **P19** | **Reemplazar o complementar el RTB "respaldo de Bci"**, que se apoya en una percepción en caída significativa (respaldo financiero 58 → 46). | `05` §F.5 | ⏳ Sin validar |
 | **P20** | **Conservar de la V3:** modularidad del claim, sueldo como multiplicador, identidad sonora propia (comprometida por años), estructura de dos públicos, códigos anclados al brandbook. | `05` §H.4 | ⏳ Sin validar |
 | **P15** | **Desarrollar "Creciste, crecimos"** como semilla de territorio — única línea del Brandbook con idea propia, compatible con el white space de crédito. | `03` §B.4 | ⏳ Sin validar |
-| **P20** | **Verificar contra el corte Q2 2026 de Kantar** si MACHBANK gana o pierde asociación a "Banco" vs. "Billetera digital", antes de presentar la lámina que afirma lo contrario. | `07` §C.1 | 🔴 **Verificar antes de la reunión** |
-| **P21** | **Decidir un solo tagline** entre "Toca MACHBANK", "Todo, fácil." y "Somos un banco simple que nunca te deja botado" — no pueden convivir los tres sin diluirse. | `07` §E | ⏳ Sin validar |
-| **P22** | **Resolver la tensión entre "Duplica tu Sueldo" (ruido) y "Principal Partner financiero" (confianza)** en la fase de mayor alcance de medios. | `07` §C.3 | ⏳ Sin validar |
-| **P23** | **Confirmar si "mantener plataforma actual" (este documento) reemplaza al hito "tono renovado agosto"** (Para el martes). Si es así, valida P10 sin necesidad de defenderlo. | `07` §D.2 | ⏳ Sin validar |
+| **P24** | **Verificar contra el corte Q2 2026 de Kantar** si MACHBANK gana o pierde asociación a "Banco" vs. "Billetera digital", antes de presentar la lámina que afirma lo contrario. | `07` §C.1 | 🔴 **Verificar antes de la reunión** |
+| **P25** | **Decidir un solo tagline** entre "Toca MACHBANK", "Todo, fácil." y "Somos un banco simple que nunca te deja botado" — no pueden convivir los tres sin diluirse. | `07` §E | ⏳ Sin validar |
+| **P26** | **Resolver la tensión entre "Duplica tu Sueldo" (ruido) y "Principal Partner financiero" (confianza)** en la fase de mayor alcance de medios. | `07` §C.3 | ⏳ Sin validar |
+| **P27** | **Confirmar si "mantener plataforma actual" (este documento) reemplaza al hito "tono renovado agosto"** (Para el martes). Si es así, valida P10 sin necesidad de defenderlo. | `07` §D.2 | ⏳ Sin validar |
+| **P28** | **Declarar el Manual de Comunicación (UX Content) como anexo oficial de voz del Brandbook.** Cierra D4 sin producción nueva. | `08` §A, §F.1 | ⏳ Sin validar — **anunciable mañana sin preparación** |
+| **P29** | **Resolver "Lucas/Plata" vs. "Dinero"** con regla de modulación por contexto: coloquial en marketing/producto, neutro en errores/legales. | `08` §D.1, §F.2 | ⏳ Sin validar |
+| **P30** | **Formalizar "MACHBANKer" como término de comunidad**, distinto del trato directo "Tú". Activo ya latente en Kantar (MACHERs) y en el Glosario. | `08` §D.2, §F.3 | ⏳ Sin validar |
+| **P31** | **Circular la guía de disculpas del Manual (§9) a Marketing/Campaña**, como precedente interno del tono Cuidador — evita reinventar P11 desde cero. | `08` §C, §F.4 | ⏳ Sin validar — **anunciable mañana** |
+| **P32** | **Unificar Glosario (Marketing) y Manual de Comunicación (UX) en un solo documento vivo, con un dueño único.** | `08` §D, §F.7 | ⏳ Sin validar |
 
 ---
 
