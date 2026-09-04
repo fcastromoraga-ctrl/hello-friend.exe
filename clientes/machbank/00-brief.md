@@ -102,6 +102,7 @@ tres casos (56 vs 65 · 63 vs 69 · 59 vs 61).
 | 6 | ¿El nombre "MACHBANK" es revisable? | 🔴 **ABIERTA.** El Brandbook de ene-2026 sugiere decisión cerrada. Confirmar. |
 | 7 | Arquitectura con Bci a 3 años | 🔴 **ABIERTA.** |
 | 8 | Restricciones de presupuesto y plazo | 🔴 **ABIERTA.** Crítica ahora: la recomendación de reasignar inversión a medios no direccionables depende de esto. |
+| 9 | Nombre(s) de agencia(s) no seleccionada(s) en la licitación PDV Integral / Abono Rem, y si el mail de cierre se envía igual a todas o se personaliza | 🔴 **ABIERTA.** Bloquea el envío de `11-plantilla-mail-cierre-licitacion.md`. |
 
 ## 6. Preguntas nuevas abiertas por la presentación
 

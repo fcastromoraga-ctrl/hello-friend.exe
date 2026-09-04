@@ -136,6 +136,17 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-09-04 — Plantilla de mail de cierre de licitación
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Solicitó una plantilla de mail para comunicar a las agencias no seleccionadas el cierre de la licitación de campaña PDV Integral / Abono Rem, en base a un precedente real (mail enviado en la licitación MACH 2023 a TBWA). Motivo de no selección: fit estratégico y ejecución. Explícito: no cerrar la puerta a futuro. |
+| **Entregable** | `11-plantilla-mail-cierre-licitacion.md` — plantilla con variables (`[AGENCIA]`, `[CAMPAÑA]`, `[MOTIVO]`, `[FIRMA]`) y dos opciones de redacción para el motivo (general vs. específica), reutilizable para licitaciones futuras. |
+| **Criterio aplicado** | Mantiene la estructura y tono del precedente 2023. No nombra a la agencia ganadora ni compara propuestas — mismo criterio de no exponer información competitiva ya usado en el brief de licitación (2026-08-10). |
+| **Brechas abiertas** | Nombre(s) de la(s) agencia(s) no seleccionada(s); si el mail se envía igual a todas o se personaliza por agencia. Registradas también en `00-brief.md`. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
