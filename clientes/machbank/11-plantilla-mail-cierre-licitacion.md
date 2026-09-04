@@ -19,11 +19,11 @@ la estructura.
 |---|---|---|
 | `[AGENCIA]` | Nombre de la agencia / equipo destinatario | `[SUPUESTO]` — pendiente de confirmar con el usuario |
 | `[CAMPAÑA]` | Nombre de la campaña licitada | Propuesta de Valor Integral / Abono Rem |
-| `[MOTIVO]` | Razón de la no selección, en una frase | Fit estratégico y ejecución de la propuesta |
 | `[FIRMA]` | Nombre y cargo de quien envía | `[SUPUESTO]` — pendiente |
 
-`[MOTIVO]` es el único bloque con opciones alternativas abajo — el resto del
-mail no cambia según el motivo.
+El motivo de no selección ya está integrado en el cuerpo (Opción B — fit
+estratégico y ejecución, ver nota al final). No queda como variable porque
+es el motivo real confirmado para esta licitación.
 
 ---
 
@@ -37,8 +37,9 @@ campaña [CAMPAÑA]. Valoramos el esfuerzo y el tiempo dedicado en la
 preparación de su propuesta.
 
 Lamentablemente, después de una revisión exhaustiva, hemos tomado la
-decisión de seleccionar a otro proveedor para llevar a cabo la campaña.
-[MOTIVO]
+decisión de seleccionar a otro proveedor para llevar a cabo la campaña. La
+decisión se basó principalmente en el fit estratégico y la ejecución de la
+propuesta ganadora frente al desafío de negocio planteado.
 
 Quiero asegurarles que esta decisión no afecta nuestra percepción de su
 capacidad y profesionalismo.
@@ -54,27 +55,19 @@ Saludos!
 
 ---
 
-## Opciones para `[MOTIVO]`
+## Nota sobre el motivo elegido
 
-Reemplaza la línea `[MOTIVO]` del cuerpo por una de estas, según cuánto
-detalle se quiera dar. Ninguna nombra a la agencia ganadora ni entra en
-comparación directa — coherente con el criterio ya aplicado en el brief de
-licitación de no exponer material de trabajo interno a un proceso
+Se usó la Opción B (específica, con el motivo real de esta licitación) en
+lugar de la genérica del precedente 2023 — decisión del usuario, para dar
+más transparencia a la agencia. No nombra a la agencia ganadora ni entra en
+comparación punto por punto — coherente con el criterio ya aplicado en el
+brief de licitación de no exponer material de trabajo interno a un proceso
 competitivo (`decisiones.md`, 2026-08-10).
 
-**Opción A — general (equivalente a la referencia 2023):**
+Alternativa genérica (equivalente a la referencia 2023), por si se prefiere
+bajar el nivel de detalle para alguna agencia en particular:
 > Si bien su propuesta era sólida, la que seleccionamos finalmente cumplía
 > mejor con nuestros requisitos específicos.
-
-**Opción B — específica, con el motivo real de esta licitación:**
-> La decisión se basó principalmente en el fit estratégico y la ejecución
-> de la propuesta ganadora frente al desafío de negocio planteado.
-
-Recomendación: usar la Opción B si la relación con la agencia amerita más
-transparencia (por ejemplo, si se espera que compita en una próxima
-licitación y le sirve el feedback para ajustar su approach); usar la
-Opción A si se prefiere mantener el mail al mismo nivel de generalidad que
-el precedente de 2023.
 
 ---
 

@@ -145,6 +145,11 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 | **Criterio aplicado** | Mantiene la estructura y tono del precedente 2023. No nombra a la agencia ganadora ni compara propuestas — mismo criterio de no exponer información competitiva ya usado en el brief de licitación (2026-08-10). |
 | **Brechas abiertas** | Nombre(s) de la(s) agencia(s) no seleccionada(s); si el mail se envía igual a todas o se personaliza por agencia. Registradas también en `00-brief.md`. |
 
+**Actualización (mismo día):** el usuario confirmó la Opción B (motivo
+específico — fit estratégico y ejecución) como la redacción a usar. Se
+integró directamente en el cuerpo del mail; la Opción A queda solo como
+alternativa genérica de respaldo, ya no como variable a elegir.
+
 ---
 
 ## Decisiones pendientes de validación del usuario
