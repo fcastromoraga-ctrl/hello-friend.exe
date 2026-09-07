@@ -136,6 +136,18 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-09-07 — Lectura de la propuesta de campaña de MEAT ("Un banco pero MACH", VB3)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Propuesta de agencia (`PDF_MACH_CAMPAÑA_2026_VB3_MEAT.pdf`, 25 págs.) para evaluar contra el trabajo de propuesta de valor de este expediente. |
+| **Entregable** | `11-lectura-propuesta-meat-campana2026.md`. |
+| **Hallazgo principal** | Alineación fuerte en lo estratégico: no lidera con "fácil" (mandato de ejecución respetado), traduce la propuesta de valor producto por producto (marco 4), y su territorio ("todo el banco que necesitas, sin dejar de ser MACH") no contradice a "Creciste, crecimos" — pero tampoco lo cita. |
+| **Banderas abiertas** | (1) La Flecha (∧) — el activo protegido por P14 — no aparece en ninguna pieza; la agencia propone un wordmark "MACH" nuevo como código visual. (2) El territorio "Creciste, crecimos" (P15) queda sin reconciliar con el de la propuesta. (3) La pieza táctica de descuento (Amazon 20%) reintroduce el terreno de beneficios que R6 marca como riesgo, si se ejecuta más allá de ejemplo de formato. (4) El claim "costo $0" no muestra la condición de fecha (31-dic-2026) del `00-brief.md` §3. |
+| **[SUPUESTO] sin confirmar** | Si esta propuesta corresponde al proceso de licitación (`MACHBANK_Brief_Licitacion_Campana.docx`) o es un entregable separado de la agencia incumbente. Ver N23. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
@@ -180,6 +192,7 @@ corrección.
 | **P38** | **Instaurar la "clínica estratégica"** con el Senior Brand Strategist — cadencia quincenal/mensual, el usuario razona la decisión en vez de solo recibirla, como preparación explícita para el ascenso a ese rol. | `09` §3.6.C | ⏳ Sin validar |
 | **P39** | **Instaurar revisión de piezas creativas contra el estándar de marca**, previa a que la agencia creativa lleve propuestas a medios — cierra el vacío que permitió que "banco simple que nunca te deja botado" llegara sin este filtro. | `09` §3.6.B | ⏳ Sin validar |
 | **P40** | **Compartir el expediente ("Única Fuente de la Verdad") con el Senior Brand Strategist y la jefatura** como evidencia de trabajo estratégico. | `09` §3.6.C | ⏳ Sin validar |
+| **P41** | **Decidir explícitamente la relación entre la Flecha (∧) y el wordmark "MACH"** que propone MEAT antes de aprobar VB3 — reemplazo, convivencia o capa táctica. No dejarlo implícito. | `11` §D.1 | 🔴 **Bloquea aprobación de la propuesta de campaña** |
 
 ---
 
