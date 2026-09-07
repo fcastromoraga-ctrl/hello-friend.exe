@@ -148,6 +148,17 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-09-07 — Feedback a MEAT sobre VB3
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Pidió preparar feedback para la agencia. Contexto adicional del líder de Branding: la agencia **no termina de entender la propuesta de valor** que MACHBANK quiere comunicar — no es solo un tema de ejecución creativa. |
+| **Entregable** | `MACHBANK_Feedback_MEAT_VB3.docx` — enviado directamente al usuario, **no vive en este repositorio** (documento externo, mismo criterio que el brief de licitación y el playbook de Abono Rem). |
+| **Enfoque** | El documento antepone una página de "propuesta de valor en claro" (objetivo, territorio vigente, qué se puede/no se puede prometer, los 5 marcos, los 2 mandatos) **antes** del feedback puntual sobre VB3 — para atacar la causa raíz (falta de claridad del brief) y no solo los síntomas (las 4 banderas de `11-lectura-propuesta-meat-campana2026.md`). |
+| **Filtro aplicado** | Igual criterio que el brief de licitación: fuera del documento externo quedan las contradicciones internas de gobernanza y las referencias a N/P/R del expediente — se tradujeron a lenguaje llano para uso de agencia. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
