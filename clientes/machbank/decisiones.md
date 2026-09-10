@@ -160,6 +160,18 @@ alternativa genérica de respaldo, ya no como variable a elegir.
 | **Entregable** | `12-plantilla-mail-adjudicacion-licitacion.md` — mail de adjudicación, motivo espejo del usado en `11` (fit estratégico y ejecución) para mantener consistencia entre ambas comunicaciones. |
 | **Brechas abiertas** | `[FIRMA]` — nombre y cargo de quien envía (misma brecha que en `11`). |
 
+**Actualización (mismo día) — versión final enviada:** el mail
+efectivamente enviado a MEAT difiere de la plantilla en dos puntos, ambos
+por evolución real de la conversación con Tania (líder de Branding), no
+por corrección: (1) motivo ampliado de 2 a 3 ejes (fit estratégico +
+comprensión de público/categoría + sostenibilidad de la plataforma), ya no
+espejo textual de `11`; (2) incluye fecha/hora de kickoff concreta (mañana
+14:00, cita ya enviada) — surgió en la conversación con Tania después de
+armada la plantilla, no estaba planeado. Firma confirmada ok. `12` se
+actualizó para dejar registrada la versión enviada y la plantilla base
+para la próxima licitación por separado. Sin brechas abiertas para esta
+licitación.
+
 ---
 
 ## Decisiones pendientes de validación del usuario
