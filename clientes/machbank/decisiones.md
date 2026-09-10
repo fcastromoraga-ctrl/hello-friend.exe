@@ -152,6 +152,16 @@ alternativa genérica de respaldo, ya no como variable a elegir.
 
 ---
 
+## 2026-09-10 — Plantilla de mail de adjudicación (agencia ganadora)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Solicitó el mail para la agencia ganadora de la licitación PDV Integral / Abono Rem. Agencia: **MEAT**. Contenido acotado a confirmación + próximos pasos genéricos, sin fecha de kickoff ni condiciones contractuales. |
+| **Entregable** | `12-plantilla-mail-adjudicacion-licitacion.md` — mail de adjudicación, motivo espejo del usado en `11` (fit estratégico y ejecución) para mantener consistencia entre ambas comunicaciones. |
+| **Brechas abiertas** | `[FIRMA]` — nombre y cargo de quien envía (misma brecha que en `11`). |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
