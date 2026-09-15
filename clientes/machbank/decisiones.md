@@ -159,6 +159,19 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-09-15 — Lectura de la propuesta ganadora de campaña ("Un banco pero MACH", VB4)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Propuesta de agencia (`MACH_CAMPAÑA_2026_-_VB_4_-_PDF.pdf`, 28 págs., MEAT agency), traída como **propuesta ganadora** de la licitación de campaña de Propuesta de Valor 2026. Sucesora directa de VB3 (evaluada en `11-lectura-propuesta-meat-campana2026.md`), producida dos días después del feedback enviado a MEAT sobre VB3. |
+| **Entregable** | `12-lectura-propuesta-ganadora-vb4-campana2026.md`. |
+| **Hallazgo principal** | VB4 no es una propuesta nueva: territorio, insight, promesa y racional creativo son casi idénticos a VB3. Mejora donde había margen de ejecución (más variedad de piezas dentro del Segmento Clásico, overlays de UI de producto que fortalecen el marco 4, aparente retiro de la pieza de descuento Amazon que marcaba R6). No resuelve, y agrava, la tensión de P41: el wordmark "MACH" (activo nuevo) aparece de forma sistemática en prácticamente todas las piezas, mientras la Flecha (∧) solo aparece en el logo corporativo estándar, sin intensificarse como pedía P14. |
+| **Efecto sobre P41** | **No se cierra — el usuario debe decidirla.** La lectura de este expediente es que aprobar VB4 tal como está equivale, en los hechos, a decidir P41 a favor del reemplazo de la Flecha por el wordmark, por el volumen de piezas ya producidas sobre ese activo nuevo. Se recomienda una decisión explícita antes de dar luz verde a producción. |
+| **Banderas nuevas** | Persisten sin resolver de VB3 a VB4: condición de fecha del claim "$0 para siempre" (sigue con *** sin resolver, ahora R18) y no reconciliación de "Creciste, crecimos" (P15) con el territorio de la agencia (ahora P43). Nueva: "Un banco pero MACH" se suma como cuarto candidato a tagline en circulación, agravando R17 (ahora R19, con propuesta de ampliar P25 en P44). |
+| **[SUPUESTO] sin confirmar** | Que "propuesta ganadora" (input del usuario) signifique aprobación formal para producción y no solo selección como finalista de la licitación — no hay lámina en el PDF que lo declare explícitamente. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
@@ -203,7 +216,10 @@ corrección.
 | **P38** | **Instaurar la "clínica estratégica"** con el Senior Brand Strategist — cadencia quincenal/mensual, el usuario razona la decisión en vez de solo recibirla, como preparación explícita para el ascenso a ese rol. | `09` §3.6.C | ⏳ Sin validar |
 | **P39** | **Instaurar revisión de piezas creativas contra el estándar de marca**, previa a que la agencia creativa lleve propuestas a medios — cierra el vacío que permitió que "banco simple que nunca te deja botado" llegara sin este filtro. | `09` §3.6.B | ⏳ Sin validar |
 | **P40** | **Compartir el expediente ("Única Fuente de la Verdad") con el Senior Brand Strategist y la jefatura** como evidencia de trabajo estratégico. | `09` §3.6.C | ⏳ Sin validar |
-| **P41** | **Decidir explícitamente la relación entre la Flecha (∧) y el wordmark "MACH"** que propone MEAT antes de aprobar VB3 — reemplazo, convivencia o capa táctica. No dejarlo implícito. | `11` §D.1 | 🔴 **Bloquea aprobación de la propuesta de campaña** |
+| **P41** | **Decidir explícitamente la relación entre la Flecha (∧) y el wordmark "MACH"** que propone MEAT antes de aprobar VB3 — reemplazo, convivencia o capa táctica. No dejarlo implícito. | `11` §D.1 · agravada en `12` §E (VB4 usa el wordmark de forma sistemática en toda la campaña) | 🔴 **Bloquea aprobación de la propuesta ganadora (VB4)** |
+| **P43** | **Decidir si "Creciste, crecimos" (P15) queda como territorio de fondo o si "Un banco pero MACH" (VB4) lo reemplaza como territorio de trabajo vigente.** Sigue sin reconciliarse en dos versiones consecutivas de la misma agencia. | `11` §D.2 · `12` §D, §G | ⏳ Sin validar |
+| **P44** | **Ampliar el alcance de P25** (decisión de tagline único) **para incluir "Un banco pero MACH"** como cuarto candidato, dado el volumen de piezas ya producidas en VB4 que lo usan como línea maestra de facto. | `12` §F.2, §G | ⏳ Sin validar |
+| **P45** | **Confirmar que el *** del claim "$0 para siempre" se resuelve con la fecha límite (31-dic-2026)** antes de que cualquier pieza de VB4 pase a producción. Persiste sin cambios de VB3 a VB4. | `11` §D.4 · `12` §F.1, §G | ⏳ Sin validar — **antes de producción** |
 
 ---
 
@@ -228,3 +244,5 @@ corrección.
 | **R13** | **Mercado Pago gana el depósito de sueldo por 20 puntos** entre bases propias, en direcciones opuestas. Es el indicador que sostiene la principalidad. | 🔴 **Alta** | P18 |
 | **R14** | **Cuarto reinicio en 18 meses** si se abandona "Toca MACHBANK" sin comprometer el reemplazo por años. | 🟠 Media | P10, H.5 |
 | **R10** | El Brandbook define la audiencia como "diversa y transversal" mientras el plan opera sobre Segmento Clásico. Sin restricción creativa, la ejecución seguirá dispersa por diseño. | 🟠 Media | P13 |
+| **R18** | **El claim "$0 para siempre" sigue sin mostrar la condición de fecha (31-dic-2026) en dos versiones consecutivas de campaña (VB3 y VB4).** Que persista sugiere que no está en el radar de producción como pendiente de legal/letra chica. | 🔴 Alta | P45 |
+| **R19** | **"Un banco pero MACH" (VB4) se instala como cuarto tagline candidato en circulación**, con volumen de producción creativa real detrás — agrava R17 y hace más costoso revertir después si P25 se resuelve por otro camino. | 🟠 Alta | P44 |
