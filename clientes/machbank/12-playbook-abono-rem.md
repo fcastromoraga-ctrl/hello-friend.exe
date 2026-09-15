@@ -1,183 +1,177 @@
 # PLAYBOOK DE PRODUCTO: Abono Rem
 
-Cómo hablamos de Abono Rem en cualquier canal, para cualquier equipo, sin
+`Piloto · v0.1`
+
+Cómo hablamos de Abono Rem — en cualquier canal, para cualquier equipo, sin
 tener que preguntar cada vez.
 
 **Dueño:** Brand Governance MACHBANK
 **Actualizado:** 2026-09-15
-**Próxima revisión:** 2026-12-15
+**Próxima revisión:** Lanzamiento de la campaña masiva Abono Rem (sep 2026)
 
-**Estado:** `BORRADOR — EN VALIDACIÓN`. Es el **piloto del formato estándar de
-playbook de producto** comprometido en `decisiones.md` (P36) y en el
-calendario de `09-unica-fuente-de-verdad.md` §4 (hito de agosto, entregado en
-septiembre). No queda `APROBADO` hasta que el usuario lo registre como tal en
-`decisiones.md`, según la regla de gobernanza de este repositorio.
+**Estado:** `BORRADOR — EN VALIDACIÓN`. Reconcilia el diseño visual entregado
+por el usuario (`Playbook_Abono_Rem_MACHBANK.pdf`, versión del 10-ago-2026)
+con el formato estándar de playbook de producto comprometido en
+`decisiones.md` (P36) y en `09-unica-fuente-de-verdad.md` §3.4/§4. Este
+archivo es ahora la fuente de verdad en texto; el PDF es la referencia de
+diseño visual (ver `12-playbook-abono-rem.html`). No queda `APROBADO` hasta
+que el usuario lo registre como tal en `decisiones.md`.
 
-**Fuentes:** `00-brief.md`, `01-diagnostico.md`, `02-lectura-pres-agosto-2026.md`,
-`03-voz.md`, `05-lectura-kantar-y-campana.md`, `08-manual-comunicacion-y-glosario.md`,
+**Fuentes:** `Playbook_Abono_Rem_MACHBANK.pdf` (diseño entregado por el
+usuario), `00-brief.md`, `05-lectura-kantar-y-campana.md`,
+`08-manual-comunicacion-y-glosario.md`, `10-argumento-mach-uso-diario.md`,
 `decisiones.md`. Dato sin fuente en el expediente se marca `[SUPUESTO]`.
 
 ---
 
 ## 1. Contexto del producto
 
-- **QUÉ ES:** Abono Rem es que tu sueldo (remuneración) llegue directo a tu
-  Cuenta MACHBANK en vez de a otro banco o billetera. No es un producto que se
-  lanza: es un comportamiento que se activa sobre la cuenta corriente que el
-  cliente ya tiene o puede abrir gratis.
-- **OBJETIVO DE NEGOCIO:** Aumentar principalidad — objetivo de negocio N°1
-  declarado para 2026 (`00-brief.md` §4). Abono Rem es la forma más concreta de
-  observar principalidad: si el sueldo entra a MACHBANK, MACHBANK dejó de ser
-  una cuenta secundaria.
-- **KPI QUE MUEVE:** Abono de remuneraciones — **forecast 62.000 · ambición
-  100.000**. Brecha de 38.000 cuentas (`00-brief.md` §4; `02-lectura-pres-agosto-2026.md`).
-- **AUDIENCIA:** Segmento Clásico, ingreso $650.000–$1.600.000 CLP
-  (`00-brief.md` §4). Dos rutas de comportamiento distintas dentro del mismo
-  segmento:
-  | Ruta | Situación actual | Qué necesita el mensaje |
-  |---|---|---|
-  | Clientes MACHBANK sin sueldo domiciliado | Usan la cuenta para gasto y transferencias, pero el sueldo sigue entrando a otro banco | Bajar la fricción percibida del trámite, no venderles la cuenta (ya la tienen) |
-  | No clientes con sueldo en la competencia | Hoy domician en un banco tradicional o en Mercado Pago | Ganar la categoría "dónde entra mi sueldo" antes de pedir el traspaso |
+- **QUÉ ES:** La transferencia del sueldo o remuneración mensual a la Cuenta
+  Corriente MACHBANK — el gesto que activa el resto del ecosistema: mejor
+  cupo, tasa preferente de ahorro y beneficios.
+- **OBJETIVO DE NEGOCIO:** Aumentar principalidad — que MACHBANK sea la
+  cuenta que la persona elige para su día a día, no una cuenta secundaria.
+- **KPI QUE MUEVE:** Abono Rem: forecast 62K, ambición 100K. Es la brecha
+  más grande de todo el plan de negocio (`00-brief.md` §4).
+- **AUDIENCIA:** Segmento Clásico ($650K–$1,6MM). Dos rutas distintas dentro
+  de él: **clientes MACH sin sueldo vinculado** (finanzas fragmentadas,
+  sueldo cae en otro banco) y **no clientes** (prejuicio de "tarjeta
+  prepago", desconocen que MACHBANK puede ser cuenta principal).
 
-  **[SUPUESTO]** No hay investigación cualitativa que explique si la barrera
-  para el primer grupo es operativa (desconocen el trámite), de fricción
-  (creen que es complicado) o de confianza. Es la brecha 5, abierta, de
+  **[SUPUESTO]** No hay investigación cualitativa que confirme cuál de las
+  dos barreras —desconocimiento del trámite, fricción percibida o
+  desconfianza— pesa más en cada ruta. Es la brecha 5, abierta, de
   `00-brief.md`.
-- **POR QUÉ IMPORTA:** Mercado Pago le gana a MACHBANK en asociación con
-  depósito de sueldo por 20 puntos entre bases propias, y en dirección
-  contraria: MACHBANK cae de 39% a 27%, Mercado Pago sube de 35% a 47%
-  (`05-lectura-kantar-y-campana.md` §C). El atributo peor evaluado del
-  tracking de MACHBANK es justo el que decide esto: "va a funcionar" (16% vs.
-  22% del líder, `00-brief.md` §4). Nadie mueve el ingreso más importante que
-  administra hacia una marca en la que no confía que "va a funcionar"
-  (`decisiones.md` R9, R13).
+- **POR QUÉ IMPORTA:** Es el indicador donde hoy vamos perdiendo: Mercado
+  Pago nos supera en asociación a depósito de sueldo por 20 puntos, y en
+  dirección contraria a la nuestra (MACHBANK 39%→27%, Mercado Pago
+  35%→47% — `05-lectura-kantar-y-campana.md` §C).
 
 ## 2. Territorio y RTB
 
-- **Mensajes Clave:**
-  1. "Tu sueldo entra seguro y a tiempo."
-  2. "Cambiarte no es trámite de otro banco — es dos datos que ya tienes."
-  3. "Tu plata, en la cuenta que ya usas todos los días."
-- **Postura Estratégica:** Fiabilidad, no conveniencia ni "fácil de usar".
-  El mandato de marca confirmado excluye liderar con "fácil de usar" porque es
-  terreno del líder de mercado (`00-brief.md` §6bis). Para una decisión que
-  implica mover el ingreso más importante del usuario, lo que hay que ganar es
-  "va a funcionar" — el atributo más débil de MACHBANK y el que exactamente
-  separa a MACHBANK de Mercado Pago en esta categoría
-  (`05-lectura-kantar-y-campana.md` §C). Abono Rem no se comunica con energía
-  de promoción; se comunica con la seriedad de una decisión financiera.
-- **Cierre Vigente:** El cierre de plataforma vigente sigue siendo "Toca
-  MACHBANK" y no se reemplaza sin decisión formal.
+> **Confirmado** — Mensajes Clave
+> **"Tiene todo lo que necesito." · "Es fácil de usar." · "Seguro que
+> funciona."**
+> Los tres mensajes clave aprobados a nivel de marca. Úsalos como marco
+> general — no como línea literal repetida en cada pieza.
+
+> **Propuesto — sujeto a comité** — Postura Estratégica
+> **Liderar con confianza y "Creciste, crecimos" antes que con "fácil".**
+> "Fácil" es el atributo donde el líder de categoría nos supera por más
+> margen. Para Abono Rem —una decisión de confianza, no de conveniencia— la
+> fiabilidad rinde más. Pendiente de validar en comité de marca.
+
+> **Confirmado** — Cierre Vigente
+> El cierre de plataforma vigente sigue siendo **"Toca MACHBANK"**. No se
+> reemplaza sin decisión formal.
 
 ## 3. Voz y tono
 
+La voz es constante. El tono se adapta al momento, según el Manual de
+Comunicación MACHBANK.
+
 - **Voz (siempre):** Directa, Amigable, Resolutiva, Explicativa, Positiva y
   Proactiva.
-- **Personalidad:** Audaces e Innovadores, Confiables y Transparentes,
+- **Personalidad:** Audaces e Innovadores · Confiables y Transparentes ·
   Cercanos y No Bancarios.
 - **Matriz de Momentos:**
 
 | Momento | Tono | Ejemplo |
 |---|---|---|
-| Invitación a domiciliar (cliente activo sin sueldo domiciliado) | Directo y Cercano | "Tu sueldo puede llegar directo a la cuenta que ya usas para pagar y transferir. Pídele a tu empleador que actualice tus datos — te dejamos todo listo para compartir." |
-| Confirmación del primer abono recibido | Cálido y Directo | "¡Llegó! Tu sueldo ya está en tu cuenta MACHBANK. Desde ahora, todo tu dinero vive en un solo lugar." |
-| Sueldo no llega en la fecha esperada | Empático y Calmado | "Vimos que tu sueldo todavía no llega. Puede pasar si tu empleador recién actualizó tus datos — tu cuenta está lista para recibirlo apenas se procese. Te avisamos ni bien llegue." |
-| Post-domiciliación exitosa (fidelización) | Proactivo y Cercano | "Como tu sueldo ya entra a MACHBANK, puedes automatizar tu ahorro cada mes sin mover un dedo." |
-
-  El tono "Empático y Calmado" del tercer momento sigue el principio "primero
-  el impacto, después la explicación" y la guía de disculpas ya vigente en el
-  Manual de Comunicación — no hay que inventar un tono nuevo para este caso
-  (`08-manual-comunicacion-y-glosario.md` §C, §E).
+| Confirmación de abono exitoso | Amigable y Directo | "¡Listo! Tu sueldo ya está en MACHBANK." |
+| Invitación a vincular sueldo (campaña) | Entusiasta y Dinámico | "Trae tu sueldo y desbloquea tu cupo, tu tasa y tus beneficios." |
+| El abono no se pudo confirmar | Respetuoso y Explicativo | "No pudimos confirmar tu abono. Revisa los datos con tu empleador." |
+| Falla masiva del proceso | Empático y Calmado | "Estamos ajustando el sistema. Tu sueldo está seguro, te avisamos apenas esté listo." |
 
 ## 4. Léxico específico
 
-- **USAR:** "tú" (nunca "usted"); "domicilia tu sueldo"; "tu cuenta
-  MACHBANK"; "tu sueldo"/"tu remuneración"; "Dinero" en momentos formales
-  (errores, plazos, T&C) y "plata"/"lucas" en copy cotidiano de marketing y
-  producto, según la regla de modulación por contexto ya vigente
-  (`08-manual-comunicacion-y-glosario.md` §D.1); "MACHBANKer" solo como
-  etiqueta de comunidad, nunca para dirigirse directo a la persona (§D.2).
-- **EVITAR:** jerga bancaria oscura ("acreditación de haberes", "titular de
-  la cuenta", "domiciliación bancaria" en comunicación al cliente); "Cliente"
-  / "Usuario" / "Usted" al dirigirse directamente a la persona (Lista Negra
-  del Manual); cualquier lenguaje de mora o cobranza — Abono Rem no es un
-  producto de crédito y no hay motivo para que aparezca fuera de contexto;
-  fechas de acreditación prometidas como garantía absoluta.
-- **Regla de Marca:** Se usa "MACHBANK" para referirse a la marca en todo
-  momento, sin variaciones.
+Además de las reglas generales del Manual de Comunicación (tú, sin "usted",
+sin jerga bancaria — `08-manual-comunicacion-y-glosario.md`).
+
+- **USAR:** Abono Rem · Abono de sueldo · Tu sueldo · Cuenta principal ·
+  Cupo.
+- **EVITAR:** Fondos / Haberes · Vencimiento, Mora (si hay contexto de pagos
+  asociado) · "Realizar un ingreso de remuneración" · cualquier jerga
+  bancaria formal.
+
+> ⚠️ **Nombre de marca:** se usa **MACHBANK** hasta que se resuelva la
+> arquitectura MACH (uso cotidiano) / MACHBANK (institucional), hoy en
+> piloto (`10-argumento-mach-uso-diario.md`; brecha 6, abierta, de
+> `00-brief.md`). Este playbook se actualiza automáticamente cuando esa
+> decisión se cierre.
 
 ## 5. Mensajes por etapa (Full-funnel)
 
-- **AWARENESS:** Para No Clientes, romper el prejuicio de que MACHBANK es
-  "solo una billetera" y no un lugar apto para el sueldo. No liderar con
-  mecánicas de sorteo o promoción — el mandato de marca lo excluye
-  explícitamente y el riesgo ya está diagnosticado: la campaña de mayor
-  alcance del año ("Duplica tu Sueldo") comunica azar justo donde se necesita
-  comunicar confianza (`decisiones.md` R16).
-- **CONSIDERACIÓN:** Beneficios concretos y verificables, sin letra chica:
-  $0 mantención si se registra antes del 31-dic-2026, transferencias sin
-  costo a cualquier banco nacional, giro sin cargo en toda la red de cajeros
-  (`00-brief.md` §3). Se comunican como razones para que el sueldo viva aquí,
-  no como gancho de adquisición aislado.
-- **CONVERSIÓN:** Llamado a la acción de baja fricción operativa: qué datos
-  compartir con el empleador y dónde encontrarlos en la app, en el menor
-  número de pasos posible. No se pide un trámite en otro banco — se pide un
-  dato que el cliente ya tiene.
-- **FIDELIZACIÓN:** Cross-sell activado por la domiciliación exitosa (Ahorro
-  24/7 automático, MACH Premium, cashback vía BCI Plus+) y recordatorio de
-  que el beneficio de $0 mantención sigue activo.
+Mismo territorio, distinto énfasis según dónde está la persona.
+
+| Etapa | Audiencia | Mensaje |
+|---|---|---|
+| **AWARENESS** | No clientes | Romper el prejuicio "solo tarjeta prepago" — mostrar que MACHBANK puede ser cuenta principal. |
+| **CONSIDERACIÓN** | No clientes | Beneficios concretos y verificables de traer el sueldo — sin letra chica. |
+| **CONVERSIÓN** | Clientes sin sueldo vinculado | Cambiar el abono toma minutos, no mueve nada más de tus finanzas. |
+| **FIDELIZACIÓN** | Clientes con sueldo vinculado | Recordar beneficios activos, abrir cross-sell (ahorro, Premium). |
+
+> ⚠️ **Cuidado en Awareness:** evitar liderar con mecánicas de sorteo o
+> "duplica tu sueldo" como mensaje principal — compite con el posicionamiento
+> de banco principal en el que se apoya este mismo playbook (`decisiones.md`
+> R16). Puede convivir como táctica puntual, nunca como el mensaje que abre
+> la relación.
 
 ## 6. Así hablamos / Así no hablamos
 
-- **Invitación a domiciliar**
-  - **ASÍ HABLAMOS:** "Tu sueldo puede entrar directo a la cuenta que ya usas
-    para pagar y transferir. Pídele a tu empleador que actualice tus datos —
-    te dejamos todo listo para compartir. Toca MACHBANK."
-  - **ASÍ NO HABLAMOS:** "Estimado usuario, le informamos que puede realizar
-    la acreditación de sus haberes en su cuenta corriente MACHBANK. Consulte
-    con su empleador el proceso de domiciliación bancaria."
+Tres momentos reales de Abono Rem.
 
-- **Confirmación del primer abono**
-  - **ASÍ HABLAMOS:** "¡Llegó! Tu sueldo ya está en tu cuenta MACHBANK.
-    Desde ahora, todo tu dinero vive en un solo lugar."
-  - **ASÍ NO HABLAMOS:** "Transacción TEF-004821 procesada con éxito. Monto
-    acreditado en cuenta N° XXXXXXXX."
+- **Confirmación exitosa**
+  - **ASÍ HABLAMOS:** "¡Listo! Tu sueldo ya está en MACHBANK. Desde hoy tu
+    cupo y tus beneficios crecen contigo."
+  - **ASÍ NO HABLAMOS:** "Estimado usuario: se ha procesado exitosamente su
+    abono de remuneración en su cuenta corriente."
 
-- **Sueldo no llega en la fecha esperada**
-  - **ASÍ HABLAMOS:** "Vimos que tu sueldo todavía no llega. Puede pasar si
-    tu empleador recién actualizó tus datos — tu cuenta está lista para
-    recibirlo apenas se procese. Te avisamos ni bien llegue."
-  - **ASÍ NO HABLAMOS:** "Lamentamos informar que no fue posible verificar el
-    abono de tu remuneración en el plazo estipulado. Contacta a tu empleador
-    para mayor información. Código de error: PAY-500."
+- **Invitación a vincular sueldo**
+  - **ASÍ HABLAMOS:** "Trae tu sueldo a MACHBANK y desbloquea tu cupo, tu
+    tasa y tus beneficios. Todo junto, sin letra chica."
+  - **ASÍ NO HABLAMOS:** "¡Duplica tu sueldo si te cambias hoy! Sorteo por
+    tiempo limitado." — Riesgo estratégico, no solo de tono: recluta por
+    premio, no por confianza (ver §5).
+
+- **El abono no se pudo confirmar**
+  - **ASÍ HABLAMOS:** "No pudimos confirmar tu abono de sueldo. Revisa los
+    datos con tu empleador o escríbenos, seguimos aquí."
+  - **ASÍ NO HABLAMOS:** "Error: abono de remuneración no procesado. Código
+    E-402."
 
 ## 7. Excepciones y validaciones
 
 - Cualquier tasa, cupo o beneficio mencionado en comunicación debe pasar por
   Producto, Riesgo y Compliance antes de publicarse.
 - No prometer montos o tasas sin condiciones visibles en la misma pieza.
-- No liderar adquisición con mecánica de sorteo o promoción como mensaje
-  principal; solo como recurso puntual.
-- Específico de Abono Rem: ninguna fecha o plazo de acreditación se comunica
-  como garantía absoluta — el proceso depende del empleador, no solo de
-  MACHBANK. Cualquier plazo mencionado debe validarse con Operaciones antes
-  de publicarse.
+- No liderar adquisición con mecánica de sorteo o promoción — puede usarse
+  como recurso puntual, nunca como mensaje principal.
+- Específico de Abono Rem: ningún plazo de acreditación se comunica como
+  garantía absoluta — el proceso depende del empleador, no solo de
+  MACHBANK.
 
 ## 8. Assets de referencia
 
+Del Brandbook — no se rediseña nada acá, solo se recuerda.
+
 - **Colores obligatorios:** Morado MACH (#6200EE) y Rosado (#FF00FF).
-- **Recursos visuales:** Uso de contenedor gradiente en bloques de
-  información y La Flecha para destacar frases clave, fondos o cerrar
-  botones CTA. En Abono Rem, la Flecha se usa para señalar el CTA de
-  "comparte tus datos con tu empleador".
-- **Tipografía:** Loos (oficial) y Zalando Sans (alternativa digital
-  aprobada).
+- **Recursos visuales:** Contenedor gradiente en bloques de información. La
+  Flecha (∧): destaca frases clave, cierra botones de CTA, o se usa en
+  fondos a gran escala.
+- **Tipografía:** Loos (oficial) — Zalando Sans como alternativa digital
+  aprobada por el Brandbook.
 
 ## 9. Antes de publicar (Checklist)
 
-- [ ] ¿Usa el nombre de marca vigente (MACHBANK)?
+- [ ] ¿Usa el nombre de marca vigente (§4)?
 - [ ] ¿Respeta el léxico de la sección 4?
 - [ ] ¿El tono corresponde al momento (§3)?
 - [ ] ¿Si menciona tasa, cupo o beneficio, fue validado por Compliance?
 - [ ] ¿Evita liderar con mecánica de sorteo o promoción?
 - [ ] ¿Cierra con "Toca MACHBANK" o el dispositivo vigente aprobado?
+
+---
+
+*Playbook piloto · basado en Brandbook V.1 y Manual de Comunicación
+MACHBANK. Revisar en el próximo comité de marca.*

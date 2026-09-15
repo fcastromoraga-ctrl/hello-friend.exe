@@ -240,3 +240,14 @@ corrección.
 | **Contenido** | Contexto de negocio (principalidad, brecha 62K vs. 100K), territorio y RTB (postura de fiabilidad, no "fácil de usar", fundamentada en `05` §C y `00-brief.md` §6bis), voz y tono con matriz de 4 momentos específicos del producto, léxico (modulación Lucas/Plata heredada de `08`), mensajes full-funnel, 3 escenarios Así hablamos/Así no hablamos, excepciones, assets y checklist. |
 | **Fuente de los datos** | Reutiliza diagnóstico ya registrado en este expediente (`00`, `02`, `05`, `08`, y los riesgos R9/R13/R16) — no se introdujeron datos de negocio nuevos. Un vacío se marcó explícitamente como `[SUPUESTO]` (brecha 5, causa de la no domiciliación). |
 | **Estado** | `BORRADOR — EN VALIDACIÓN`. No se registra como `APROBADO` hasta que el usuario lo confirme; queda pendiente extender el mismo formato a los otros playbooks planificados para septiembre (Crédito TC y Consumo, `09` §4). |
+
+---
+
+## 2026-09-15 — Reconciliación con el diseño visual entregado (piloto original, 10-ago-2026)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Subió `Playbook_Abono_Rem_MACHBANK.pdf` — diseño visual del playbook piloto de Abono Rem, con fecha "Actualizado: 10 ago 2026" (versión previa a la reescrita el mismo día en este expediente). Pidió usar ese diseño y contenido como base. |
+| **Hallazgo** | El PDF es más preciso que el borrador propio del mismo día en varios puntos: conecta Abono Rem con el resto del ecosistema (cupo, tasa de ahorro), distingue explícitamente mensajes **Confirmados** (aprobados a nivel de marca) de posturas **Propuestas — sujeto a comité** (la fiabilidad sobre "fácil"), y refleja la brecha 6 abierta del brief (arquitectura MACH/MACHBANK) en la regla de nombre de marca — donde la versión anterior de este expediente asumía "MACHBANK sin variaciones" sin esa matización. |
+| **Acción** | Se reescribió `12-playbook-abono-rem.md` para adoptar el contenido y la terminología exactos del PDF (manteniendo la estructura de 9 secciones sin alterarla), y se agregó `12-playbook-abono-rem.html` — versión navegable del mismo diseño visual (tarjeta degradado morado→rosado, chips Confirmado/Propuesto, checklist interactivo), publicada como Artifact. |
+| **Estado** | `BORRADOR — EN VALIDACIÓN`, igual que antes. El `.md` es la fuente de verdad en texto; el `.html` es la referencia de diseño. Sirve como plantilla visual de referencia para los próximos playbooks (Crédito TC y Consumo). |
