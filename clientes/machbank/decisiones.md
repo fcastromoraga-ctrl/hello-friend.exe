@@ -198,7 +198,7 @@ corrección.
 | **P33** | **Formalizar `decisiones.md` (este expediente) como documento oficial de gobernanza de marca**, no solo material de trabajo. | `09` §3.1 | ⏳ Sin validar |
 | **P34** | **Framework de evaluación de auspicios/eventos contra los 3 passion points** (entretenimiento cotidiano, turismo realista, deporte accesible), con revisión trimestral de portafolio. | `09` §3.2 | ⏳ Sin validar |
 | **P35** | **Plantilla de preparación semanal para la reunión de medios de los miércoles**, con verificación de piso de alcance (D1) como primer punto fijo. | `09` §3.3 | ⏳ Sin validar |
-| **P36** | **Formato estándar de playbook por producto** (contexto, RTB, tono con referencia al Manual de Comunicación, ejemplos, excepciones), piloto con Abono Rem en agosto. | `09` §3.4 | ⏳ Sin validar |
+| **P36** | **Formato estándar de playbook por producto** (contexto, RTB, tono con referencia al Manual de Comunicación, ejemplos, excepciones), piloto con Abono Rem en agosto. | `09` §3.4 | 🟡 **Piloto entregado — ver `12-playbook-abono-rem.md`.** Pendiente de validación del usuario. |
 | **P37** | **Piloto de "MACH" en canal de bajo riesgo** (WhatsApp/push/RRSS) por 4–6 semanas antes de expandir la arquitectura de dos niveles. | `10` §6 | ⏳ Sin validar |
 | **P38** | **Instaurar la "clínica estratégica"** con el Senior Brand Strategist — cadencia quincenal/mensual, el usuario razona la decisión en vez de solo recibirla, como preparación explícita para el ascenso a ese rol. | `09` §3.6.C | ⏳ Sin validar |
 | **P39** | **Instaurar revisión de piezas creativas contra el estándar de marca**, previa a que la agencia creativa lleve propuestas a medios — cierra el vacío que permitió que "banco simple que nunca te deja botado" llegara sin este filtro. | `09` §3.6.B | ⏳ Sin validar |
@@ -228,3 +228,15 @@ corrección.
 | **R13** | **Mercado Pago gana el depósito de sueldo por 20 puntos** entre bases propias, en direcciones opuestas. Es el indicador que sostiene la principalidad. | 🔴 **Alta** | P18 |
 | **R14** | **Cuarto reinicio en 18 meses** si se abandona "Toca MACHBANK" sin comprometer el reemplazo por años. | 🟠 Media | P10, H.5 |
 | **R10** | El Brandbook define la audiencia como "diversa y transversal" mientras el plan opera sobre Segmento Clásico. Sin restricción creativa, la ejecución seguirá dispersa por diseño. | 🟠 Media | P13 |
+
+---
+
+## 2026-09-15 — Playbook de producto: Abono Rem (piloto de formato)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Estructura estándar de "Playbook de Producto" (rol Brand & Product Strategist Senior MACHBANK), a aplicar sobre el brief de un producto. |
+| **Entregable** | `12-playbook-abono-rem.md` — primer playbook de producto del expediente, usando el formato comprometido en P36. |
+| **Contenido** | Contexto de negocio (principalidad, brecha 62K vs. 100K), territorio y RTB (postura de fiabilidad, no "fácil de usar", fundamentada en `05` §C y `00-brief.md` §6bis), voz y tono con matriz de 4 momentos específicos del producto, léxico (modulación Lucas/Plata heredada de `08`), mensajes full-funnel, 3 escenarios Así hablamos/Así no hablamos, excepciones, assets y checklist. |
+| **Fuente de los datos** | Reutiliza diagnóstico ya registrado en este expediente (`00`, `02`, `05`, `08`, y los riesgos R9/R13/R16) — no se introdujeron datos de negocio nuevos. Un vacío se marcó explícitamente como `[SUPUESTO]` (brecha 5, causa de la no domiciliación). |
+| **Estado** | `BORRADOR — EN VALIDACIÓN`. No se registra como `APROBADO` hasta que el usuario lo confirme; queda pendiente extender el mismo formato a los otros playbooks planificados para septiembre (Crédito TC y Consumo, `09` §4). |
