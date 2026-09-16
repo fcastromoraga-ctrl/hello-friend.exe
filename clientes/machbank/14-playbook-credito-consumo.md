@@ -7,7 +7,7 @@ cualquier equipo, sin tener que preguntar cada vez.
 
 **Dueño:** Brand Governance MACHBANK
 **Actualizado:** 2026-09-15
-**Próxima revisión:** Lanzamiento de la campaña masiva de crédito (sep 2026)
+**Próxima revisión:** Lanzamiento de la campaña masiva de Propuesta de Valor & Abono Rem — salida tentativa 2026-10-12
 
 **Estado:** `BORRADOR — EN VALIDACIÓN`. Tercer playbook de producto del
 expediente, mismo formato que `12-playbook-abono-rem.md` y

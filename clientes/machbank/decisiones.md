@@ -263,3 +263,14 @@ corrección.
 | **Diferencia de contenido frente a Abono Rem** | Para crédito, MACHBANK **lidera** el indicador de asociación (39% vs. 24% Mercado Pago vs. 21% Tenpo — P18, `05` §E/§H.2), a diferencia de Abono Rem donde va perdiendo. El territorio de trabajo es "Creciste, crecimos" (P15, reemplazo de P4) y transparencia radical (P3) en vez de gratuidad/beneficios. Se agregó un tercer estado de mensaje —**Territorio descartado**— para dejar explícito que ninguna pieza puede prometer "crédito por tu historial con nosotros": ese territorio fue evaluado y descartado (P4, R4) porque la originación usa scoring tradicional, no data transaccional propia. |
 | **Riesgos operativos cubiertos** | Léxico y escenarios de mora/cuota impaga con tono Cuidador, no punitivo (Manual §9); regla de no prometer aprobación, cupo, tasa o CAE antes de evaluación de Riesgo/Compliance; prohibición explícita de posicionar el crédito como solución a sobreendeudamiento. |
 | **Estado** | `BORRADOR — EN VALIDACIÓN` en ambos. Con esto, los tres playbooks piloto comprometidos para septiembre (`09` §4) están entregados; falta que el usuario los valide y los registre como `APROBADO`. |
+
+---
+
+## 2026-09-16 — Intento de lectura de machbank.cl (bloqueado) y reagendamiento de la campaña masiva
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Pidió basarse en `www.machbank.cl` para el trabajo en curso. |
+| **Intento** | Se intentó `WebFetch` directo a la home y a una subpágina de producto (`/productos/tarjetas/credito`) — ambos bloqueados por el proxy de red del entorno (`EGRESS_BLOCKED`). Confirma la misma restricción ya documentada en `00-brief.md` §8. Se complementó con búsqueda web indexada (no lectura directa): confirma el tagline vigente ("La banca digital que crece contigo", "Toca MACHBANK") y el inventario de páginas de producto activas. También apareció una campaña de sorteo del Mundial ("Tocó mundial, toca MACHBANK") — el usuario indicó que ya no es relevante (el Mundial pasó). |
+| **Corrección de calendario** | El usuario confirmó que la campaña masiva de Propuesta de Valor & Abono Rem —prevista para 2026-09 en `00-brief.md` §2 y `09-unica-fuente-de-verdad.md` §4— se reagendó, **salida tentativa 2026-10-12**. Actualizado en `00-brief.md`, `04-plan-de-avance.md`, `09-unica-fuente-de-verdad.md` y en el campo "Próxima revisión" de los tres playbooks (`12`, `13`, `14`, `.md` y `.html`). |
+| **Pendiente** | El usuario indicó que lo importante ahora es **la consistencia** y la nueva campaña de propuesta de valor. Falta que comparta el material de esa campaña (brief, deck, piezas) para poder hacer la lectura de consistencia contra los playbooks y el Manual de Comunicación — sin ese insumo, no hay base verificable para evaluarla. |

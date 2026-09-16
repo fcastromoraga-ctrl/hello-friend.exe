@@ -7,7 +7,7 @@ tener que preguntar cada vez.
 
 **Dueño:** Brand Governance MACHBANK
 **Actualizado:** 2026-09-15
-**Próxima revisión:** Lanzamiento de la campaña masiva Abono Rem (sep 2026)
+**Próxima revisión:** Lanzamiento de la campaña masiva de Propuesta de Valor & Abono Rem — salida tentativa 2026-10-12
 
 **Estado:** `BORRADOR — EN VALIDACIÓN`. Reconcilia el diseño visual entregado
 por el usuario (`Playbook_Abono_Rem_MACHBANK.pdf`, versión del 10-ago-2026)

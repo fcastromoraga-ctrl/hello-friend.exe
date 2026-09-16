@@ -32,8 +32,8 @@
 | 2026-04 | Campaña alianza JetSmart — primer abordaje full funnel. |
 | 2026 | Migración masiva de prepago → Cuenta Corriente con débito Visa. |
 | **2026-08** | **Hito vigente: "tono y estilo renovado para diferenciarse".** |
-| 2026-09 | Campaña masiva Propuesta de valor & Abono rem. |
-| 2026-10 | Medición trimestral de atributos clave y % consideración. |
+| **2026-10-12** | **Nueva fecha (2026-09-16).** Campaña masiva de Propuesta de Valor & Abono Rem — salida tentativa, antes prevista para 2026-09. |
+| 2026-10 | Medición trimestral de atributos clave y % consideración. Verificar si coincide o se corre por el reagendamiento de la campaña. |
 | 2026-12-31 | Fecha límite de la promesa "$0 mantención para siempre". |
 
 ## 3. Oferta verificada
