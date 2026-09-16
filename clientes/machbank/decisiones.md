@@ -274,3 +274,17 @@ corrección.
 | **Intento** | Se intentó `WebFetch` directo a la home y a una subpágina de producto (`/productos/tarjetas/credito`) — ambos bloqueados por el proxy de red del entorno (`EGRESS_BLOCKED`). Confirma la misma restricción ya documentada en `00-brief.md` §8. Se complementó con búsqueda web indexada (no lectura directa): confirma el tagline vigente ("La banca digital que crece contigo", "Toca MACHBANK") y el inventario de páginas de producto activas. También apareció una campaña de sorteo del Mundial ("Tocó mundial, toca MACHBANK") — el usuario indicó que ya no es relevante (el Mundial pasó). |
 | **Corrección de calendario** | El usuario confirmó que la campaña masiva de Propuesta de Valor & Abono Rem —prevista para 2026-09 en `00-brief.md` §2 y `09-unica-fuente-de-verdad.md` §4— se reagendó, **salida tentativa 2026-10-12**. Actualizado en `00-brief.md`, `04-plan-de-avance.md`, `09-unica-fuente-de-verdad.md` y en el campo "Próxima revisión" de los tres playbooks (`12`, `13`, `14`, `.md` y `.html`). |
 | **Pendiente** | El usuario indicó que lo importante ahora es **la consistencia** y la nueva campaña de propuesta de valor. Falta que comparta el material de esa campaña (brief, deck, piezas) para poder hacer la lectura de consistencia contra los playbooks y el Manual de Comunicación — sin ese insumo, no hay base verificable para evaluarla. |
+
+---
+
+## 2026-09-16 — Lectura crítica de VB4 (MEAT) contra los playbooks de producto
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Subió `MACH_CAMPAÑA_2026_-_VB_4_-_PDF.pdf` — 28 páginas, sucesora de la VB3 ya leída en `11-lectura-propuesta-meat-campana2026.md`. |
+| **Entregable** | `15-lectura-propuesta-meat-vb4-campana2026.md`. |
+| **Hallazgo principal** | VB4 **madura** el territorio de VB3 ("Un banco pero MACH") en vez de reiniciarlo — buena señal frente al patrón de reinicios (R8). La pieza de descuento Amazon que preocupaba en VB3 (bandera D.3, riesgo R6) **no se repitió**. Pero con el estándar de los playbooks (`12`, `13`, `14`) ya escrito, aparece un hallazgo que la lectura de VB3 no pudo hacer: **ninguna pieza de VB4 cierra con "Toca MACHBANK"** — la misma omisión de VB3, ahora imposible de pasar por alto porque los tres playbooks lo fijan como regla no negociable (§2 y checklist §9). |
+| **Segundo hallazgo** | El wordmark "MACH" como hero gráfico de la campaña coincide, de hecho, con la arquitectura de dos niveles MACH/MACHBANK propuesta en P5 (`10-argumento-mach-uso-diario.md`) — pero P5 sigue sin decisión formal ("en preparación para comité de marca"). La campaña está ejecutando esa arquitectura de facto antes de que se decida. |
+| **Siguen abiertas de VB3** | La Flecha (∧) no aparece en ninguna de las 28 páginas (N24). "Creciste, crecimos" sigue sin citarse (N26). El asterisco de "costo $0" sigue sin letra chica visible (D.4/D.5). |
+| **Preguntas nuevas** | N27 — ¿se reemplaza "Toca MACHBANK" formalmente o se pide a MEAT que lo incorpore? N28 — ¿se puede cerrar la decisión de arquitectura MACH/MACHBANK (P5) antes del 2026-10-12, ya que la campaña la está ejecutando de facto? |
+| **Estado** | `BORRADOR`. Recomendación: resolver N27/N28 con Branding esta semana (gobernanza, no rediseño), pedir a MEAT una pieza dedicada de Abono Rem y un momento de error/falla para poder contrastarlos contra `12`, y confirmar la letra chica del "$0" antes de arte final. |
