@@ -71,9 +71,12 @@ de Consumo. No queda `APROBADO` hasta que el usuario lo registre como tal en
 > transaccional propia (`decisiones.md` P4, R4). Prometerlo es un claim
 > falso.
 
-> **Confirmado** — Cierre Vigente
-> El cierre de plataforma vigente sigue siendo **"Toca MACHBANK"**. No se
-> reemplaza sin decisión formal.
+> ⛔ **Retirado (2026-09-16)** — Cierre de Plataforma
+> **"Toca MACHBANK" ya no se usa como claim** — decisión del usuario, ver
+> `decisiones.md`. Todavía no hay un reemplazo confirmado; no asumir que
+> "Un banco pero MACH" (VB4) lo es hasta que se decida formalmente. Mientras
+> tanto, las piezas pueden cerrar solo con el isotipo/lockup MACHBANK, sin
+> remate verbal — así lo está haciendo ya la agencia (`15-lectura-propuesta-meat-vb4-campana2026.md`).
 
 ## 3. Voz y tono
 
@@ -175,7 +178,7 @@ Del Brandbook — no se rediseña nada acá, solo se recuerda.
 - [ ] ¿El tono corresponde al momento (§3)?
 - [ ] ¿Si menciona tasa, cupo o beneficio, fue validado por Compliance?
 - [ ] ¿Evita liderar con mecánica de sorteo o promoción?
-- [ ] ¿Cierra con "Toca MACHBANK" o el dispositivo vigente aprobado?
+- [ ] ¿Evita usar "Toca MACHBANK" como claim (retirado 2026-09-16)? ¿Cierra con el dispositivo vigente aprobado, si ya existe uno?
 
 ---
 
