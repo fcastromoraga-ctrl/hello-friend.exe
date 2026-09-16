@@ -77,6 +77,15 @@ documento — confirmar.
 
 ## E. Estado de P41 — ¿VB4 resuelve la tensión Flecha vs. wordmark "MACH"?
 
+> **Nota de actualización (2026-09-16):** P41 fue resuelta por el usuario —
+> convivencia gobernada por etapa de funnel: wordmark "MACH" a nivel de
+> awareness/propuesta de valor, Flecha (∧) preponderante en la profundización
+> de producto, explícitamente no excluyentes. Ver `decisiones.md`, entrada
+> 2026-09-16. El análisis siguiente se conserva sin cambios porque documenta
+> por qué VB4, tal como llegó, dejaba la pregunta agravada y sin decidir —
+> es el diagnóstico que motivó la decisión, no una lectura vigente del estado
+> de la tensión.
+
 **No la resuelve. La agrava.**
 
 `decisiones.md` P41 pide decidir explícitamente si el wordmark "MACH" (a) reemplaza
