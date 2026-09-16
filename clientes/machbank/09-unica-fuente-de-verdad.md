@@ -219,8 +219,8 @@ crecimiento hacia un rol como el de Senior Brand Strategist.
 | Período | Foco | Hitos |
 |---|---|---|
 | **Ago (semanas 3–4)** | Fundacional | Cerrar N2 y N18 con branding. Decisión formal MACH/MACHBANK (ver `10-argumento-mach-uso-diario.md`). Playbook piloto de un solo producto (recomiendo Abono Rem, por ser el foco de la campaña de septiembre). Primera reunión de miércoles con la plantilla nueva. Arrancar el catálogo de reuniones de §3.6. |
-| **Sep** | Playbooks de productos estratégicos | Playbooks de Crédito (TC y Consumo) y Abono Rem completos, listos antes del lanzamiento de la campaña masiva ya planificada. Evaluación de la primera oportunidad de auspicio bajo el framework de §3.2. Primera clínica estratégica. |
-| **Oct** | Medición y ajuste | Se cruza con la medición trimestral ya planificada en `04` — usar esa instancia para revisar Fame/Uniqueness de "Toca MACHBANK" vs. cualquier propuesta que haya avanzado. Revisión de portafolio de auspicios Q4. Primer QBR con agencias. |
+| **Sep** | Playbooks de productos estratégicos | Playbooks de Crédito (TC y Consumo) y Abono Rem completos — **entregados 2026-09-15/16**, pendientes de validación. Evaluación de la primera oportunidad de auspicio bajo el framework de §3.2. Primera clínica estratégica. |
+| **Oct** | Lanzamiento + medición y ajuste | **Corrección (2026-09-16):** la campaña masiva de Propuesta de Valor & Abono Rem se reagendó de sep a **2026-10-12 (tentativa)** — confirmar si la medición trimestral de `04` se mueve con ella. Revisar Fame/Uniqueness de "Toca MACHBANK" vs. cualquier propuesta que haya avanzado. Revisión de portafolio de auspicios Q4. Primer QBR con agencias. |
 | **Nov–Dic** | Estrés en alta estacionalidad | Black Friday, Cyber Monday, Navidad — es el mejor test real de si los playbooks sostienen consistencia bajo presión comercial alta, que es exactamente cuando más se rompe. Cierre de año: qué playbooks funcionaron, qué falta para 2027. |
 
 ---

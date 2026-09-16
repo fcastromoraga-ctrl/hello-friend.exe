@@ -174,7 +174,7 @@ corrección.
 | P6 | Resolver la contradicción "agilidad fintech + 85 años de Bci" con jerarquía explícita. | `01` §1.5 | ⏳ Sin validar |
 | **P7** | **Reencuadrar el hito de agosto: de "tono y estilo renovado" a corrección del modelo de medios + territorio propio.** | `02` §F | ⏳ Sin validar — **decisión más urgente, hito vence en agosto** |
 | **P8** | **Abandonar los tres atributos foco como eje de diferenciación** (universal / fácil / va a funcionar). Son higiene de categoría; el líder mismo solo llega a 22–27%. | `02` §C.3 | ⏳ Sin validar |
-| **P9** | **Revisar "Tocó X, Toca Machbank"** — falla el test del robo de Neumeier y la plataforma "Simplicidad resolutiva" se apoya en el atributo relativamente más débil. | `02` §C.4 | ⏳ Sin validar |
+| **P9** | **Revisar "Tocó X, Toca Machbank"** — falla el test del robo de Neumeier y la plataforma "Simplicidad resolutiva" se apoya en el atributo relativamente más débil. | `02` §C.4 | ✅ **Resuelta (2026-09-16).** El usuario decidió retirar "Toca MACHBANK" como claim. |
 | **P10** | **NO renovar el tono en agosto.** Reencuadrar el hito a "capa ejecutable de la voz": matriz Decimos/No Decimos, léxico, modulación por contexto, ejemplos antes/después. | `03` §B.1, §B.3, §D | ⏳ Sin validar — **la más urgente** |
 | **P11** | **Corregir el sistema de arquetipos:** Héroe 55% + Cuidador 30% + Explorador 15%, en reemplazo de Explorador + Héroe. Fundamento: ninguno de los dos actuales entrega "va a funcionar" (11% vs 22% del líder), y nadie domicilia su sueldo en un Explorador. | `03` §B.2 | ⏳ Sin validar |
 | **P12** | **Elevar "A toda prueba" a primer valor** y bajar o reformular "Cliente al centro" (cliché que no diferencia). | `03` §B.5 | ⏳ Sin validar |
@@ -187,7 +187,7 @@ corrección.
 | **P20** | **Conservar de la V3:** modularidad del claim, sueldo como multiplicador, identidad sonora propia (comprometida por años), estructura de dos públicos, códigos anclados al brandbook. | `05` §H.4 | ⏳ Sin validar |
 | **P15** | **Desarrollar "Creciste, crecimos"** como semilla de territorio — única línea del Brandbook con idea propia, compatible con el white space de crédito. | `03` §B.4 | ⏳ Sin validar |
 | **P24** | **Verificar contra el corte Q2 2026 de Kantar** si MACHBANK gana o pierde asociación a "Banco" vs. "Billetera digital", antes de presentar la lámina que afirma lo contrario. | `07` §C.1 | 🔴 **Verificar antes de la reunión** |
-| **P25** | **Decidir un solo tagline** entre "Toca MACHBANK", "Todo, fácil." y "Somos un banco simple que nunca te deja botado" — no pueden convivir los tres sin diluirse. | `07` §E | ⏳ Sin validar |
+| **P25** | **Decidir un solo tagline** entre "Toca MACHBANK", "Todo, fácil." y "Somos un banco simple que nunca te deja botado" — no pueden convivir los tres sin diluirse. | `07` §E | 🟡 **Parcial (2026-09-16).** "Toca MACHBANK" queda fuera de la disputa (retirado como claim, ver decisión del día). Sigue sin decidirse cuál de las alternativas restantes —o "Un banco pero MACH" de VB4— lo reemplaza. |
 | **P26** | **Resolver la tensión entre "Duplica tu Sueldo" (ruido) y "Principal Partner financiero" (confianza)** en la fase de mayor alcance de medios. | `07` §C.3 | ⏳ Sin validar |
 | **P27** | **Confirmar si "mantener plataforma actual" (este documento) reemplaza al hito "tono renovado agosto"** (Para el martes). Si es así, valida P10 sin necesidad de defenderlo. | `07` §D.2 | ⏳ Sin validar |
 | **P28** | **Declarar el Manual de Comunicación (UX Content) como anexo oficial de voz del Brandbook.** Cierra D4 sin producción nueva. | `08` §A, §F.1 | ⏳ Sin validar — **anunciable mañana sin preparación** |
@@ -198,7 +198,7 @@ corrección.
 | **P33** | **Formalizar `decisiones.md` (este expediente) como documento oficial de gobernanza de marca**, no solo material de trabajo. | `09` §3.1 | ⏳ Sin validar |
 | **P34** | **Framework de evaluación de auspicios/eventos contra los 3 passion points** (entretenimiento cotidiano, turismo realista, deporte accesible), con revisión trimestral de portafolio. | `09` §3.2 | ⏳ Sin validar |
 | **P35** | **Plantilla de preparación semanal para la reunión de medios de los miércoles**, con verificación de piso de alcance (D1) como primer punto fijo. | `09` §3.3 | ⏳ Sin validar |
-| **P36** | **Formato estándar de playbook por producto** (contexto, RTB, tono con referencia al Manual de Comunicación, ejemplos, excepciones), piloto con Abono Rem en agosto. | `09` §3.4 | ⏳ Sin validar |
+| **P36** | **Formato estándar de playbook por producto** (contexto, RTB, tono con referencia al Manual de Comunicación, ejemplos, excepciones), piloto con Abono Rem en agosto. | `09` §3.4 | 🟡 **Los tres pilotos de septiembre entregados** — ver `12-playbook-abono-rem`, `13-playbook-tarjeta-credito`, `14-playbook-credito-consumo`. Pendiente de validación del usuario. |
 | **P37** | **Piloto de "MACH" en canal de bajo riesgo** (WhatsApp/push/RRSS) por 4–6 semanas antes de expandir la arquitectura de dos niveles. | `10` §6 | ⏳ Sin validar |
 | **P38** | **Instaurar la "clínica estratégica"** con el Senior Brand Strategist — cadencia quincenal/mensual, el usuario razona la decisión en vez de solo recibirla, como preparación explícita para el ascenso a ese rol. | `09` §3.6.C | ⏳ Sin validar |
 | **P39** | **Instaurar revisión de piezas creativas contra el estándar de marca**, previa a que la agencia creativa lleve propuestas a medios — cierra el vacío que permitió que "banco simple que nunca te deja botado" llegara sin este filtro. | `09` §3.6.B | ⏳ Sin validar |
@@ -219,12 +219,86 @@ corrección.
 | **R6** | **Contradicción principalidad ↔ beneficios.** Golden ticket, ruleta y cupones reclutan usuario mercenario, incompatible con principalidad y con pricing power para monetizar crédito. | 🔴 **Crítica** | P3 + P7. Brecha visible: Abono Rem forecast 62K vs ambición 100K. |
 | **R15** | **Contradicción entre fuentes sobre categorización.** La estrategia 2026 completa dice que se gana asociación a "Banco"; Kantar Q2 dice lo opuesto sobre la misma métrica. Riesgo de credibilidad si se presenta sin verificar. | 🔴 **Crítica — antes de la reunión** | P20 |
 | **R16** | **"Duplica tu Sueldo" (sorteo) es la campaña de mayor alcance del año y contradice el posicionamiento "Principal Partner financiero".** El primer contacto masivo con No Clientes es una promesa de azar, no de protección. | 🟠 Alta | P22 |
-| **R17** | **Tres taglines en circulación sin jerarquía declarada** ("Toca MACHBANK", "Todo, fácil.", "Banco simple que nunca te deja botado"). Riesgo de dilución si conviven sin decisión. | 🟠 Media | P21 |
+| **R17** | **Tres taglines en circulación sin jerarquía declarada** ("Toca MACHBANK", "Todo, fácil.", "Banco simple que nunca te deja botado"). Riesgo de dilución si conviven sin decisión. | 🟠 Media → **Reducido (2026-09-16):** "Toca MACHBANK" sale de la disputa. Quedan "Todo, fácil.", "Banco simple..." y "Un banco pero MACH" (VB4) — el riesgo de dilución persiste entre estas tres. | P21 |
 | R7 | ~~Proponer "tono renovado" sin conocer el Brandbook~~ | ✅ **Resuelto** | Brandbook incorporado 2026-08-10. El riesgo se materializó: el hito **sí** contradice al Brandbook. Ver R8. |
 | **R8** | **Reinicio del reloj de activos distintivos por segunda vez en 18 meses** (rebrand ene-2025 → Brandbook ene-2026 → tono renovado ago-2026). Ningún código alcanza a fijarse en memoria. Efecto acumulativo sobre CAC. | 🔴 **Crítica** | P10 |
 | **R9** | **El sistema de arquetipos contradice el objetivo N°1.** Explorador + Héroe no entregan fiabilidad; la principalidad se construye sobre fiabilidad. Brecha Abono Rem 62K vs 100K. | 🔴 **Alta** | P11 |
 | **R11** | **Colapso de imagen entre clientes: −9 pts de promedio en un año.** La relevancia de 91% que tranquiliza al plan es indicador rezagado. Sin corregir, la relevancia cae después. | 🔴 **Crítica** | P16 |
 | **R12** | **La migración prepago → cuenta corriente pudo deteriorar el uso cotidiano.** Retiro en cajero 42→19, débito presencial 48→30, BIP 31→21, concentrado en Q2 2026. Si es producto, ninguna campaña lo arregla. *(Atención: base Q2 más pequeña y sin abril — verificar magnitud.)* | 🔴 **Crítica** | N11 |
 | **R13** | **Mercado Pago gana el depósito de sueldo por 20 puntos** entre bases propias, en direcciones opuestas. Es el indicador que sostiene la principalidad. | 🔴 **Alta** | P18 |
-| **R14** | **Cuarto reinicio en 18 meses** si se abandona "Toca MACHBANK" sin comprometer el reemplazo por años. | 🟠 Media | P10, H.5 |
+| **R14** | **Cuarto reinicio en 18 meses** si se abandona "Toca MACHBANK" sin comprometer el reemplazo por años. | 🟠 Media — **Materializado (2026-09-16):** el usuario decidió abandonarlo. El riesgo ahora es no comprometer el reemplazo por años — ver N27/N28 en `15`. | P10, H.5 |
 | **R10** | El Brandbook define la audiencia como "diversa y transversal" mientras el plan opera sobre Segmento Clásico. Sin restricción creativa, la ejecución seguirá dispersa por diseño. | 🟠 Media | P13 |
+
+---
+
+## 2026-09-15 — Playbook de producto: Abono Rem (piloto de formato)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Estructura estándar de "Playbook de Producto" (rol Brand & Product Strategist Senior MACHBANK), a aplicar sobre el brief de un producto. |
+| **Entregable** | `12-playbook-abono-rem.md` — primer playbook de producto del expediente, usando el formato comprometido en P36. |
+| **Contenido** | Contexto de negocio (principalidad, brecha 62K vs. 100K), territorio y RTB (postura de fiabilidad, no "fácil de usar", fundamentada en `05` §C y `00-brief.md` §6bis), voz y tono con matriz de 4 momentos específicos del producto, léxico (modulación Lucas/Plata heredada de `08`), mensajes full-funnel, 3 escenarios Así hablamos/Así no hablamos, excepciones, assets y checklist. |
+| **Fuente de los datos** | Reutiliza diagnóstico ya registrado en este expediente (`00`, `02`, `05`, `08`, y los riesgos R9/R13/R16) — no se introdujeron datos de negocio nuevos. Un vacío se marcó explícitamente como `[SUPUESTO]` (brecha 5, causa de la no domiciliación). |
+| **Estado** | `BORRADOR — EN VALIDACIÓN`. No se registra como `APROBADO` hasta que el usuario lo confirme; queda pendiente extender el mismo formato a los otros playbooks planificados para septiembre (Crédito TC y Consumo, `09` §4). |
+
+---
+
+## 2026-09-15 — Reconciliación con el diseño visual entregado (piloto original, 10-ago-2026)
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Subió `Playbook_Abono_Rem_MACHBANK.pdf` — diseño visual del playbook piloto de Abono Rem, con fecha "Actualizado: 10 ago 2026" (versión previa a la reescrita el mismo día en este expediente). Pidió usar ese diseño y contenido como base. |
+| **Hallazgo** | El PDF es más preciso que el borrador propio del mismo día en varios puntos: conecta Abono Rem con el resto del ecosistema (cupo, tasa de ahorro), distingue explícitamente mensajes **Confirmados** (aprobados a nivel de marca) de posturas **Propuestas — sujeto a comité** (la fiabilidad sobre "fácil"), y refleja la brecha 6 abierta del brief (arquitectura MACH/MACHBANK) en la regla de nombre de marca — donde la versión anterior de este expediente asumía "MACHBANK sin variaciones" sin esa matización. |
+| **Acción** | Se reescribió `12-playbook-abono-rem.md` para adoptar el contenido y la terminología exactos del PDF (manteniendo la estructura de 9 secciones sin alterarla), y se agregó `12-playbook-abono-rem.html` — versión navegable del mismo diseño visual (tarjeta degradado morado→rosado, chips Confirmado/Propuesto, checklist interactivo), publicada como Artifact. |
+| **Estado** | `BORRADOR — EN VALIDACIÓN`, igual que antes. El `.md` es la fuente de verdad en texto; el `.html` es la referencia de diseño. Sirve como plantilla visual de referencia para los próximos playbooks (Crédito TC y Consumo). |
+
+---
+
+## 2026-09-15 — Playbooks de producto: Tarjeta de Crédito y Crédito de Consumo
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Pidió aplicar el mismo formato (contenido y diseño) del playbook de Abono Rem a Tarjeta de Crédito y Crédito de Consumo — cierra el plan de `09-unica-fuente-de-verdad.md` §4 ("Playbooks de Crédito (TC y Consumo) y Abono Rem completos" antes del lanzamiento de campaña de septiembre). |
+| **Entregables** | `13-playbook-tarjeta-credito.md` + `.html` y `14-playbook-credito-consumo.md` + `.html` — mismas 9 secciones y mismo sistema visual (tarjeta degradado, chips Confirmado/Propuesto/Descartado, checklist interactivo) que `12-playbook-abono-rem`. Ambos publicados como Artifact. |
+| **Diferencia de contenido frente a Abono Rem** | Para crédito, MACHBANK **lidera** el indicador de asociación (39% vs. 24% Mercado Pago vs. 21% Tenpo — P18, `05` §E/§H.2), a diferencia de Abono Rem donde va perdiendo. El territorio de trabajo es "Creciste, crecimos" (P15, reemplazo de P4) y transparencia radical (P3) en vez de gratuidad/beneficios. Se agregó un tercer estado de mensaje —**Territorio descartado**— para dejar explícito que ninguna pieza puede prometer "crédito por tu historial con nosotros": ese territorio fue evaluado y descartado (P4, R4) porque la originación usa scoring tradicional, no data transaccional propia. |
+| **Riesgos operativos cubiertos** | Léxico y escenarios de mora/cuota impaga con tono Cuidador, no punitivo (Manual §9); regla de no prometer aprobación, cupo, tasa o CAE antes de evaluación de Riesgo/Compliance; prohibición explícita de posicionar el crédito como solución a sobreendeudamiento. |
+| **Estado** | `BORRADOR — EN VALIDACIÓN` en ambos. Con esto, los tres playbooks piloto comprometidos para septiembre (`09` §4) están entregados; falta que el usuario los valide y los registre como `APROBADO`. |
+
+---
+
+## 2026-09-16 — Intento de lectura de machbank.cl (bloqueado) y reagendamiento de la campaña masiva
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Pidió basarse en `www.machbank.cl` para el trabajo en curso. |
+| **Intento** | Se intentó `WebFetch` directo a la home y a una subpágina de producto (`/productos/tarjetas/credito`) — ambos bloqueados por el proxy de red del entorno (`EGRESS_BLOCKED`). Confirma la misma restricción ya documentada en `00-brief.md` §8. Se complementó con búsqueda web indexada (no lectura directa): confirma el tagline vigente ("La banca digital que crece contigo", "Toca MACHBANK") y el inventario de páginas de producto activas. También apareció una campaña de sorteo del Mundial ("Tocó mundial, toca MACHBANK") — el usuario indicó que ya no es relevante (el Mundial pasó). |
+| **Corrección de calendario** | El usuario confirmó que la campaña masiva de Propuesta de Valor & Abono Rem —prevista para 2026-09 en `00-brief.md` §2 y `09-unica-fuente-de-verdad.md` §4— se reagendó, **salida tentativa 2026-10-12**. Actualizado en `00-brief.md`, `04-plan-de-avance.md`, `09-unica-fuente-de-verdad.md` y en el campo "Próxima revisión" de los tres playbooks (`12`, `13`, `14`, `.md` y `.html`). |
+| **Pendiente** | El usuario indicó que lo importante ahora es **la consistencia** y la nueva campaña de propuesta de valor. Falta que comparta el material de esa campaña (brief, deck, piezas) para poder hacer la lectura de consistencia contra los playbooks y el Manual de Comunicación — sin ese insumo, no hay base verificable para evaluarla. |
+
+---
+
+## 2026-09-16 — Lectura crítica de VB4 (MEAT) contra los playbooks de producto
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Subió `MACH_CAMPAÑA_2026_-_VB_4_-_PDF.pdf` — 28 páginas, sucesora de la VB3 ya leída en `11-lectura-propuesta-meat-campana2026.md`. |
+| **Entregable** | `15-lectura-propuesta-meat-vb4-campana2026.md`. |
+| **Hallazgo principal** | VB4 **madura** el territorio de VB3 ("Un banco pero MACH") en vez de reiniciarlo — buena señal frente al patrón de reinicios (R8). La pieza de descuento Amazon que preocupaba en VB3 (bandera D.3, riesgo R6) **no se repitió**. Pero con el estándar de los playbooks (`12`, `13`, `14`) ya escrito, aparece un hallazgo que la lectura de VB3 no pudo hacer: **ninguna pieza de VB4 cierra con "Toca MACHBANK"** — la misma omisión de VB3, ahora imposible de pasar por alto porque los tres playbooks lo fijan como regla no negociable (§2 y checklist §9). |
+| **Segundo hallazgo** | El wordmark "MACH" como hero gráfico de la campaña coincide, de hecho, con la arquitectura de dos niveles MACH/MACHBANK propuesta en P5 (`10-argumento-mach-uso-diario.md`) — pero P5 sigue sin decisión formal ("en preparación para comité de marca"). La campaña está ejecutando esa arquitectura de facto antes de que se decida. |
+| **Siguen abiertas de VB3** | La Flecha (∧) no aparece en ninguna de las 28 páginas (N24). "Creciste, crecimos" sigue sin citarse (N26). El asterisco de "costo $0" sigue sin letra chica visible (D.4/D.5). |
+| **Preguntas nuevas** | N27 — ¿se reemplaza "Toca MACHBANK" formalmente o se pide a MEAT que lo incorpore? N28 — ¿se puede cerrar la decisión de arquitectura MACH/MACHBANK (P5) antes del 2026-10-12, ya que la campaña la está ejecutando de facto? |
+| **Estado** | `BORRADOR`. Recomendación: resolver N27/N28 con Branding esta semana (gobernanza, no rediseño), pedir a MEAT una pieza dedicada de Abono Rem y un momento de error/falla para poder contrastarlos contra `12`, y confirmar la letra chica del "$0" antes de arte final. |
+
+---
+
+## 2026-09-16 — Decisión formal: se retira "Toca MACHBANK" como claim
+
+| Campo | Detalle |
+|---|---|
+| **Decisión** | El usuario, con mandato de gobernanza de marca (`00-brief.md` brecha 2), determinó que **"Toca MACHBANK" no se usará más — al menos no a nivel de claim.** Resuelve N27 (`15-lectura-propuesta-meat-vb4-campana2026.md`). |
+| **Fundamento** | No queda registrado en el input del usuario más allá de la instrucción directa. **[SUPUESTO]** Es consistente con que dos versiones consecutivas de la agencia incumbente (VB3 y VB4, `11` y `15`) ya lo omitían sin que nadie lo objetara — la práctica llegó antes que la decisión formal. |
+| **Matiz explícito del usuario** | "Al menos no a nivel de claim" — deja abierto que el verbo "toca" pueda sobrevivir en un uso funcional/literal (ej. un CTA de interfaz tipo "Toca para continuar"), distinto de su uso anterior como **tagline de posicionamiento** ("Tocó [Necesidad], Toca MACHBANK"). No asumo cuál de los dos usos se retira sin que el usuario lo confirme — ver brecha nueva abajo. |
+| **Qué reemplaza el cierre** | **Sin decidir todavía.** No asumo que "Un banco pero MACH" (VB4) sea el reemplazo automático — es candidato, no decisión. Queda como pregunta abierta N29. |
+| **Entregables actualizados** | `07-estrategia-2026-completa.md` (nota de corrección sobre la tabla de estatus de dispositivos), `12-playbook-abono-rem`, `13-playbook-tarjeta-credito`, `14-playbook-credito-consumo` (`.md` y `.html`): la sección "Cierre Vigente" y el ítem 6 del checklist se marcan como retirados, sin reemplazo confirmado. |
+| **Brecha nueva** | N29 — ¿"Toca" sobrevive como verbo de interfaz (fuera de discusión, uso funcional) o se retira también de ese uso? N30 — ¿qué dispositivo cierra las piezas mientras no haya reemplazo: nada (solo isotipo, como ya hace VB4) o algo transitorio? |
+| **Estado** | `APROBADO` — es una instrucción directa del usuario, se registra como decisión cerrada, no como propuesta. |

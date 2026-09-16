@@ -67,6 +67,11 @@ La única plataforma confirmada y vigente es **"Toca MACHBANK" / "Tocó
 [Necesidad], Toca MACHBANK"**. El resto compite por reemplazarla o
 complementarla, pero ninguna tiene ese estatus todavía.
 
+**Corrección (2026-09-16):** el usuario decidió retirar "Toca MACHBANK" como
+claim — ver `decisiones.md`. Ya no es la plataforma vigente; tampoco hay
+todavía un reemplazo confirmado. El razonamiento de esta sección se conserva
+como registro de método.
+
 Aparece repetida en cuatro láminas distintas (33, 45, 79, 84):
 
 > **"Somos un banco simple, que te escucha y nunca te deja botado."**
@@ -222,14 +227,20 @@ tomada, no alternativas en pie de igualdad:
 
 | Dispositivo | Estatus | Fuente |
 |---|---|---|
-| **"Toca MACHBANK"** | ✅ **Confirmado, vigente** | Brandbook + Estrategia 2026, plataforma "Always On" |
+| ~~"Toca MACHBANK"~~ | ❌ **Retirado como claim (2026-09-16)** — decisión del usuario, ver `decisiones.md` | Brandbook + Estrategia 2026, plataforma "Always On" (histórico) |
 | "Todo, fácil." | 🔵 Propuesta inicial | Campaña V3 (`05`), evaluada como parcialmente desalineada §F.2–F.3 |
 | "Somos un banco simple, que te escucha y nunca te deja botado." | 🔵 Propuesta inicial, de la agencia creativa | Este documento, 4 láminas |
+| "Un banco pero MACH" | 🔵 Propuesta de agencia en producción (VB4, `15`) | `MACH_CAMPAÑA_2026_-_VB_4_-_PDF.pdf` |
 
-El problema no es "elegir entre tres opciones válidas" — es más simple:
-**hay una plataforma vigente y ninguna propuesta ha sido evaluada
-formalmente contra ella.** Antes de septiembre hay que decidir si alguna
-reemplaza a "Toca MACHBANK", la complementa, o se descarta — con un proceso
+**Corrección (2026-09-16):** con "Toca MACHBANK" retirado, el problema deja
+de ser "una plataforma vigente sin evaluar contra ella" y pasa a ser el
+riesgo original de R17: **ninguna de las tres propuestas restantes tiene
+jerarquía declarada.** El párrafo original queda como registro de método.
+
+El problema no era "elegir entre tres opciones válidas" — era más simple:
+**había una plataforma vigente y ninguna propuesta había sido evaluada
+formalmente contra ella.** Antes de septiembre había que decidir si alguna
+reemplazaba a "Toca MACHBANK", la complementaba, o se descartaba — con un proceso
 de decisión explícito, no por acumulación. Es exactamente el vacío de
 gobernanza que señalaba D5 en `04-plan-de-avance.md`.
 
