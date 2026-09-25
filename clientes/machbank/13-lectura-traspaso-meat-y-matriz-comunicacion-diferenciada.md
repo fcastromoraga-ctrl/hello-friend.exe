@@ -144,15 +144,15 @@ producto que el deck no cubrió con ese nivel de detalle. `Propuesta nueva`
 
 | # | Producto / CEP | NotMACHERs (no clientes) — consideración | MACHERS (clientes) — consideración | Fuente MACHERS | Notas |
 |---|---|---|---|---|---|
-| 1 | Cuenta corriente | TAN BANCO CON CUENTA CORRIENTE. / TAN MACH QUE ES DIGITAL Y COSTO $0.*** | TAN BANCO QUE YA TIENES TU CUENTA CORRIENTE CON NOSOTROS. / TAN MACH QUE SEGUIRÁ SIENDO $0 PARA SIEMPRE.*** | Propuesta nueva | *** = condición de fecha (31-dic-2026) sin resolver en ninguna de las dos columnas — mismo problema que R18/P45, ahora también en la columna MACHERS por construcción. No cerrar sin la letra chica. |
+| 1 | Cuenta corriente | TAN BANCO CON CUENTA CORRIENTE. / TAN MACH QUE ES DIGITAL Y COSTO $0.*** | TAN BANCO QUE YA TIENES TU CUENTA. / TAN MACH QUE SEGUIRÁ SIENDO $0 PARA SIEMPRE.*** | Propuesta nueva | *** = condición de fecha (31-dic-2026) sin resolver en ninguna de las dos columnas — mismo problema que R18/P45, ahora también en la columna MACHERS por construcción. No cerrar sin la letra chica. |
 | 2 | Sueldo / cuenta remunerada | TAN BANCO COMO PARA RECIBIR TU SUELDO. / TAN MACH COMO PARA HACERLO CRECER 24/7. | TAN BANCO PARA QUE TE DEPOSITEN EL SUELDO. / TAN MACH QUE YA LO TIENES EN TU CELULAR. | **MEAT verbatim** (pág. 27, panel CLIENTE) | Único par de la columna MACHERS que es texto real del deck, no propuesta. Conecta directo con R13 (Mercado Pago gana el depósito de sueldo por 20 pts) — es el mensaje más importante de toda la matriz para el objetivo N°1 de negocio. |
-| 3 | Pago de cuentas | TAN BANCO PARA PAGAR TUS CUENTAS. / TAN MACH QUE LO HACES EN LA APP. | TAN BANCO QUE YA PAGAS TUS CUENTAS CON NOSOTROS. / TAN MACH QUE LO SIGUES HACIENDO SIN FILAS, DESDE LA APP. | Propuesta nueva | Por analogía con el patrón de la pág. 27 (reconocer que el cliente ya usa el servicio, reforzar sin pedir cambio de comportamiento). |
-| 4 | Transferencias | TAN BANCO COMO PARA TRANSFERIR. / TAN MACH QUE LO HACES AL EXTERIOR. | TAN BANCO QUE YA TRANSFIERES SIN COSTO. / TAN MACH QUE PRONTO TAMBIÉN LO HARÁS AL EXTERIOR. | Propuesta nueva — **[SUPUESTO]** | Depende de la Brecha #10. Si transferencias al exterior no es un producto real y vigente, ninguna de las dos columnas de esta fila puede salir a producción tal como está. |
-| 5 | Inversión | TAN BANCO QUE PUEDES INVERTIR. / TAN MACH QUE ES SIMPLE. | TAN BANCO QUE YA HACE CRECER TU PLATA. / TAN MACH QUE INVERTIR TAMBIÉN ES SIMPLE. | Propuesta nueva | Mapea contra "Cuenta Futuro / Ahorro 24/7" del brief, no contra un producto de inversión propiamente dicho — mismo matiz de la Brecha #9 en términos de nombre de producto, aunque aquí el subyacente (ahorro con interés) sí está confirmado. |
-| 6 | Seguros | TAN BANCO QUE OFRECE SEGUROS. / TAN MACH QUE ESTÁN EN TU APP. | TAN BANCO QUE YA TE CUIDA. / TAN MACH QUE TUS SEGUROS SIGUEN EN TU APP. | Propuesta nueva — **[SUPUESTO]** | Depende de la Brecha #9. No construir pieza de cliente sobre un producto que el cliente no tiene sin confirmar que existe. |
-| 7 | Crédito | TAN BANCO QUE TE DA CRÉDITO. / TAN MACH QUE TE LLEGA ALTIRO. | TAN BANCO QUE YA TE DIO CRÉDITO. / TAN MACH QUE LA PRÓXIMA VEZ TE LLEGA ALTIRO. | Propuesta nueva | Compatible con P18 — no promete historial ni elegibilidad nueva, solo velocidad, sobre oferta ya existente (TC y Consumo). |
-| 8 | Beneficios | TAN BANCO QUE DA BENEFICIOS. / TAN MACH QUE SON TODO EL AÑO. | TAN BANCO QUE YA TE DA BENEFICIOS. / TAN MACH QUE SIGUEN SIENDO TODO EL AÑO. | Propuesta nueva | Vigilar contra R6 (contradicción principalidad↔beneficios): esta fila, en ambas columnas, es la más cercana al terreno de "usuario mercenario" que R6 marca como riesgo si se vuelve el mensaje dominante. |
-| 9 | Pagos en el mundo | TAN BANCO QUE PAGA AQUÍ. / TAN MACH QUE PAGA EN EL MUNDO. | TAN BANCO QUE YA TE DEJA PAGAR AQUÍ. / TAN MACH QUE TAMBIÉN PAGARÁS EN EL MUNDO. | Propuesta nueva — **[SUPUESTO]** | Depende de la Brecha #10. Además, confirmar si el claim real es "tu tarjeta Visa funciona en el extranjero" (estándar de marca Visa, no diferenciador) vs. un producto/tarifario específico de MACHBANK — son promesas distintas. |
+| 3 | Pago de cuentas | TAN BANCO PARA PAGAR TUS CUENTAS. / TAN MACH QUE LO HACES EN LA APP. | TAN BANCO QUE YA PAGAS TUS CUENTAS. / TAN MACH QUE SIGUES USANDO LA APP. | Propuesta nueva | Por analogía con el patrón de la pág. 27 (reconocer que el cliente ya usa el servicio, reforzar sin pedir cambio de comportamiento). |
+| 4 | Transferencias | TAN BANCO COMO PARA TRANSFERIR. / TAN MACH QUE LO HACES AL EXTERIOR. | TAN BANCO QUE YA TRANSFIERES GRATIS. / TAN MACH QUE PRONTO LO HARÁS AL EXTERIOR. | Propuesta nueva — **[SUPUESTO]** | Depende de la Brecha #10. Si transferencias al exterior no es un producto real y vigente, ninguna de las dos columnas de esta fila puede salir a producción tal como está. |
+| 5 | Inversión | TAN BANCO QUE PUEDES INVERTIR. / TAN MACH QUE ES SIMPLE. | TAN BANCO QUE YA CRECE TU PLATA. / TAN MACH QUE SIGUE SIENDO SIMPLE. | Propuesta nueva | Mapea contra "Cuenta Futuro / Ahorro 24/7" del brief, no contra un producto de inversión propiamente dicho — mismo matiz de la Brecha #9 en términos de nombre de producto, aunque aquí el subyacente (ahorro con interés) sí está confirmado. |
+| 6 | Seguros | TAN BANCO QUE OFRECE SEGUROS. / TAN MACH QUE ESTÁN EN TU APP. | TAN BANCO QUE YA TE CUIDA. / TAN MACH QUE SIGUEN EN TU APP. | Propuesta nueva — **[SUPUESTO]** | Depende de la Brecha #9. No construir pieza de cliente sobre un producto que el cliente no tiene sin confirmar que existe. |
+| 7 | Crédito | TAN BANCO QUE TE DA CRÉDITO. / TAN MACH QUE TE LLEGA ALTIRO. | TAN BANCO QUE YA TE DIO CRÉDITO. / TAN MACH QUE SIEMPRE TE LLEGA ALTIRO. | Propuesta nueva | Compatible con P18 — no promete historial ni elegibilidad nueva, solo velocidad, sobre oferta ya existente (TC y Consumo). |
+| 8 | Beneficios | TAN BANCO QUE DA BENEFICIOS. / TAN MACH QUE SON TODO EL AÑO. | TAN BANCO QUE YA TE DA BENEFICIOS. / TAN MACH QUE SIGUEN TODO EL AÑO. | Propuesta nueva | Vigilar contra R6 (contradicción principalidad↔beneficios): esta fila, en ambas columnas, es la más cercana al terreno de "usuario mercenario" que R6 marca como riesgo si se vuelve el mensaje dominante. |
+| 9 | Pagos en el mundo | TAN BANCO QUE PAGA AQUÍ. / TAN MACH QUE PAGA EN EL MUNDO. | TAN BANCO QUE YA PAGAS AQUÍ. / TAN MACH QUE PRONTO PAGARÁS EN EL MUNDO. | Propuesta nueva — **[SUPUESTO]** | Depende de la Brecha #10. Además, confirmar si el claim real es "tu tarjeta Visa funciona en el extranjero" (estándar de marca Visa, no diferenciador) vs. un producto/tarifario específico de MACHBANK — son promesas distintas. |
 
 **Capa de tensión (heredada del formato de la pág. 27, no estaba en el
 enunciado de la tarea):** el deck muestra que cada titular de consideración
@@ -163,6 +163,16 @@ encargo — no la invento por fila; si se quiere completar la matriz con esa
 capa, es un desarrollo adicional a validar con research cualitativo
 (brecha #5 del brief, "investigación cualitativa reciente", sigue en
 🟡 PARCIAL).
+
+**Ajuste de extensión (2026-09-25):** a pedido del usuario ("para MACHERS
+están muy largos, debemos ajustar"), se acortó la columna MACHERS de las 8
+filas de propuesta nueva (1, 3–9) para emparejar su extensión con la
+columna NotMACHERs de la misma fila y con el único par verbatim de MEAT
+(fila 2, sueldo, ~8 palabras por línea). No se tocó la fila 2 (verbatim,
+no editable) ni la columna NotMACHERs (copy real de la agencia). El
+sentido de cada mensaje — reconocimiento "ya" del cliente existente vs.
+captación del no cliente — se mantiene. Este ajuste de redacción no cambia
+el estatus de P47, que sigue ⏳ sin validar.
 
 ---
 
