@@ -302,3 +302,16 @@ corrección.
 | **Entregables actualizados** | `07-estrategia-2026-completa.md` (nota de corrección sobre la tabla de estatus de dispositivos), `12-playbook-abono-rem`, `13-playbook-tarjeta-credito`, `14-playbook-credito-consumo` (`.md` y `.html`): la sección "Cierre Vigente" y el ítem 6 del checklist se marcan como retirados, sin reemplazo confirmado. |
 | **Brecha nueva** | N29 — ¿"Toca" sobrevive como verbo de interfaz (fuera de discusión, uso funcional) o se retira también de ese uso? N30 — ¿qué dispositivo cierra las piezas mientras no haya reemplazo: nada (solo isotipo, como ya hace VB4) o algo transitorio? |
 | **Estado** | `APROBADO` — es una instrucción directa del usuario, se registra como decisión cerrada, no como propuesta. |
+
+---
+
+## 2026-09-25 — Matriz de comunicación diferenciada (Consideración) para slide 27 del deck "Traspaso Jenaro"
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Subió `MEAT_-_MACHBANK_-_TRASPASO_JENARO.pdf` (29 págs., "Campaña de Marca", sucesor de VB4) y pidió completar la slide 27 "Comunicación Diferenciada" con una matriz Cliente/No Cliente para 9 titulares de la etapa Consideración que él mismo definió, siguiendo el formato ya usado en esa slide y una referencia gráfica (panel MACHERS de marca general + panel NO MACHERS con titular en cápsula). |
+| **Entregable** | `16-matriz-comunicacion-diferenciada-consideracion.md` — matriz completa de 9 filas × 2 audiencias (Consideración + Tensión por celda), reutilizando sin cambios el par Cliente ya aprobado en la slide para Abono Rem (fila 2). |
+| **Hallazgos de gobernanza en el nuevo deck** | (1) El guion del manifiesto (pág. 15) ya cierra con "Un banco, pero Mach" — primer remate verbal consistente de la agencia, responde en los hechos a N30 aunque sigue sin decisión formal. (2) El isotipo cuadrado MACHBANK, no la Flecha, se confirma como firma del keyvisual (pág. 22) — segunda señal de que omitir la Flecha es decisión de diseño, no descuido (N24 sigue abierta para cierre formal). (3) Regla nueva solo para digital: "Banco" pasa al frente en vez de "MACH" — posible inconsistencia con el tratamiento hero de video/OOH, sin resolver. |
+| **Riesgos de contenido señalados** | Titulares 4 y 9 (transferencia al exterior, pago internacional con tarjeta) no están en la oferta verificada de `00-brief.md` §3 — no producir sin confirmación de Producto. Titular 7 (crédito) redactado con cuidado para no insinuar aprobación por historial transaccional propio (territorio descartado, P4/R4) ni aprobación garantizada. Titular 1 y 8 requieren condición visible ($0 con fecha límite; vigencia de beneficios). |
+| **Preguntas nuevas** | N31 (¿"Un banco, pero Mach" se registra como cierre formal?), N32 (¿conviven las dos reglas de jerarquía verbal, MACH-hero en video/OOH vs. Banco-al-frente en digital?), N33 (¿están confirmadas las capacidades de transferencia/pago internacional?). |
+| **Estado** | `BORRADOR` — insumo para MEAT, no reemplaza el ejemplo de Awareness ya existente en la slide 27. |
