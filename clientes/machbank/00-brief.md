@@ -102,6 +102,8 @@ tres casos (56 vs 65 · 63 vs 69 · 59 vs 61).
 | 6 | ¿El nombre "MACHBANK" es revisable? | 🔴 **ABIERTA.** El Brandbook de ene-2026 sugiere decisión cerrada. Confirmar. |
 | 7 | Arquitectura con Bci a 3 años | 🔴 **ABIERTA.** |
 | 8 | Restricciones de presupuesto y plazo | 🔴 **ABIERTA.** Crítica ahora: la recomendación de reasignar inversión a medios no direccionables depende de esto. |
+| 9 | ¿MACHBANK ofrece seguros como producto propio? | 🔴 **ABIERTA (2026-09-25).** El deck de traspaso MEAT (`13-lectura-traspaso-meat-y-matriz-comunicacion-diferenciada.md`) incluye un titular de "seguros" que no tiene respaldo en la oferta verificada de §3. |
+| 10 | ¿MACHBANK ofrece transferencias o pagos internacionales? | 🔴 **ABIERTA (2026-09-25).** §3 solo confirma transferencias sin costo a bancos nacionales. El deck de traspaso MEAT propone titulares de "pagar/transferir al exterior" sin que este expediente tenga evidencia de ese producto. Ver `13-lectura-traspaso-meat-y-matriz-comunicacion-diferenciada.md` §D. |
 
 ## 6. Preguntas nuevas abiertas por la presentación
 

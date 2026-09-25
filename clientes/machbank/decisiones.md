@@ -203,6 +203,20 @@ indicador que sostiene la principalidad, moviéndose en direcciones opuestas.
 
 ---
 
+## 2026-09-25 — Lectura del traspaso MEAT→Jenaro + matriz de mensajes MACHERS/NotMACHERs
+
+| Campo | Detalle |
+|---|---|
+| **Input del usuario** | Deck de traspaso de la campaña (`MEAT_-_MACHBANK_____TRASPASO_JENARO.pdf`, 29 págs.) hacia el equipo de ejecución. Pidió construir una matriz de mensajes de 9 productos × 2 audiencias (MACHERS/NO MACHERS), usando el patrón "TAN BANCO [comportamiento] / TAN MACH [diferenciador]", a partir de una referencia gráfica descrita (no incluida en el PDF). |
+| **Entregable** | `13-lectura-traspaso-meat-y-matriz-comunicacion-diferenciada.md`. |
+| **Hallazgo principal** | Los 9 pares "tan banco/tan MACH" no son una construcción nueva — **ya están en el propio deck de MEAT**, verbatim, en la slide "TITULARES" (pág. 21, sección KV Consideración). La slide "Comunicación Diferenciada" (pág. 27) que el encargo describía como referencia usa las etiquetas **CLIENTE/NO CLIENTE** (no "MACHERS/NO MACHERS" como texto visible) y muestra **un solo** ejemplo de titular por audiencia (no los 9), más una capa de "Tensión" (objeción del consumidor) que no estaba en el enunciado original de la tarea. |
+| **Corrección a la referencia gráfica del encargo** | El tratamiento brand-forward puro ("UN BANCO PERO" + wordmark "MACH", sin producto) que se describió como exclusivo del panel MACHERS **no aparece asignado a esa audiencia en el deck**: en el único ejemplo de secuencia completa (pág. 23), ese tratamiento se usa antes de una CTA de captación de no clientes ("Descarga la app y hazte cliente"). Se deja como pregunta abierta (N30), no se asume la lectura del encargo como confirmada. |
+| **Tensión nueva con P41** | Ni la slide "Comunicación Diferenciada" ni la slide de titulares muestran la Flecha (∧) como elemento preponderante en las piezas de consideración por producto — que es justo el escenario que P41 (2026-09-16) asigna a la Flecha. Registrada como **P48**, sin cerrar P41 (que sigue vigente en su enunciado general). |
+| **Brechas nuevas** | Dos filas de la matriz (transferencias/pagos "al exterior" y "en el mundo", producto #4 y #9) y una fila de producto (seguros, #6) no tienen respaldo en la oferta verificada del brief. Agregadas como brechas #9 y #10 en `00-brief.md` §5. |
+| **Estado** | Columna NotMACHERs de la matriz = material real de MEAT (fuerte). Columna MACHERS = solo la fila de sueldo es verbatim de MEAT (pág. 27); el resto es propuesta nueva de este expediente por analogía — explícitamente no aprobada. Ver P47. |
+
+---
+
 ## Decisiones pendientes de validación del usuario
 
 Ninguna es una decisión tomada. Son propuestas esperando confirmación, rechazo o
@@ -251,6 +265,8 @@ corrección.
 | **P43** | **Decidir si "Creciste, crecimos" (P15) queda como territorio de fondo o si "Un banco pero MACH" (VB4) lo reemplaza como territorio de trabajo vigente.** Sigue sin reconciliarse en dos versiones consecutivas de la misma agencia. | `11` §D.2 · `12` §D, §G | ✅ **Resuelta (2026-09-15).** El usuario confirmó "Un banco pero MACH" como reemplazo de "Creciste, crecimos". Ver entrada 2026-09-15. |
 | **P44** | ~~**Ampliar el alcance de P25** (decisión de tagline único) **para incluir "Un banco pero MACH"** como cuarto candidato, dado el volumen de piezas ya producidas en VB4 que lo usan como línea maestra de facto.~~ | `12` §F.2, §G | ✅ **Obsoleta en su forma original (2026-09-15).** Ya no aplica como "ampliar para incluir un candidato" — el usuario confirmó "Un banco pero MACH" directamente como frase principal, resolviendo P25 de hecho. Ver entrada 2026-09-15. |
 | **P45** | **Confirmar que el *** del claim "$0 para siempre" se resuelve con la fecha límite (31-dic-2026)** antes de que cualquier pieza de VB4 pase a producción. Persiste sin cambios de VB3 a VB4. | `11` §D.4 · `12` §F.1, §G | ⏳ Sin validar — **antes de producción** |
+| **P47** | **Validar la matriz de mensajes MACHERS/NotMACHERs** (9 productos × 2 audiencias, patrón "tan banco/tan MACH") como estándar de referencia para playbooks de producto (P36) e instrucción a la agencia de ejecución. Solo la fila de sueldo es texto verbatim de MEAT (pág. 27 del traspaso); el resto es propuesta nueva de este expediente por analogía. | `13-lectura-traspaso-meat-y-matriz-comunicacion-diferenciada.md` §E | ⏳ Sin validar |
+| **P48** | **Precisar la regla de P41 para la etapa de "consideración por producto"** (los 9 titulares tan-banco/tan-MACH, en cualquiera de las dos audiencias). Ni el deck de traspaso ni VB4 muestran la Flecha (∧) como preponderante en estas piezas, que es el escenario que P41 le asigna. Sin esta precisión, P46 (kit de assets) no tiene regla aplicable a esta etapa. | `13-lectura-traspaso-meat-y-matriz-comunicacion-diferenciada.md` §C, §F | ⏳ Sin validar |
 | **P46** | **Construir y documentar el kit de assets** (wordmark + Flecha + reglas de uso por etapa de funnel) como estándar de referencia para playbooks de producto y revisión creativa, aplicando la regla de P41 (wordmark = nivel de awareness, Flecha = preponderante en profundización de producto). Conectado con P36 (formato estándar de playbook por producto) y P39 (revisión de piezas contra estándar de marca) — los mecanismos donde ese kit se aplicaría. | Input del usuario, entrada 2026-09-16 (resolución de P41) | ⏳ **Sin desarrollar.** Alcance abierto: qué formatos, qué piezas cubre, quién lo produce. |
 
 ---
