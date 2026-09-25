@@ -228,14 +228,14 @@ tomada, no alternativas en pie de igualdad:
 | Dispositivo | Estatus | Fuente |
 |---|---|---|
 | ~~"Toca MACHBANK"~~ | ❌ **Retirado como claim (2026-09-16)** — decisión del usuario, ver `decisiones.md` | Brandbook + Estrategia 2026, plataforma "Always On" (histórico) |
-| "Todo, fácil." | 🔵 Propuesta inicial | Campaña V3 (`05`), evaluada como parcialmente desalineada §F.2–F.3 |
-| "Somos un banco simple, que te escucha y nunca te deja botado." | 🔵 Propuesta inicial, de la agencia creativa | Este documento, 4 láminas |
-| "Un banco pero MACH" | 🔵 Propuesta de agencia en producción (VB4, `15`) | `MACH_CAMPAÑA_2026_-_VB_4_-_PDF.pdf` |
+| **"Un banco, pero Mach"** | ✅ **Confirmado, vigente (2026-09-25)** — reemplazo oficial de "Toca MACHBANK", decisión del usuario | Guion de manifiesto, deck "Traspaso Jenaro" (`16`); territorio "Un banco pero MACH" desarrollado desde VB3/VB4 (`11`, `15`) |
+| "Todo, fácil." | 🔵 Propuesta inicial, sin decisión | Campaña V3 (`05`), evaluada como parcialmente desalineada §F.2–F.3 |
+| "Somos un banco simple, que te escucha y nunca te deja botado." | 🔵 Propuesta inicial, de la agencia creativa, sin decisión | Este documento, 4 láminas |
 
-**Corrección (2026-09-16):** con "Toca MACHBANK" retirado, el problema deja
-de ser "una plataforma vigente sin evaluar contra ella" y pasa a ser el
-riesgo original de R17: **ninguna de las tres propuestas restantes tiene
-jerarquía declarada.** El párrafo original queda como registro de método.
+**Corrección (2026-09-25):** "Un banco, pero Mach" queda confirmado como la
+plataforma vigente, en reemplazo de "Toca MACHBANK" — ver `decisiones.md`.
+Las otras dos propuestas siguen sin decisión ni jerarquía declarada frente a
+ella (riesgo R17). El párrafo original queda como registro de método.
 
 El problema no era "elegir entre tres opciones válidas" — era más simple:
 **había una plataforma vigente y ninguna propuesta había sido evaluada

@@ -61,12 +61,10 @@ usuario), `00-brief.md`, `05-lectura-kantar-y-campana.md`,
 > margen. Para Abono Rem —una decisión de confianza, no de conveniencia— la
 > fiabilidad rinde más. Pendiente de validar en comité de marca.
 
-> ⛔ **Retirado (2026-09-16)** — Cierre de Plataforma
-> **"Toca MACHBANK" ya no se usa como claim** — decisión del usuario, ver
-> `decisiones.md`. Todavía no hay un reemplazo confirmado; no asumir que
-> "Un banco pero MACH" (VB4) lo es hasta que se decida formalmente. Mientras
-> tanto, las piezas pueden cerrar solo con el isotipo/lockup MACHBANK, sin
-> remate verbal — así lo está haciendo ya la agencia (`15-lectura-propuesta-meat-vb4-campana2026.md`).
+> **Confirmado (2026-09-25)** — Cierre de Plataforma
+> **"Un banco, pero Mach"** reemplaza oficialmente a "Toca MACHBANK" —
+> decisión del usuario, ver `decisiones.md`. Es el cierre vigente; no se
+> reemplaza sin nueva decisión formal.
 
 ## 3. Voz y tono
 
@@ -172,7 +170,7 @@ Del Brandbook — no se rediseña nada acá, solo se recuerda.
 - [ ] ¿El tono corresponde al momento (§3)?
 - [ ] ¿Si menciona tasa, cupo o beneficio, fue validado por Compliance?
 - [ ] ¿Evita liderar con mecánica de sorteo o promoción?
-- [ ] ¿Evita usar "Toca MACHBANK" como claim (retirado 2026-09-16)? ¿Cierra con el dispositivo vigente aprobado, si ya existe uno?
+- [ ] ¿Evita "Toca MACHBANK" (retirado) y cierra con "Un banco, pero Mach" o el dispositivo vigente aprobado?
 
 ---
 
