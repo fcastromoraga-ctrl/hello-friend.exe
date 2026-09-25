@@ -67,6 +67,11 @@ La única plataforma confirmada y vigente es **"Toca MACHBANK" / "Tocó
 [Necesidad], Toca MACHBANK"**. El resto compite por reemplazarla o
 complementarla, pero ninguna tiene ese estatus todavía.
 
+**Corrección (2026-09-16):** el usuario decidió retirar "Toca MACHBANK" como
+claim — ver `decisiones.md`. Ya no es la plataforma vigente; tampoco hay
+todavía un reemplazo confirmado. El razonamiento de esta sección se conserva
+como registro de método.
+
 Aparece repetida en cuatro láminas distintas (33, 45, 79, 84):
 
 > **"Somos un banco simple, que te escucha y nunca te deja botado."**
@@ -222,14 +227,20 @@ tomada, no alternativas en pie de igualdad:
 
 | Dispositivo | Estatus | Fuente |
 |---|---|---|
-| **"Toca MACHBANK"** | ✅ **Confirmado, vigente** | Brandbook + Estrategia 2026, plataforma "Always On" |
-| "Todo, fácil." | 🔵 Propuesta inicial | Campaña V3 (`05`), evaluada como parcialmente desalineada §F.2–F.3 |
-| "Somos un banco simple, que te escucha y nunca te deja botado." | 🔵 Propuesta inicial, de la agencia creativa | Este documento, 4 láminas |
+| ~~"Toca MACHBANK"~~ | ❌ **Retirado como claim (2026-09-16)** — decisión del usuario, ver `decisiones.md` | Brandbook + Estrategia 2026, plataforma "Always On" (histórico) |
+| **"Un banco, pero Mach"** | ✅ **Confirmado, vigente (2026-09-25)** — reemplazo oficial de "Toca MACHBANK", decisión del usuario | Guion de manifiesto, deck "Traspaso Jenaro" (`16`); territorio "Un banco pero MACH" desarrollado desde VB3/VB4 (`11`, `15`) |
+| "Todo, fácil." | 🔵 Propuesta inicial, sin decisión | Campaña V3 (`05`), evaluada como parcialmente desalineada §F.2–F.3 |
+| "Somos un banco simple, que te escucha y nunca te deja botado." | 🔵 Propuesta inicial, de la agencia creativa, sin decisión | Este documento, 4 láminas |
 
-El problema no es "elegir entre tres opciones válidas" — es más simple:
-**hay una plataforma vigente y ninguna propuesta ha sido evaluada
-formalmente contra ella.** Antes de septiembre hay que decidir si alguna
-reemplaza a "Toca MACHBANK", la complementa, o se descarta — con un proceso
+**Corrección (2026-09-25):** "Un banco, pero Mach" queda confirmado como la
+plataforma vigente, en reemplazo de "Toca MACHBANK" — ver `decisiones.md`.
+Las otras dos propuestas siguen sin decisión ni jerarquía declarada frente a
+ella (riesgo R17). El párrafo original queda como registro de método.
+
+El problema no era "elegir entre tres opciones válidas" — era más simple:
+**había una plataforma vigente y ninguna propuesta había sido evaluada
+formalmente contra ella.** Antes de septiembre había que decidir si alguna
+reemplazaba a "Toca MACHBANK", la complementaba, o se descartaba — con un proceso
 de decisión explícito, no por acumulación. Es exactamente el vacío de
 gobernanza que señalaba D5 en `04-plan-de-avance.md`.
 

@@ -226,6 +226,11 @@ haya que cambiar.
 | 4 | Definir piso de alcance para septiembre (D1) y baseline de medición (D5). |
 
 ### Septiembre — la campaña masiva
+
+**Corrección (2026-09-16):** la salida se reagendó — tentativa al
+**2026-10-12** (confirmado por el usuario). El razonamiento de esta sección
+sigue vigente; solo cambia la fecha. Ver `00-brief.md` §2 y `decisiones.md`.
+
 - Territorio de D2, no los atributos de higiene.
 - Piso de alcance en No Clientes comprometido y protegido.
 - Ejecutada con la capa ejecutable de D4.

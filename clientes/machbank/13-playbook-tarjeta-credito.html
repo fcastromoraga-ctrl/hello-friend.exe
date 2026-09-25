@@ -1,0 +1,532 @@
+<title>Playbook Tarjeta de Crédito</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Manrope:wght@500;700;800&family=IBM+Plex+Sans:wght@400;500;600&family=IBM+Plex+Mono:wght@500;600&display=swap" rel="stylesheet">
+<style>
+  :root{
+    --bg:#f6f4fb;
+    --surface:#ffffff;
+    --surface-2:#f1ecfa;
+    --surface-3:#ece5f8;
+    --border:#e2dbf1;
+    --border-strong:#cabdea;
+    --ink:#1d1730;
+    --ink-muted:#655d7d;
+    --ink-faint:#948bab;
+    --accent:#6200ee;
+    --accent-strong:#4b00b8;
+    --accent-2:#ff00ff;
+    --good-bg:#e5f6ea;
+    --good-fg:#1c7a45;
+    --good-border:#bfe6cc;
+    --warn-bg:#fdecd6;
+    --warn-fg:#a35a06;
+    --warn-border:#f4d5a8;
+    --bad-bg:#fdeaf1;
+    --bad-fg:#c21458;
+    --bad-border:#f6c9de;
+    --shadow: 0 1px 2px rgba(29,23,48,.04), 0 8px 24px -12px rgba(29,23,48,.12);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#140f22;
+      --surface:#1c1630;
+      --surface-2:#241c3b;
+      --surface-3:#2b2246;
+      --border:#332a4d;
+      --border-strong:#4a3d6b;
+      --ink:#f1edfa;
+      --ink-muted:#b6acd1;
+      --ink-faint:#8579a0;
+      --accent:#b587ff;
+      --accent-strong:#d1aeff;
+      --accent-2:#ff7ae8;
+      --good-bg:#173226;
+      --good-fg:#7fe0a8;
+      --good-border:#215139;
+      --warn-bg:#3a2a12;
+      --warn-fg:#f0b968;
+      --warn-border:#5a411c;
+      --bad-bg:#3a1626;
+      --bad-fg:#ff8fbb;
+      --bad-border:#5a2140;
+      --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px -12px rgba(0,0,0,.5);
+    }
+  }
+  :root[data-theme="dark"]{
+    --bg:#140f22;
+    --surface:#1c1630;
+    --surface-2:#241c3b;
+    --surface-3:#2b2246;
+    --border:#332a4d;
+    --border-strong:#4a3d6b;
+    --ink:#f1edfa;
+    --ink-muted:#b6acd1;
+    --ink-faint:#8579a0;
+    --accent:#b587ff;
+    --accent-strong:#d1aeff;
+    --accent-2:#ff7ae8;
+    --good-bg:#173226;
+    --good-fg:#7fe0a8;
+    --good-border:#215139;
+    --warn-bg:#3a2a12;
+    --warn-fg:#f0b968;
+    --warn-border:#5a411c;
+    --bad-bg:#3a1626;
+    --bad-fg:#ff8fbb;
+    --bad-border:#5a2140;
+    --shadow: 0 1px 2px rgba(0,0,0,.3), 0 8px 24px -12px rgba(0,0,0,.5);
+  }
+
+  *{box-sizing:border-box}
+  body{
+    margin:0;
+    background:var(--bg);
+    color:var(--ink);
+    font-family:"IBM Plex Sans", ui-sans-serif, system-ui, sans-serif;
+    padding-inline:16px;
+    padding-block:40px;
+    -webkit-font-smoothing:antialiased;
+  }
+  .page{max-width:880px;margin:0 auto;display:flex;flex-direction:column;gap:28px}
+  h1,h2,h3{font-family:"Manrope", ui-sans-serif, sans-serif;letter-spacing:-0.01em;text-wrap:balance;margin:0}
+  .mono{font-family:"IBM Plex Mono", ui-monospace, monospace}
+  a{color:inherit}
+
+  /* Hero */
+  .hero{
+    position:relative;
+    overflow:hidden;
+    border-radius:28px;
+    padding:36px 32px 40px;
+    background:linear-gradient(135deg,var(--accent) 0%, #8a1de0 46%, var(--accent-2) 100%);
+    color:#fff;
+    box-shadow:var(--shadow);
+  }
+  .hero::after{
+    content:"";
+    position:absolute;
+    right:-40px; bottom:-60px;
+    width:340px; height:340px;
+    background:
+      linear-gradient(#fff,#fff) content-box;
+    -webkit-mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 60'><path d='M2 58 L50 4 L98 58' fill='none' stroke='black' stroke-width='11' stroke-linecap='round' stroke-linejoin='round'/></svg>") center/contain no-repeat;
+    mask: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 60'><path d='M2 58 L50 4 L98 58' fill='none' stroke='black' stroke-width='11' stroke-linecap='round' stroke-linejoin='round'/></svg>") center/contain no-repeat;
+    background-color:rgba(255,255,255,.16);
+    pointer-events:none;
+  }
+  .hero-top{display:flex;justify-content:space-between;align-items:center;gap:12px;flex-wrap:wrap;position:relative;z-index:1}
+  .pill{
+    display:inline-flex;align-items:center;gap:6px;
+    font-size:12px;font-weight:700;letter-spacing:.06em;
+    padding:6px 12px;border-radius:999px;
+    background:rgba(255,255,255,.16);
+    border:1px solid rgba(255,255,255,.3);
+  }
+  .hero h1{font-size:clamp(34px,7vw,52px);font-weight:800;margin:18px 0 10px;color:#fff}
+  .hero p.sub{font-size:16px;line-height:1.55;max-width:52ch;color:rgba(255,255,255,.92);margin:0}
+  .hero hr{border:none;border-top:1px solid rgba(255,255,255,.28);margin:24px 0 18px;position:relative;z-index:1}
+  .hero-meta{display:flex;flex-wrap:wrap;gap:8px 28px;font-size:14px;position:relative;z-index:1}
+  .hero-meta div span.k{display:block;color:rgba(255,255,255,.72);font-size:12px;text-transform:uppercase;letter-spacing:.06em;margin-bottom:2px}
+  .hero-meta div span.v{font-weight:600}
+  .hero-review{margin-top:10px;font-size:13.5px;color:rgba(255,255,255,.85);position:relative;z-index:1}
+
+  /* Section header */
+  .section{display:flex;flex-direction:column;gap:14px}
+  .section-head{display:flex;align-items:flex-start;gap:12px}
+  .num{
+    flex:none;width:30px;height:30px;border-radius:50%;
+    background:var(--surface-2);border:1px solid var(--border-strong);
+    color:var(--accent);font-family:"IBM Plex Mono",monospace;font-weight:600;font-size:13px;
+    display:flex;align-items:center;justify-content:center;
+  }
+  .section-head h2{font-size:21px;font-weight:800;color:var(--ink)}
+  .section-head p{margin:2px 0 0;color:var(--ink-muted);font-size:14.5px}
+
+  .card{
+    background:var(--surface);
+    border:1px solid var(--border);
+    border-radius:18px;
+    padding:22px;
+    box-shadow:var(--shadow);
+  }
+
+  /* section 1 - definitions */
+  .deflist{display:flex;flex-direction:column}
+  .deflist > div{
+    display:grid;grid-template-columns:160px 1fr;gap:18px;
+    padding-block:14px;border-top:1px solid var(--border);
+  }
+  .deflist > div:first-child{border-top:none;padding-top:0}
+  .deflist dt{font-size:11.5px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-faint)}
+  .deflist dd{margin:0;font-size:15px;line-height:1.6;color:var(--ink)}
+  .deflist dd b{color:var(--ink)}
+  @media (max-width:560px){ .deflist > div{grid-template-columns:1fr} }
+
+  .routes{display:grid;grid-template-columns:1fr 1fr;gap:12px;margin-top:6px}
+  @media (max-width:560px){ .routes{grid-template-columns:1fr} }
+  .route{background:var(--surface-2);border:1px solid var(--border);border-radius:14px;padding:14px 16px}
+  .route .tag{font-size:12px;font-weight:700;color:var(--accent)}
+  .route p{margin:6px 0 0;font-size:14px;line-height:1.5;color:var(--ink-muted)}
+
+  .note{
+    display:flex;gap:10px;border-radius:14px;padding:14px 16px;font-size:14px;line-height:1.55;
+    border:1px dashed var(--border-strong); color:var(--ink-muted);
+  }
+  .note b{color:var(--ink)}
+  .note.warn{background:var(--warn-bg);border-color:var(--warn-border);color:var(--warn-fg)}
+  .note.warn b{color:var(--warn-fg)}
+  .note.bad{background:var(--bad-bg);border-color:var(--bad-border);color:var(--bad-fg)}
+  .note.bad b{color:var(--bad-fg)}
+
+  /* badges confirmado/propuesto */
+  .badge-chip{
+    display:inline-block;font-size:11.5px;font-weight:700;letter-spacing:.03em;
+    padding:4px 10px;border-radius:999px;margin-bottom:10px;
+  }
+  .badge-chip.good{background:var(--good-bg);color:var(--good-fg);border:1px solid var(--good-border)}
+  .badge-chip.warn{background:var(--warn-bg);color:var(--warn-fg);border:1px solid var(--warn-border)}
+  .badge-chip.bad{background:var(--bad-bg);color:var(--bad-fg);border:1px solid var(--bad-border)}
+
+  .rtb-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media (max-width:640px){ .rtb-grid{grid-template-columns:1fr} }
+  .rtb-card h3{font-size:16.5px;font-weight:700;margin:0 0 8px;line-height:1.4}
+  .rtb-card p{margin:0;font-size:13.5px;line-height:1.6;color:var(--ink-muted)}
+
+  /* voice tags */
+  .tags{display:flex;flex-wrap:wrap;gap:8px}
+  .tag-pill{font-size:13px;font-weight:600;padding:6px 12px;border-radius:999px;background:var(--surface-2);border:1px solid var(--border);color:var(--ink)}
+  .tag-pill.accent{background:linear-gradient(135deg,var(--accent),var(--accent-2));color:#fff;border:none}
+
+  table{width:100%;border-collapse:collapse;font-size:14px}
+  th{text-align:left;font-size:11.5px;letter-spacing:.05em;text-transform:uppercase;color:var(--ink-faint);padding:0 12px 10px;font-weight:700}
+  td{padding:12px;border-top:1px solid var(--border);vertical-align:top;line-height:1.5}
+  tr td:first-child, th:first-child{padding-left:0}
+  .twrap{overflow-x:auto}
+  td em, .ex{color:var(--ink-muted);font-style:italic}
+
+  .lex-grid{display:grid;grid-template-columns:1fr 1fr;gap:14px}
+  @media (max-width:560px){ .lex-grid{grid-template-columns:1fr} }
+  .lex-card{border-radius:16px;padding:18px 20px}
+  .lex-card.good{background:var(--good-bg);border:1px solid var(--good-border)}
+  .lex-card.bad{background:var(--bad-bg);border:1px solid var(--bad-border)}
+  .lex-card h4{margin:0 0 10px;font-size:12.5px;font-weight:800;letter-spacing:.05em}
+  .lex-card.good h4{color:var(--good-fg)}
+  .lex-card.bad h4{color:var(--bad-fg)}
+  .lex-card ul{margin:0;padding-left:18px;line-height:1.9;font-size:14.5px}
+  .lex-card.good li{color:var(--good-fg)}
+  .lex-card.bad li{color:var(--bad-fg)}
+
+  .funnel{display:grid;grid-template-columns:repeat(4,1fr);gap:12px}
+  @media (max-width:760px){ .funnel{grid-template-columns:1fr 1fr} }
+  @media (max-width:460px){ .funnel{grid-template-columns:1fr} }
+  .stage{background:var(--surface-2);border:1px solid var(--border);border-radius:14px;padding:16px}
+  .stage .name{font-size:12px;font-weight:800;letter-spacing:.05em;color:var(--accent)}
+  .stage .aud{font-size:12px;color:var(--ink-faint);margin:4px 0 10px}
+  .stage p{margin:0;font-size:13.5px;line-height:1.55;color:var(--ink)}
+
+  .scenario{display:flex;flex-direction:column;gap:10px}
+  .scenario > .label{font-size:13px;font-weight:700;color:var(--ink-faint);text-transform:uppercase;letter-spacing:.04em}
+  .speech-grid{display:grid;grid-template-columns:1fr 1fr;gap:12px}
+  @media (max-width:600px){ .speech-grid{grid-template-columns:1fr} }
+  .speech{border-radius:14px;padding:16px}
+  .speech.good{background:var(--good-bg);border:1px solid var(--good-border)}
+  .speech.bad{background:var(--bad-bg);border:1px solid var(--bad-border)}
+  .speech .who{font-size:11.5px;font-weight:800;letter-spacing:.04em;margin-bottom:8px}
+  .speech.good .who{color:var(--good-fg)}
+  .speech.bad .who{color:var(--bad-fg)}
+  .speech p{margin:0;font-size:14.5px;line-height:1.55;font-style:italic}
+  .speech.good p{color:var(--good-fg)}
+  .speech.bad p{color:var(--bad-fg)}
+  .risk-note{font-size:12.5px;color:var(--bad-fg);margin-top:8px;font-style:normal!important}
+
+  .rules{margin:0;padding-left:0;list-style:none;display:flex;flex-direction:column;gap:12px}
+  .rules li{display:flex;gap:10px;font-size:14.5px;line-height:1.55}
+  .rules li::before{content:"∧";color:var(--accent);font-weight:800;flex:none}
+
+  .swatches{display:flex;gap:16px;flex-wrap:wrap}
+  .swatch{width:140px}
+  .swatch .chip{height:64px;border-radius:12px;border:1px solid var(--border)}
+  .swatch .lbl{font-size:13px;font-weight:700;margin-top:8px}
+  .swatch .val{font-size:12px;color:var(--ink-faint)}
+  .asset-row{display:flex;gap:22px;flex-wrap:wrap;align-items:flex-start;margin-top:18px;font-size:14px;color:var(--ink-muted);line-height:1.6}
+  .asset-row b{color:var(--ink)}
+
+  .checklist{list-style:none;margin:0;padding:0;display:flex;flex-direction:column;gap:2px}
+  .checklist li{display:flex;align-items:flex-start;gap:12px;padding:12px 4px;border-top:1px solid var(--border)}
+  .checklist li:first-child{border-top:none}
+  .checklist input{
+    appearance:none;-webkit-appearance:none;
+    width:20px;height:20px;flex:none;margin-top:1px;
+    border:1.5px solid var(--border-strong);border-radius:6px;
+    background:var(--surface);cursor:pointer;position:relative;
+  }
+  .checklist input:checked{background:var(--accent);border-color:var(--accent)}
+  .checklist input:checked::after{
+    content:"";position:absolute;left:6px;top:2px;width:5px;height:10px;
+    border:solid #fff;border-width:0 2px 2px 0;transform:rotate(40deg);
+  }
+  .checklist label{font-size:15px;line-height:1.5;cursor:pointer}
+  .checklist input:checked + label{color:var(--ink-faint);text-decoration:line-through}
+
+  footer{
+    display:flex;justify-content:space-between;gap:16px;flex-wrap:wrap;
+    font-size:12.5px;color:var(--ink-faint);border-top:1px solid var(--border);
+    padding-top:18px;font-style:italic;
+  }
+</style>
+
+<div class="page">
+
+  <header class="hero">
+    <div class="hero-top">
+      <span class="pill">∧ PLAYBOOK DE PRODUCTO</span>
+      <span class="pill mono">Piloto · v0.1</span>
+    </div>
+    <h1>Tarjeta de Crédito</h1>
+    <p class="sub">Cómo hablamos de la Tarjeta de Crédito MACHBANK — en cualquier canal, para cualquier equipo, sin tener que preguntar cada vez.</p>
+    <hr>
+    <div class="hero-meta">
+      <div><span class="k">Dueño</span><span class="v">Brand Governance MACHBANK</span></div>
+      <div><span class="k">Actualizado</span><span class="v">15 sep 2026</span></div>
+    </div>
+    <p class="hero-review">Próxima revisión: <strong>lanzamiento de la campaña masiva de Propuesta de Valor &amp; Abono Rem — salida tentativa 12-oct-2026</strong></p>
+  </header>
+
+  <section class="section">
+    <div class="section-head">
+      <span class="num">1</span>
+      <div><h2>Contexto del producto</h2><p>Por qué existe este playbook y qué mueve.</p></div>
+    </div>
+    <div class="card">
+      <dl class="deflist">
+        <div>
+          <dt>Qué es</dt>
+          <dd>La tarjeta de crédito MACHBANK — física y virtual —, con un cupo asociado a la cuenta. Lanzada en enero 2025; versión virtual desde enero 2026.</dd>
+        </div>
+        <div>
+          <dt>Objetivo de negocio</dt>
+          <dd>Crecer en clientes y <b>monetizar vía productos de crédito</b> — objetivo de negocio N°2 de 2026.</dd>
+        </div>
+        <div>
+          <dt>KPI que mueve</dt>
+          <dd>Stock TC: <b>forecast 62K</b>, dentro de la meta agregada de colocaciones de $67 MMM.</dd>
+        </div>
+        <div>
+          <dt>Audiencia</dt>
+          <dd>
+            Segmento Clásico ($650K–$1,6MM), dentro del universo que ya califica por <b>scoring tradicional</b> — MACHBANK no origina con data transaccional propia. Dos rutas:
+            <div class="routes">
+              <div class="route"><span class="tag">Clientes activos</span><p>Sin TC — candidatos directos a activación.</p></div>
+              <div class="route"><span class="tag">No clientes</span><p>Asocian a MACHBANK con "billetera prepago", no con crédito.</p></div>
+            </div>
+          </dd>
+        </div>
+        <div>
+          <dt>Por qué importa</dt>
+          <dd>Es, hoy, el único indicador de marca donde MACHBANK lidera: 39% de asociación a crédito de consumo, contra 24% de Mercado Pago y 21% de Tenpo. Es la prueba de categoría más fuerte que existe — y la más subutilizada en comunicación.</dd>
+        </div>
+      </dl>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <span class="num">2</span>
+      <div><h2>Territorio y RTB</h2><p>La razón para creer que este playbook debe sostener.</p></div>
+    </div>
+    <div class="rtb-grid">
+      <div class="card rtb-card">
+        <span class="badge-chip good">Confirmado</span>
+        <h3>"Tiene todo lo que necesito." · "Es fácil de usar." · "Seguro que funciona."</h3>
+        <p>Los tres mensajes clave aprobados a nivel de marca. Úsalos como marco general — no como línea literal repetida en cada pieza.</p>
+      </div>
+      <div class="card rtb-card">
+        <span class="badge-chip warn">Propuesto — sujeto a comité</span>
+        <h3>Liderar con "Creciste, crecimos" y el cupo como reconocimiento — no como producto.</h3>
+        <p>El cupo no se vende como monto: se comunica como la señal de que el comportamiento del cliente fue reconocido. Transparencia radical —sin letra chica— reemplaza a la gratuidad y los beneficios como diferenciador. Pendiente de validar en comité de marca.</p>
+      </div>
+    </div>
+    <div class="note bad">⛔ <span><b>Territorio descartado — no usar:</b> nunca posicionar la Tarjeta de Crédito como "el crédito que te damos porque conocemos tu historial con nosotros". La originación usa scoring tradicional, no data transaccional propia — prometerlo es un claim falso.</span></div>
+    <div class="card">
+      <span class="badge-chip good">Confirmado — 2026-09-25</span>
+      <p style="margin:0;font-size:14.5px;line-height:1.6"><b>"Un banco, pero Mach"</b> reemplaza oficialmente a "Toca MACHBANK" como cierre de plataforma — decisión del usuario. No se reemplaza sin nueva decisión formal.</p>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <span class="num">3</span>
+      <div><h2>Voz y tono</h2><p>La voz es constante. El tono se adapta al momento, según el Manual de Comunicación MACHBANK.</p></div>
+    </div>
+    <div class="card" style="display:flex;flex-direction:column;gap:18px">
+      <div>
+        <div style="font-size:12px;font-weight:700;letter-spacing:.05em;color:var(--ink-faint);margin-bottom:8px">VOZ (SIEMPRE)</div>
+        <div class="tags">
+          <span class="tag-pill accent">Directa</span><span class="tag-pill accent">Amigable</span>
+          <span class="tag-pill accent">Resolutiva</span><span class="tag-pill accent">Explicativa</span>
+          <span class="tag-pill accent">Positiva</span><span class="tag-pill accent">Proactiva</span>
+        </div>
+      </div>
+      <div>
+        <div style="font-size:12px;font-weight:700;letter-spacing:.05em;color:var(--ink-faint);margin-bottom:8px">PERSONALIDAD</div>
+        <div class="tags">
+          <span class="tag-pill">Audaces e Innovadores</span>
+          <span class="tag-pill">Confiables y Transparentes</span>
+          <span class="tag-pill">Cercanos y No Bancarios</span>
+        </div>
+      </div>
+      <div class="twrap">
+        <table>
+          <thead><tr><th>Momento</th><th>Tono</th><th>Ejemplo</th></tr></thead>
+          <tbody>
+            <tr><td>Activación / aprobación de la tarjeta</td><td>Entusiasta y Directo</td><td class="ex">"¡Tu tarjeta MACHBANK ya está lista! Actívala en la app y úsala donde quieras."</td></tr>
+            <tr><td>Aumento de cupo</td><td>Cálido y Reconocedor</td><td class="ex">"Buenas noticias: tu cupo subió. Te lo ganaste con tu uso responsable."</td></tr>
+            <tr><td>Recordatorio de pago próximo</td><td>Claro y Proactivo</td><td class="ex">"Tu próximo pago vence el [fecha]. Puedes pagarlo directo desde la app."</td></tr>
+            <tr><td>Pago atrasado</td><td>Respetuoso y Resolutivo</td><td class="ex">"Vimos que tu pago está atrasado. Puedes regularizarlo ahora desde la app — si necesitas ayuda, escríbenos."</td></tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <span class="num">4</span>
+      <div><h2>Léxico específico</h2><p>Además de las reglas generales del Manual de Comunicación (tú, sin "usted", sin jerga bancaria).</p></div>
+    </div>
+    <div class="lex-grid">
+      <div class="lex-card good">
+        <h4>USAR</h4>
+        <ul><li>Tu cupo</li><li>Tu tarjeta MACHBANK</li><li>Pago mínimo / pago total</li><li>Fecha de pago</li><li>Estado de cuenta</li></ul>
+      </div>
+      <div class="lex-card bad">
+        <h4>EVITAR</h4>
+        <ul>
+          <li>"Línea de crédito revolvente"</li>
+          <li>"Score crediticio" (al dirigirse al cliente)</li>
+          <li>"Deuda" en tono alarmista (usar "tu saldo" / "tu pago")</li>
+          <li>"Castigo" o "penalización" · aumento de cupo garantizado</li>
+        </ul>
+      </div>
+    </div>
+    <div class="note warn">⚠️ <span><b>Nombre de marca:</b> se usa <b>MACHBANK</b> hasta que se resuelva la arquitectura MACH (uso cotidiano) / MACHBANK (institucional), hoy en piloto. Este playbook se actualiza automáticamente cuando esa decisión se cierre.</span></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <span class="num">5</span>
+      <div><h2>Mensajes por etapa</h2><p>Full-funnel — mismo territorio, distinto énfasis según dónde está la persona.</p></div>
+    </div>
+    <div class="funnel">
+      <div class="stage"><div class="name">AWARENESS</div><div class="aud">No clientes</div><p>Romper el prejuicio "solo tarjeta prepago" mostrando, con el dato real de liderazgo, que MACHBANK ya es una marca de crédito.</p></div>
+      <div class="stage"><div class="name">CONSIDERACIÓN</div><div class="aud">No clientes / sin TC</div><p>Cupo, condiciones y beneficios concretos y verificables — sin letra chica.</p></div>
+      <div class="stage"><div class="name">CONVERSIÓN</div><div class="aud">Clientes sin TC</div><p>Solicitar y activar desde la app en minutos. La aprobación queda sujeta a evaluación.</p></div>
+      <div class="stage"><div class="name">FIDELIZACIÓN</div><div class="aud">Clientes con TC</div><p>Reconocer el uso responsable (aumento de cupo), recordatorios de pago, cross-sell.</p></div>
+    </div>
+    <div class="note warn">⚠️ <span><b>Cuidado en Awareness y Conversión:</b> evitar liderar con mecánica de sorteo o promoción — el mismo riesgo de reclutar "usuario mercenario" aplica aquí. Nunca prometer aprobación, cupo o tasa antes de la evaluación de Riesgo.</span></div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <span class="num">6</span>
+      <div><h2>Así hablamos / Así no hablamos</h2><p>Tres momentos reales de la Tarjeta de Crédito.</p></div>
+    </div>
+
+    <div class="card scenario">
+      <span class="label">Activación de la tarjeta</span>
+      <div class="speech-grid">
+        <div class="speech good"><div class="who">ASÍ HABLAMOS</div><p>"¡Tu tarjeta MACHBANK ya está lista! Actívala en la app y úsala donde quieras."</p></div>
+        <div class="speech bad"><div class="who">ASÍ NO HABLAMOS</div><p>"Estimado cliente, su solicitud de tarjeta de crédito ha sido aprobada conforme a la evaluación crediticia correspondiente."</p></div>
+      </div>
+    </div>
+
+    <div class="card scenario">
+      <span class="label">Aumento de cupo</span>
+      <div class="speech-grid">
+        <div class="speech good"><div class="who">ASÍ HABLAMOS</div><p>"Buenas noticias: tu cupo subió. Te lo ganaste con tu uso responsable."</p></div>
+        <div class="speech bad"><div class="who">ASÍ NO HABLAMOS</div><p>"Se ha actualizado su línea de crédito revolvente de acuerdo a los parámetros de riesgo vigentes."</p></div>
+      </div>
+    </div>
+
+    <div class="card scenario">
+      <span class="label">Pago atrasado</span>
+      <div class="speech-grid">
+        <div class="speech good"><div class="who">ASÍ HABLAMOS</div><p>"Vimos que tu pago sigue pendiente. Puedes regularizarlo ahora mismo desde la app — si necesitas ayuda, seguimos aquí."</p></div>
+        <div class="speech bad"><div class="who">ASÍ NO HABLAMOS</div><p>"Aviso de mora: su pago se encuentra vencido. Regularice a la brevedad para evitar recargos e informes negativos."</p></div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <span class="num">7</span>
+      <div><h2>Excepciones y validaciones</h2><p>Lo que este playbook no puede resolver solo.</p></div>
+    </div>
+    <div class="card">
+      <ul class="rules">
+        <li>Cualquier tasa, cupo o beneficio mencionado en comunicación debe pasar por <b>Producto, Riesgo y Compliance</b> antes de publicarse.</li>
+        <li>No prometer montos o tasas sin condiciones visibles en la misma pieza.</li>
+        <li>No liderar adquisición con mecánica de sorteo o promoción — puede usarse como recurso puntual, nunca como mensaje principal.</li>
+        <li>Ninguna pieza promete aprobación, cupo o aumento de cupo antes de la evaluación de Riesgo. Toda comunicación de mora sigue el tono Cuidador del Manual de Comunicación — nunca un tono punitivo.</li>
+      </ul>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <span class="num">8</span>
+      <div><h2>Assets de referencia</h2><p>Del Brandbook — no se rediseña nada acá, solo se recuerda.</p></div>
+    </div>
+    <div class="card">
+      <div class="swatches">
+        <div class="swatch"><div class="chip" style="background:#6200EE"></div><div class="lbl">Morado MACH</div><div class="val mono">#6200EE</div></div>
+        <div class="swatch"><div class="chip" style="background:#FF00FF"></div><div class="lbl">Rosado</div><div class="val mono">#FF00FF</div></div>
+        <div class="swatch"><div class="chip" style="background:linear-gradient(135deg,#6200EE,#FF00FF)"></div><div class="lbl">Contenedor gradiente</div><div class="val">uso en bloques info</div></div>
+      </div>
+      <div class="asset-row">
+        <div><b>La Flecha (∧):</b> destaca frases clave, cierra botones de CTA, o se usa en fondos a gran escala.</div>
+        <div><b>Tipografía:</b> Loos (oficial) — Zalando Sans como alternativa digital aprobada por el Brandbook.</div>
+      </div>
+    </div>
+  </section>
+
+  <section class="section">
+    <div class="section-head">
+      <span class="num">9</span>
+      <div><h2>Antes de publicar</h2><p>Checklist rápido — marca lo que ya validaste en esta pieza.</p></div>
+    </div>
+    <div class="card">
+      <ul class="checklist" id="checklist">
+        <li><input type="checkbox" id="c1"><label for="c1">¿Usa el nombre de marca vigente (§4)?</label></li>
+        <li><input type="checkbox" id="c2"><label for="c2">¿Respeta el léxico de la sección 4?</label></li>
+        <li><input type="checkbox" id="c3"><label for="c3">¿El tono corresponde al momento (§3)?</label></li>
+        <li><input type="checkbox" id="c4"><label for="c4">¿Si menciona tasa, cupo o beneficio, fue validado por Compliance?</label></li>
+        <li><input type="checkbox" id="c5"><label for="c5">¿Evita liderar con mecánica de sorteo o promoción?</label></li>
+        <li><input type="checkbox" id="c6"><label for="c6">¿Evita "Toca MACHBANK" (retirado) y cierra con "Un banco, pero Mach" o el dispositivo vigente aprobado?</label></li>
+      </ul>
+    </div>
+  </section>
+
+  <footer>
+    <span>Playbook piloto · basado en Brandbook V.1 y Manual de Comunicación MACHBANK</span>
+    <span>Revisar en el próximo comité de marca</span>
+  </footer>
+
+</div>
+
+<script>
+  (function(){
+    try{
+      var boxes = document.querySelectorAll('#checklist input[type=checkbox]');
+      boxes.forEach(function(b){
+        var key = 'machbank-playbook-tarjeta-credito-' + b.id;
+        var saved = localStorage.getItem(key);
+        if(saved === '1') b.checked = true;
+        b.addEventListener('change', function(){
+          try{ localStorage.setItem(key, b.checked ? '1' : '0'); }catch(e){}
+        });
+      });
+    }catch(e){}
+  })();
+</script>
