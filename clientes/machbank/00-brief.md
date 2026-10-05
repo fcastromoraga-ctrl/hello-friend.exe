@@ -101,7 +101,7 @@ tres casos (56 vs 65 · 63 vs 69 · 59 vs 61).
 | 5 | Investigación cualitativa reciente | 🟡 **PARCIAL.** Existe tracking cuantitativo trimestral. Sin evidencia de cualitativo. |
 | 6 | ¿El nombre "MACHBANK" es revisable? | 🔴 **ABIERTA.** El Brandbook de ene-2026 sugiere decisión cerrada. Confirmar. |
 | 7 | Arquitectura con Bci a 3 años | 🔴 **ABIERTA.** |
-| 8 | Restricciones de presupuesto y plazo | 🔴 **ABIERTA.** Crítica ahora: la recomendación de reasignar inversión a medios no direccionables depende de esto. |
+| 8 | Restricciones de presupuesto y plazo | 🟡 **PARCIAL (actualizada 2026-10-05, fuente: minuta "MACHBANK FULL FUNNEL", 2026-09-14).** Se conoce: ventana de lanzamiento de la campaña de octubre (aprox. 12–15 oct 2026) con inversión inicial fuerte y comunicación sostenida nov-dic; formatos confirmados (radio digital + vía pública/OOH, explícitamente sin TV); lógica de asignación (evitar terreno fuerte de Mercado Pago/Tenpo/Falabella). Sigue sin conocerse: el **monto definitivo** — al 14-sept estaba en definición entre el usuario, Tania Doren y "Pelayo" (nuevo encargado de presupuestos), y UM (Javier Pinto) esperaba confirmación para activar el plan de medios. No se cierra a 🟢 hasta tener cifra confirmada. Ver `decisiones.md`, entrada 2026-09-14. |
 | 9 | ¿MACHBANK ofrece seguros como producto propio? | 🔴 **ABIERTA (2026-09-25).** El deck de traspaso MEAT (`13-lectura-traspaso-meat-y-matriz-comunicacion-diferenciada.md`) incluye un titular de "seguros" que no tiene respaldo en la oferta verificada de §3. |
 | 10 | ¿MACHBANK ofrece transferencias o pagos internacionales? | 🔴 **ABIERTA (2026-09-25).** §3 solo confirma transferencias sin costo a bancos nacionales. El deck de traspaso MEAT propone titulares de "pagar/transferir al exterior" sin que este expediente tenga evidencia de ese producto. Ver `13-lectura-traspaso-meat-y-matriz-comunicacion-diferenciada.md` §D. |
 
@@ -114,6 +114,7 @@ tres casos (56 vs 65 · 63 vs 69 · 59 vs 61).
 | N3 | ¿Se mide la retención de la cohorte captada por promoción por separado? | Sin eso, el forecast de MAU esconde el costo real de los beneficios. |
 | N4 | ¿Qué define el Brandbook de enero 2026 sobre tono? | No se puede proponer "tono renovado" en agosto sin saber qué se aprobó en enero. |
 | N5 | ¿Quién es el "líder" del tracking — Mercado Pago, Tenpo, o un banco tradicional? | Cambia por completo la lectura competitiva. |
+| N32 | La decisión "Acordada" en la minuta del 2026-09-14 de priorizar la nueva plataforma creativa ("Un banco pero MACH") por sobre piezas de performance — ¿aplica a todo el funnel, o solo a la etapa de awareness/consideración? | La minuta no lo especifica. Si aplica a todo el funnel, puede tensionar con el pedido explícito de UM de "evaluar después la incorporación de piezas de performance" en etapas de conversión — son objetivos distintos por etapa, no necesariamente en conflicto, pero la minuta no lo aclara. Preguntar antes de que se asuma una lectura u otra en la reunión de hoy (2026-10-05). |
 
 ## 6bis. Marcos confirmados por el líder de Branding (2026-08-10)
 
