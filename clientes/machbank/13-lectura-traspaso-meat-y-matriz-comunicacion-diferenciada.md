@@ -3,6 +3,11 @@
 **Fuente:** `MEAT_-_MACHBANK_____TRASPASO_JENARO.pdf` — 29 páginas, subido
 2026-09-25. Deck de traspaso de la campaña "Un banco pero MACH" de MEAT hacia
 el equipo de ejecución ("Jenaro"). Leído completo (págs. 1–29).
+**Actualización (2026-10-05):** se incorporó una versión posterior del mismo
+deck (`MEAT_-_MACHBANK_____TRASPASO_JENARO_1.pdf`, 32 páginas) y un segundo
+documento de producción (`MACHBANK-ONLINE_Cliente.pdf`, 80 páginas). El
+análisis de ambos, acotado a qué cambia respecto a lo ya leído, está en
+§G-bis. El resto de este documento (§A–§H) no se reescribió.
 **Relación con el expediente:** contenido de estrategia (problema, insight,
 territorio, promesa, racional creativo, código de identidad) es continuación
 directa de `12-lectura-propuesta-ganadora-vb4-campana2026.md` (VB4) — mismo
@@ -205,6 +210,107 @@ del usuario:
   elemento preponderante, y hoy no la llevan en ningún ejemplo visto de la
   agencia. Sin esta precisión, P46 (kit de assets) no tiene una regla clara
   que aplicar a la etapa de consideración.
+
+---
+
+## G-bis. Delta v29 → v32 (2026-10-05)
+
+El usuario subió una versión actualizada del mismo deck
+(`MEAT_-_MACHBANK_____TRASPASO_JENARO_1.pdf`, 32 págs., vs. 29 en la versión
+leída arriba) como preparación para la reunión "full funnel" de hoy. Esta
+sección documenta **solo lo que cambia** respecto al análisis de §A–§H, que
+sigue vigente. No se repite la evaluación completa.
+
+**Lo que se mantiene sin cambios (re-verificado, no solo asumido):**
+
+- La slide "Comunicación Diferenciada" es **idéntica** en v32: mismas
+  etiquetas CLIENTE/NO CLIENTE, mismo texto de titulares y de tensión. El
+  tratamiento wordmark-puro ("UN BANCO PERO" + "MACH") sigue sin estar
+  reservado para la audiencia MACHER — en el ejemplo de secuencia completa
+  (digital, 3 frames) sigue yendo seguido de la CTA "Descarga la app y hazte
+  cliente". **N30 sigue sin responder** — dos versiones consecutivas del deck
+  de la misma agencia no contienen la referencia gráfica MACHERS/NO MACHERS
+  que describió el encargo original.
+- Los 9 titulares "tan banco/tan MACH" (pág. 21 en v29) son idénticos en v32.
+- La Flecha (∧) **sigue sin aparecer como elemento preponderante** en ninguna
+  pieza de consideración (KV Consideración, ejemplo de pantalla digital,
+  piezas de vía pública). Aparece únicamente como isotipo de cierre o como
+  ícono decorativo pequeño junto a títulos de sección — el mismo patrón que
+  ya documentaba la tensión de **P48** con v29. No cambia la recomendación de
+  precisar P48 antes de instruir producción.
+
+**Lo que es nuevo en v32 (no estaba en la v29 leída, o no se citó en ella):**
+
+1. **Slides "Territorio Estratégico" y "Capacidades"** (nuevas, entre el
+   racional de marca y el racional creativo). "Territorio Estratégico" lista
+   textualmente: *"Permite hablar de sueldo. Permite hablar de crédito.
+   Permite hablar de ahorro. **Permite hablar de seguros.** Permite hablar de
+   funcionamiento. Permite incorporar Bci como respaldo. Permite construir
+   relación de largo plazo."* La slide "Capacidades" lista: *"Cuenta +
+   sueldo + pagos + TC + crédito + ahorro + **inversión** + **seguros**."*
+   Ambas son afirmaciones explícitas de la agencia de que seguros (y,
+   ahora también, inversión como producto propio y no solo como "Ahorro
+   24/7") son territorio y capacidad vigente de MACHBANK.
+2. **Contradicción interna dentro del mismo deck v32.** Pocas slides después
+   de "Capacidades", la slide **"Propuesta de valor | Oferta actual que
+   tenemos en MACHBANK"** (nueva en v32, no existía o no se citó en v29) lista
+   seis categorías de oferta real — Producto ancla, Beneficios de uso diario,
+   Seguridad, **Ahorro/Inversiones** ("Tu plata crece todos los días"),
+   Créditos, Modelo Atencional — y **no incluye una fila de seguros**. Es
+   decir, la propia agencia se contradice entre una slide de racional
+   ("permite hablar de seguros", "capacidades: ...+ seguros") y su slide de
+   oferta real verificada, que omite seguros por completo. Esta misma tabla
+   de "Oferta actual" aparece también, idéntica, en el documento de
+   producción `MACHBANK-ONLINE_Cliente.pdf` (ver abajo) — no es un error de
+   una sola slide aislada, es consistente entre dos documentos.
+3. **Documento de producción activa identificado:** `MACHBANK-ONLINE_Cliente.pdf`
+   (80 págs., fechas internas 1 y 2 de octubre de 2026) es, pese a su nombre,
+   **un deck de producción/aprobación de piezas** para el lanzamiento de
+   campaña de octubre — no un catálogo de productos para clientes. Contiene
+   guiones completos de TV/digital, radios, dirección de fotografía,
+   opciones musicales y mockups de OOH/digital con sellos de aprobación ("OK
+   PRODUCTORA", "FALTA ENDOSO"). Es la contraparte operativa de la minuta
+   "MACHBANK FULL FUNNEL" del 14-sept (`decisiones.md`): confirma visualmente
+   el plan de radio digital + OOH sin TV, y que el wordmark "MACH" (no la
+   Flecha) firma todas las piezas de awareness, consistente con P41.
+   **Hallazgo relevante para las Brechas #9/#10:** los guiones de producción
+   activos para octubre cubren exactamente **4 categorías — Sueldo, Alianzas
+   y Beneficios, Cuentas, Crédito —** y ninguna pieza de Seguros, Inversión o
+   Transferencias/Pagos al exterior está en producción. Esto **no resuelve**
+   las brechas, pero sí acota el riesgo inmediato: ningún titular dependiente
+   de esas brechas (#4, #6, #9 de la matriz de §E) está en el camino crítico
+   del lanzamiento de octubre.
+4. **TAM y matriz operativa de audiencia (nuevo, slide "Estructura de
+   mensajes").** La v32 cuantifica el "Total addressable market" — 1,1MM
+   NotMACHers a captar, 100K MACHers a despertar, 10K MACHers a vincular — y
+   formaliza el cruce audiencia × etapa: MACHERs/NotMACHers contra
+   Awareness/Consideración/Fidelizar/Captar. No estaba en el análisis de
+   v29. Dato de insumo útil para la discusión de presupuesto/alcance de hoy,
+   sin contradecir nada de lo ya registrado.
+5. **Segmentación CRM de adquisición/vinculación** (slide nueva, al cierre
+   del deck): detalla ofertas por tramo — clientes con/sin oferta de
+   crédito (dormidos y churns), no clientes, y vinculación de clientes vía
+   MACH Premium y Abono REM. Material de insumo para el playbook de
+   producto (P36) cuando se escriba; no se desarrolla aquí.
+6. **Línea de marca nueva:** "Un banco en capacidades. No bancario en
+   actitud." aparece como frase de apoyo bajo el racional, antes del
+   concepto. No reemplaza a "Un banco pero MACH" (P43) — convive como
+   desarrollo del mismo racional, no como tagline alternativo. Se deja
+   registrado por si reaparece en otras piezas; no se trata como una
+   quinta decisión de tagline a menos que el usuario lo confirme.
+
+**Efecto sobre las decisiones y brechas del expediente:**
+
+- **Brecha #9** pasa de 🔴 a 🟡 PARCIAL en `00-brief.md` §5 — no por
+  evidencia que la confirme, sino porque ahora hay evidencia en ambas
+  direcciones y la contradicción es más nítida y mejor documentada que el
+  2026-09-25. Ver detalle en `00-brief.md`.
+- **Brecha #10** se mantiene 🔴, con la nota de que los titulares
+  dependientes (#4, #9) no están en el set de producción activo de octubre.
+- **N30** se sincroniza a `00-brief.md` §6 (no vivía ahí antes) y se
+  reconfirma sin responder.
+- **P48** no se resuelve — se reconfirma con una segunda muestra (v32) que
+  la Flecha no es preponderante en piezas de consideración por producto.
 
 ---
 
