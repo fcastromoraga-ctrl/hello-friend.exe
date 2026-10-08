@@ -47,6 +47,16 @@ para disputar el liderazgo de billetera, demasiado cerca del tercero para
 relajarse. **Pelear la guerra de billeteras es pelear en el terreno donde
 MACHBANK no puede ganar.**
 
+**Nota (2026-10-05, fuente: minuta "MACHBANK FULL FUNNEL", 2026-09-14):** esta
+misma lectura se tradujo en una decisión concreta de medios para la campaña de
+octubre 2026: **sin televisión**, explícitamente para no competir directo
+contra Mercado Pago, Tenpo y Banco Falabella en un terreno que no es fuerte
+para la marca. El plan prioriza radio digital + vía pública (OOH). Es la
+primera vez que el expediente registra una decisión de *formato de medios*
+derivada de este diagnóstico de terreno competitivo — hasta ahora la lectura
+se había aplicado solo a categoría/mensaje, no a dónde invertir medios. Ver
+`decisiones.md`, entrada 2026-09-14.
+
 ---
 
 ## 1.3 White spaces — dónde sí se puede ganar
